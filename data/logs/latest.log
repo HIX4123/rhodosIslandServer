@@ -61,3 +61,26 @@
 [04:11:38] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
 [04:11:38] [Server thread/INFO]: [3m[37m[Rcon: Gamerule keepInventory is now set to: true][0m
 [04:11:38] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[04:14:47] [Server thread/INFO]: .wizness823 issued server command: /gamemode creative
+[04:14:47] [Server thread/INFO]: [3m[37m[.wizness823: Set own game mode to Creative Mode][0m
+[04:15:01] [Server thread/INFO]: .wizness823 issued server command: /kill wizness823
+[04:15:15] [Server thread/INFO]: .wizness823 issued server command: /kill .wizness823
+[04:15:15] [Server thread/INFO]: .wizness823 was killed
+[04:15:15] [Server thread/INFO]: [3m[37m[.wizness823: Killed .wizness823][0m
+[04:15:27] [Server thread/INFO]: .wizness823 issued server command: /gamemode creative
+[04:15:33] [Server thread/INFO]: .wizness823 issued server command: /gamemode spectator
+[04:15:33] [Server thread/INFO]: [3m[37m[.wizness823: Set own game mode to Spectator Mode][0m
+[04:16:23] [Server thread/INFO]: .wizness823 issued server command: /gamemode survival
+[04:16:23] [Server thread/INFO]: [3m[37m[.wizness823: Set own game mode to Survival Mode][0m
+[04:16:35] [Server thread/INFO]: .wizness823 issued server command: /gamemode spectator
+[04:16:35] [Server thread/INFO]: [3m[37m[.wizness823: Set own game mode to Spectator Mode][0m
+[04:17:56] [Server thread/INFO]: .wizness823 issued server command: /gamemode creative
+[04:17:56] [Server thread/INFO]: [3m[37m[.wizness823: Set own game mode to Creative Mode][0m
+[04:18:44] [Server thread/INFO]: .wizness823 issued server command: /gamemode spectator
+[04:18:44] [Server thread/INFO]: [3m[37m[.wizness823: Set own game mode to Spectator Mode][0m
+[04:19:52] [Server thread/INFO]: .wizness823 issued server command: /gamemode creative
+[04:19:52] [Server thread/INFO]: [3m[37m[.wizness823: Set own game mode to Creative Mode][0m
+[04:20:05] [Server thread/INFO]: .wizness823 has made the advancement [92m[Ice Bucket Challenge][0m
+[04:20:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4280ms or 85 ticks behind
+[04:23:13] [Server thread/INFO]: .wizness823 issued server command: /gamemode creative
+[04:24:44] [Server thread/INFO]: .wizness823 issued server command: /gamemode creative

@@ -414,3 +414,37 @@
 [13:24:43] [Async Chat Thread - #31/INFO]: [Not Secure] <.Tyrine74> 난 깨지면 다야로 인첸트 해야지
 [13:28:57] [Server thread/INFO]: SeworL was slain by Enderman
 [13:29:02] [Async Chat Thread - #33/INFO]: [Not Secure] <SeworL> 깜짝아
+[13:30:13] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[13:30:13] [localSession-7-3/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client timed out
+[13:30:13] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[13:30:13] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[13:32:39] [Server thread/INFO]: .lasayou has made the advancement [92m[A Seedy Place][0m
+[13:45:25] [Server thread/INFO]: .lasayou was burned to a crisp while fighting Zombie
+[13:46:12] [Async Chat Thread - #35/INFO]: [Not Secure] <.lasayou> ;-;
+[13:46:41] [Async Chat Thread - #35/INFO]: [Not Secure] <.lasayou> 아 근데
+[13:46:46] [Async Chat Thread - #35/INFO]: [Not Secure] <.lasayou> 달릴때마다
+[13:46:53] [Async Chat Thread - #35/INFO]: [Not Secure] <.lasayou> 화면이 자꾸 줌인되는데
+[13:46:56] [Async Chat Thread - #35/INFO]: [Not Secure] <.lasayou> 끄응
+[13:47:01] [Async Chat Thread - #35/INFO]: [Not Secure] <SeworL> 아
+[13:47:17] [Async Chat Thread - #35/INFO]: [Not Secure] <SeworL> 접근성 설정에
+[13:47:26] [Async Chat Thread - #35/INFO]: [Not Secure] <SeworL> 시야 효과 왜곡 효과 있나요
+[13:48:01] [Async Chat Thread - #35/INFO]: [Not Secure] <.lasayou> fov?
+[13:48:03] [Server thread/INFO]: SeworL was slain by Iron Golem
+[13:48:07] [Async Chat Thread - #35/INFO]: [Not Secure] <.lasayou> 끄니깐 된거 같야요?
+[13:48:10] [Async Chat Thread - #35/INFO]: [Not Secure] <SeworL> 오
+[13:48:22] [Server thread/INFO]: SeworL issued server command: /tp .lasayou
+[13:48:22] [Server thread/INFO]: [3m[37m[SeworL: Teleported SeworL to .lasayou][0m
+[13:48:53] [Async Chat Thread - #35/INFO]: [Not Secure] <SeworL> 굿굿
+[13:48:59] [Async Chat Thread - #35/INFO]: [Not Secure] <.lasayou> 혹시 남는 켈프 하나라도 없나요
+[13:49:01] [Server thread/INFO]: SeworL issued server command: /spawnpoint
+[13:49:01] [Server thread/INFO]: [3m[37m[SeworL: Set spawn point to -1487, 70, -1006 [0.0] in minecraft:overworld for SeworL][0m
+[13:49:09] [Async Chat Thread - #35/INFO]: [Not Secure] <SeworL> 켈프는 안캐왔는데
+[13:49:14] [Async Chat Thread - #35/INFO]: [Not Secure] <SeworL> 어디있는지는 봤어요
+[13:49:20] [Async Chat Thread - #35/INFO]: [Not Secure] <SeworL> 찾아와볼게유
+[13:49:26] [Async Chat Thread - #35/INFO]: [Not Secure] <.lasayou> 엣
+[13:57:03] [epollEventLoopGroup-4-4/INFO]: Player connected with username Tyrine74
+[13:57:03] [localSession-7-1/INFO]: Tyrine74 (logged in as: Tyrine74) has connected to the Java server
+[13:57:04] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[13:57:04] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[13:57:04] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 29140 at ([world]-1486.7146, 70.5625, -1002.2338)
+[13:59:14] [Async Chat Thread - #38/INFO]: [Not Secure] <.Tyrine74> 오 내 가 유ㅏㅆ다

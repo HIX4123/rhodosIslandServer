@@ -448,3 +448,111 @@
 [13:57:04] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
 [13:57:04] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 29140 at ([world]-1486.7146, 70.5625, -1002.2338)
 [13:59:14] [Async Chat Thread - #38/INFO]: [Not Secure] <.Tyrine74> 오 내 가 유ㅏㅆ다
+[14:01:53] [localSession-7-4/INFO]: lasayou has disconnected from the Java server because of 너무 오랫동안 가만히 있었습니다!
+[14:01:53] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .lasayou disconnected
+[14:01:53] [Server thread/INFO]: .lasayou lost connection: You have been idle for too long!
+[14:01:53] [Server thread/INFO]: [93m.lasayou left the game[0m
+[14:02:41] [epollEventLoopGroup-4-1/INFO]: Player connected with username lasayou
+[14:02:41] [localSession-7-2/INFO]: lasayou (logged in as: lasayou) has connected to the Java server
+[14:02:42] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[14:02:42] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[14:02:42] [Server thread/INFO]: .lasayou[/58.150.55.168:0] logged in with entity id 31937 at ([world]-1544.654, 64.0, -922.5416)
+[14:04:44] [epollEventLoopGroup-4-2/INFO]: Player connected with username syhana7338
+[14:04:44] [localSession-7-3/INFO]: syhana7338 (logged in as: syhana7338) has connected to the Java server
+[14:04:45] [Server thread/INFO]: Floodgate player logged in as .syhana7338 joined (UUID: 00000000-0000-0000-0009-01fcf632faa0)
+[14:04:45] [Server thread/INFO]: [93m.syhana7338 joined the game[0m
+[14:04:45] [Server thread/INFO]: .syhana7338[/58.122.12.101:0] logged in with entity id 32548 at ([world]-20.498272, 80.0, -18.560497)
+[14:05:03] [Async Chat Thread - #39/INFO]: [Not Secure] <SeworL> ㅋㅋㅋ까비용
+[14:05:06] [Async Chat Thread - #39/INFO]: [Not Secure] <.lasayou> 크엉억ㄱ
+[14:05:15] [Async Chat Thread - #39/INFO]: [Not Secure] <.lasayou> 헥헥
+[14:05:21] [Async Chat Thread - #39/INFO]: [Not Secure] <.lasayou> 3인칭이라
+[14:05:25] [Async Chat Thread - #39/INFO]: [Not Secure] <.lasayou> 가둬지니...
+[14:05:26] [Server thread/INFO]: .syhana7338 issued server command: /tp .syhana7338
+[14:05:26] [Server thread/INFO]: [3m[37m[.syhana7338: Teleported .syhana7338 to .syhana7338][0m
+[14:05:27] [Async Chat Thread - #39/INFO]: [Not Secure] <.lasayou> 끄응
+[14:05:28] [Async Chat Thread - #39/INFO]: [Not Secure] <SeworL> ㅋㅋㅋ
+[14:05:34] [Server thread/INFO]: SeworL issued server command: /deop @a
+[14:05:34] [Server thread/INFO]: [3m[37m[SeworL: Made SeworL no longer a server operator][0m
+[14:05:34] [Server thread/INFO]: [3m[37m[SeworL: Made .Tyrine74 no longer a server operator][0m
+[14:05:34] [Server thread/INFO]: [3m[37m[SeworL: Made .syhana7338 no longer a server operator][0m
+[14:07:09] [Server thread/INFO]: SeworL has made the advancement [92m[A Seedy Place][0m
+[14:08:13] [Async Chat Thread - #41/INFO]: [Not Secure] <SeworL> 근데 시하나넴은 어디신겨
+[14:08:31] [Async Chat Thread - #41/INFO]: [Not Secure] <.syhana7338> 저요?
+[14:08:34] [Async Chat Thread - #41/INFO]: [Not Secure] <SeworL> 내
+[14:08:42] [Async Chat Thread - #41/INFO]: [Not Secure] <.syhana7338> 돌산이요
+[14:08:58] [Async Chat Thread - #41/INFO]: [Not Secure] <.syhana7338> 여기 횃불이 있어요
+[14:09:04] [Async Chat Thread - #43/INFO]: [Not Secure] <.Tyrine74> 벚나무 구하러 가야지
+[14:09:07] [Async Chat Thread - #43/INFO]: [Not Secure] <SeworL> 내가 지나온곳에
+[14:09:10] [Async Chat Thread - #43/INFO]: [Not Secure] <SeworL> 돌산은 ㅓㅄ엇는데
+[14:09:13] [Async Chat Thread - #43/INFO]: [Not Secure] <SeworL> 흚
+[14:09:15] [Server thread/INFO]: .lasayou drowned
+[14:10:40] [Async Chat Thread - #44/INFO]: [Not Secure] <.Tyrine74> 2ㅈ청크를 땡겨도 티정은 이하해줄거야
+[14:10:52] [Async Chat Thread - #44/INFO]: [Not Secure] <SeworL> 월드보더라도 둬야 하나..
+[14:11:30] [Async Chat Thread - #46/INFO]: [Not Secure] <.syhana7338> 근데 다들 어디있어요?
+[14:11:35] [Server thread/INFO]: .syhana7338 was slain by Zombie
+[14:11:38] [Async Chat Thread - #45/INFO]: [Not Secure] <SeworL> -1500 -1000
+[14:11:40] [Server thread/INFO]: .lasayou has made the advancement [92m[Monster Hunter][0m
+[14:11:44] [Async Chat Thread - #45/INFO]: [Not Secure] <.lasayou> 으어어ㅓㅇ
+[14:11:50] [Async Chat Thread - #45/INFO]: [Not Secure] <.lasayou> 좀비랑 일대알하는데
+[14:11:56] [Async Chat Thread - #45/INFO]: [Not Secure] <.lasayou> 하트 한칸만 남는개 정상인가요
+[14:12:05] [Async Chat Thread - #45/INFO]: [Not Secure] <SeworL> 맨손이고 처음이면
+[14:12:08] [Server thread/WARN]: .Tyrine74 moved wrongly!, (0.4200000000000017)
+[14:12:21] [Async Chat Thread - #45/INFO]: [Not Secure] <SeworL> 사실 이긴쪽이 나은편일지도
+[14:12:59] [Async Chat Thread - #45/INFO]: [Not Secure] <.lasayou> 엄마야 ㅠㅠ
+[14:13:03] [Server thread/INFO]: .syhana7338 has made the advancement [92m[Stone Age][0m
+[14:14:02] [Async Chat Thread - #47/INFO]: [Not Secure] <.syhana7338> 티아님 혹시 횃불 따라가면 만날수 있나요?
+[14:14:10] [Async Chat Thread - #47/INFO]: [Not Secure] <SeworL> 아마 아닐걸요
+[14:14:15] [Async Chat Thread - #47/INFO]: [Not Secure] <SeworL> 어디에요? 마중나갈게요
+[14:14:22] [Async Chat Thread - #47/INFO]: [Not Secure] <.lasayou> 이거 물속애 있는애 어캐 잡아요
+[14:14:31] [Async Chat Thread - #47/INFO]: [Not Secure] <SeworL> 에
+[14:14:33] [Async Chat Thread - #47/INFO]: [Not Secure] <.syhana7338> -70 62 -21
+[14:14:42] [Async Chat Thread - #47/INFO]: [Not Secure] <SeworL> 스폰이네
+[14:15:10] [Async Chat Thread - #47/INFO]: [Not Secure] <.syhana7338> 여기 보트가
+[14:15:29] [Async Chat Thread - #47/INFO]: [Not Secure] <SeworL> 그 보트 타고
+[14:15:38] [Async Chat Thread - #47/INFO]: [Not Secure] <SeworL> 쭉 강따라 오면 되긴 하는데
+[14:16:10] [Async Chat Thread - #47/INFO]: [Not Secure] <SeworL> 지금 스폰쪽으로 가고 이써유
+[14:16:25] [Async Chat Thread - #48/INFO]: [Not Secure] <.syhana7338> 그럼 여기 가만히 있을까요?
+[14:16:26] [Server thread/WARN]: Bamboo Raft (vehicle of SeworL) moved wrongly! 0.3687870635822037
+[14:16:27] [Server thread/WARN]: Bamboo Raft (vehicle of SeworL) moved wrongly! 0.3979937465396688
+[14:18:36] [Async Chat Thread - #49/INFO]: [Not Secure] <.syhana7338> 대나무 숲이다
+[14:18:44] [Async Chat Thread - #49/INFO]: [Not Secure] <SeworL> 좌표 어디세요
+[14:19:00] [Server thread/INFO]: .syhana7338 was slain by Zombie
+[14:19:02] [Async Chat Thread - #49/INFO]: [Not Secure] <SeworL> 엇
+[14:19:13] [Async Chat Thread - #50/INFO]: [Not Secure] <.syhana7338> 리스폰 장소요
+[14:19:20] [Async Chat Thread - #50/INFO]: [Not Secure] <SeworL> ㅋㅋㅋㅋㅋㅋ
+[14:19:26] [Async Chat Thread - #49/INFO]: [Not Secure] <.syhana7338> 비좀 ㅋㅋㅋ
+[14:20:16] [Async Chat Thread - #50/INFO]: [Not Secure] <SeworL> 보트는 챙기셨어요?
+[14:20:23] [Async Chat Thread - #50/INFO]: [Not Secure] <.syhana7338> 네
+[14:20:28] [Async Chat Thread - #50/INFO]: [Not Secure] <SeworL> ㅇㅋ
+[14:20:31] [Async Chat Thread - #50/INFO]: [Not Secure] <SeworL> 거의 다ㅘ가요
+[14:20:34] [Async Chat Thread - #50/INFO]: [Not Secure] <.Tyrine74> ㅋㅋㅋ
+[14:20:37] [Async Chat Thread - #50/INFO]: [Not Secure] <.Tyrine74> 개 얼탱이 없네
+[14:20:40] [Async Chat Thread - #50/INFO]: [Not Secure] <SeworL> ?
+[14:20:42] [Async Chat Thread - #50/INFO]: [Not Secure] <.Tyrine74> 어딴것도 난파선이라고
+[14:20:46] [Async Chat Thread - #50/INFO]: [Not Secure] <.Tyrine74> 이건 정박한게 ㅋㅋ
+[14:20:52] [Async Chat Thread - #50/INFO]: [Not Secure] <SeworL> 으헤
+[14:21:10] [Async Chat Thread - #50/INFO]: [Not Secure] <SeworL> 찾았다
+[14:21:31] [Async Chat Thread - #50/INFO]: [Not Secure] <SeworL> 어어어
+[14:21:33] [Async Chat Thread - #50/INFO]: [Not Secure] <SeworL> 저죽어요
+[14:21:38] [Async Chat Thread - #50/INFO]: [Not Secure] <SeworL> 여까지 다시와야될수잇서
+[14:21:38] [Async Chat Thread - #50/INFO]: [Not Secure] <SeworL> ㅋㅋㅋㅋㅋㅋㅋ
+[14:21:40] [Async Chat Thread - #50/INFO]: [Not Secure] <.syhana7338> 놀랬잖아요
+[14:21:45] [Async Chat Thread - #50/INFO]: [Not Secure] <SeworL> 일로오시죠
+[14:21:51] [Async Chat Thread - #50/INFO]: [Not Secure] <SeworL> 바다로 가는게 안전할거예요
+[14:24:45] [Async Chat Thread - #51/INFO]: [Not Secure] <.Tyrine74> 어두
+[14:24:47] [Async Chat Thread - #51/INFO]: [Not Secure] <.Tyrine74> 워요
+[14:24:54] [Async Chat Thread - #51/INFO]: [Not Secure] <.Tyrine74> 살랴
+[14:24:55] [Async Chat Thread - #51/INFO]: [Not Secure] <.Tyrine74> 줘요
+[14:25:11] [Async Chat Thread - #52/INFO]: [Not Secure] <.lasayou> 어ㅓㅓ 앞에 크리퍼가..
+[14:26:09] [Server thread/INFO]: .lasayou has made the advancement [92m[Sweet Dreams][0m
+[14:27:35] [Server thread/WARN]: Jungle Boat (vehicle of .syhana7338) moved wrongly! 0.37850356521084905
+[14:27:36] [Server thread/WARN]: Jungle Boat (vehicle of .syhana7338) moved wrongly! 0.43314434541389346
+[14:27:36] [Server thread/WARN]: Jungle Boat (vehicle of .syhana7338) moved wrongly! 0.7071735733188689
+[14:27:36] [Server thread/WARN]: Jungle Boat (vehicle of .syhana7338) moved wrongly! 0.3530707606114447
+[14:28:16] [Server thread/WARN]: Bamboo Raft (vehicle of SeworL) moved wrongly! 0.42253485006483515
+[14:29:37] [Async Chat Thread - #53/INFO]: [Not Secure] <.syhana7338> 티아님 보트 타고 갈때
+[14:29:46] [Async Chat Thread - #53/INFO]: [Not Secure] <.syhana7338> 엄청 부들부들 거린다고 해야하나
+[14:29:52] [Async Chat Thread - #53/INFO]: [Not Secure] <.syhana7338> 암튼 그러던데요?
+[14:29:54] [Async Chat Thread - #54/INFO]: [Not Secure] <SeworL> 속도 맞춘다고
+[14:29:59] [Async Chat Thread - #54/INFO]: [Not Secure] <.syhana7338> 보는데 눈 아파서
+[14:29:59] [Async Chat Thread - #54/INFO]: [Not Secure] <SeworL> 일부러 와리가리 엄청하긴 했어ㅛ

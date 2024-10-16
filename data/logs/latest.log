@@ -310,3 +310,19 @@
 [17:37:59] [Server thread/INFO]: Black0Last has made the advancement [92m[The Parrots and the Bats][0m
 [17:40:08] [Server thread/INFO]: .Tyrine74 has made the advancement [92m[You've Got a Friend in Me][0m
 [17:52:50] [Server thread/INFO]: Villager Villager['Villager'/96872, uuid='6d4e0ea6-a0d8-4bd9-9132-2e716551f327', l='ServerLevel[world]', x=1171.63, y=68.00, z=-2530.07, cpos=[73, -159], tl=200, v=true] died, message: 'Villager suffocated in a wall'
+[18:02:16] [Geyser Spigot connection thread-6-3/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[18:02:16] [localSession-7-2/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client disconnected
+[18:02:16] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[18:02:16] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[18:04:01] [epollEventLoopGroup-4-3/INFO]: Player connected with username Tyrine74
+[18:04:01] [localSession-7-3/INFO]: Tyrine74 (logged in as: Tyrine74) has connected to the Java server
+[18:04:02] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[18:04:02] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[18:04:02] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 104325 at ([world]-613.8141, 63.0, -1760.1273)
+[18:04:26] [Async Chat Thread - #34/INFO]: [Not Secure] <.Tyrine74> ㄱㅅㄱㅅ
+[18:14:45] [Server thread/INFO]: Villager Villager['Villager'/81859, uuid='5fdedf42-b002-4898-a45f-61dcf76833c2', l='ServerLevel[world]', x=-357.30, y=72.00, z=-812.98, cpos=[-23, -51], tl=14646, v=true] died, message: 'Villager was slain by Zombie'
+[18:23:20] [localSession-7-3/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client timed out
+[18:23:20] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[18:23:20] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[18:23:20] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[18:26:41] [Server thread/INFO]: Black0Last has made the advancement [92m[What a Deal!][0m

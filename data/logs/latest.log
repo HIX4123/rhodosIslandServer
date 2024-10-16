@@ -181,3 +181,113 @@
 [16:22:11] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .lasayou disconnected
 [16:22:11] [Server thread/INFO]: .lasayou lost connection: Internal Exception: java.nio.channels.ClosedChannelException
 [16:22:11] [Server thread/INFO]: [93m.lasayou left the game[0m
+[16:30:24] [User Authenticator #1/INFO]: UUID of player SeworL is a622774f-7d34-432a-9182-348fe6f6f2dc
+[16:30:24] [Server thread/INFO]: [93mSeworL joined the game[0m
+[16:30:24] [Server thread/INFO]: SeworL[/113.131.33.203:50136] logged in with entity id 41750 at ([world]-1484.5632403023546, 70.0, -1003.7620904340383)
+[16:30:43] [epollEventLoopGroup-4-4/INFO]: Player connected with username lasayou
+[16:30:43] [localSession-7-1/INFO]: lasayou (logged in as: lasayou) has connected to the Java server
+[16:30:44] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[16:30:44] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[16:30:44] [Server thread/INFO]: .lasayou[/112.152.226.202:0] logged in with entity id 42420 at ([world]-8.5, 87.0, -32.5)
+[16:31:40] [Async Chat Thread - #19/INFO]: [Not Secure] <.lasayou> 아
+[16:31:46] [Async Chat Thread - #19/INFO]: [Not Secure] <.lasayou> 버트도 없다
+[16:31:57] [Async Chat Thread - #19/INFO]: [Not Secure] <.lasayou> 오 있다
+[16:33:59] [Async Chat Thread - #21/INFO]: [Not Secure] <.Tyrine74> 시부레
+[16:34:03] [Async Chat Thread - #21/INFO]: [Not Secure] <.Tyrine74> 뱅그로부는 2번인데
+[16:34:08] [Async Chat Thread - #21/INFO]: [Not Secure] <.Tyrine74> 벚나무를 한번
+[16:34:19] [Async Chat Thread - #21/INFO]: [Not Secure] <.Tyrine74> 도 못보네
+[16:34:37] [Async Chat Thread - #22/INFO]: [Not Secure] <SeworL> gjr
+[16:34:39] [Async Chat Thread - #22/INFO]: [Not Secure] <SeworL> 헉
+[16:34:43] [Async Chat Thread - #22/INFO]: [Not Secure] <SeworL> 백인 주민 둘 사이에서
+[16:34:48] [Async Chat Thread - #22/INFO]: [Not Secure] <SeworL> 흑인 잼민이 주민이 태어났어
+[16:34:54] [Async Chat Thread - #21/INFO]: [Not Secure] <SeworL> 너 아빠가 누구야
+[16:35:29] [Async Chat Thread - #22/INFO]: [Not Secure] <SeworL> 이런 미띤 마크판 NTR을 보게될 줄이야
+[16:35:38] [Server thread/INFO]: .Tyrine74 was impaled by Drowned
+[16:36:09] [Async Chat Thread - #22/INFO]: [Not Secure] <.Tyrine74> 자연아 날 죽여라
+[16:36:14] [Async Chat Thread - #22/INFO]: [Not Secure] <.Tyrine74> +로 가봐야겠서
+[16:36:29] [Server thread/INFO]: .Tyrine74 drowned
+[16:41:14] [Server thread/WARN]: .Tyrine74 moved wrongly!, (0.4199999999999875)
+[16:41:34] [Async Chat Thread - #24/INFO]: [Not Secure] <SeworL> 어라
+[16:41:42] [Async Chat Thread - #24/INFO]: [Not Secure] <SeworL> 강아지가 갑자기 나한테 왔다는건
+[16:41:53] [Async Chat Thread - #24/INFO]: [Not Secure] <SeworL> 강아지가 있던쪽 청크가 로드됐다는건데
+[16:41:57] [Async Chat Thread - #24/INFO]: [Not Secure] <SeworL> 사유님 다와가시나
+[16:43:30] [Async Chat Thread - #25/INFO]: [Not Secure] <.lasayou> 하 enckrrr
+[16:43:35] [Async Chat Thread - #25/INFO]: [Not Secure] <.lasayou> 두착갷
+[16:43:40] [Async Chat Thread - #25/INFO]: [Not Secure] <.lasayou> 도착해썽요
+[16:43:44] [Async Chat Thread - #25/INFO]: [Not Secure] <.lasayou> 죽을맛이내요
+[16:43:51] [Async Chat Thread - #25/INFO]: [Not Secure] <SeworL> ㅋㅋㅋㅋㅋㅋ
+[16:43:58] [Async Chat Thread - #25/INFO]: [Not Secure] <SeworL> 침대 하나 들고가서
+[16:44:10] [Async Chat Thread - #25/INFO]: [Not Secure] <SeworL> 라사유넴 은신처 근처에더 두세유
+[16:44:30] [Async Chat Thread - #25/INFO]: [Not Secure] <.lasayou> 이거 뿌셔도 된,ㄴ건갸요
+[16:44:33] [Async Chat Thread - #25/INFO]: [Not Secure] <SeworL> 넹
+[16:45:45] [Server thread/WARN]: .lasayou moved too quickly! 9.554589999999962,-1.0,-2.7962700000000495
+[16:47:07] [Server thread/INFO]: SeworL issued server command: /spark profiler open
+[16:47:10] [localSession-7-1/INFO]: lasayou has disconnected from the Java server because of Bedrock client timed out
+[16:47:10] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .lasayou disconnected
+[16:47:10] [Server thread/INFO]: .lasayou lost connection: Disconnected
+[16:47:10] [Server thread/INFO]: [93m.lasayou left the game[0m
+[16:47:12] [Paper Async Task Handler Thread - 0/WARN]: A command execution has not completed after 5 seconds, it *might* be stuck. Trace: 
+  java.base/sun.nio.ch.Net.poll(Native Method)
+  java.base/sun.nio.ch.NioSocketImpl.park(Unknown Source)
+  java.base/sun.nio.ch.NioSocketImpl.timedRead(Unknown Source)
+  java.base/sun.nio.ch.NioSocketImpl.implRead(Unknown Source)
+  java.base/sun.nio.ch.NioSocketImpl.read(Unknown Source)
+  java.base/sun.nio.ch.NioSocketImpl$1.read(Unknown Source)
+  java.base/java.net.Socket$SocketInputStream.read(Unknown Source)
+  java.base/sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+  java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+  java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(Unknown Source)
+  java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(Unknown Source)
+  java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(Unknown Source)
+  java.base/java.io.BufferedInputStream.fill(Unknown Source)
+  java.base/java.io.BufferedInputStream.read1(Unknown Source)
+  java.base/java.io.BufferedInputStream.implRead(Unknown Source)
+  java.base/java.io.BufferedInputStream.read(Unknown Source)
+  java.base/sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+  java.base/sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+  java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+  java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+  java.base/sun.net.www.protocol.http.HttpURLConnection.getHeaderField(Unknown Source)
+  java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getHeaderField(Unknown Source)
+  me.lucko.spark.paper.common.util.BytebinClient.postContent(BytebinClient.java:72)
+  me.lucko.spark.paper.common.util.BytebinClient.postContent(BytebinClient.java:84)
+  me.lucko.spark.paper.common.command.modules.SamplerModule.handleOpen(SamplerModule.java:472)
+  me.lucko.spark.paper.common.command.modules.SamplerModule.profilerOpen(SamplerModule.java:354)
+  me.lucko.spark.paper.common.command.modules.SamplerModule.profiler(SamplerModule.java:125)
+  me.lucko.spark.paper.common.SparkPlatform.executeCommand0(SparkPlatform.java:473)
+  me.lucko.spark.paper.common.SparkPlatform.lambda$executeCommand$3(SparkPlatform.java:370)
+  io.papermc.paper.SparksFly$1.lambda$catching$0(SparksFly.java:56)
+  java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+  java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+  java.base/java.lang.Thread.run(Unknown Source)
+[16:47:12] [Paper Async Task Handler Thread - 0/WARN]: If the command subsequently completes without any errors, this warning should be ignored. :)
+[16:47:14] [Paper Async Task Handler Thread - 1/INFO]: [37m[90m[[1m[93m⚡[0m[90m][37m [33mProfiler live viewer:[0m
+[16:47:14] [Paper Async Task Handler Thread - 1/INFO]: [37mhttps://spark.lucko.me/nhSo3SSZIK[0m
+[16:47:14] [Paper Async Task Handler Thread - 1/INFO]: 
+[16:47:14] [Paper Async Task Handler Thread - 1/INFO]: [37m(NOTE: this link is temporary and will expire after a short period of time. If you need a link to share with other people (e.g. in a bug report), please use [97m/spark profiler stop[37m instead.)[0m
+[16:47:16] [Async Chat Thread - #28/INFO]: [Not Secure] <.Tyrine74> 마을...
+[16:47:18] [Async Chat Thread - #28/INFO]: [Not Secure] <.Tyrine74> 그지같네
+[16:47:32] [WebSocketConnectReadThread-482/INFO]: [Viewer - DcX7VAAXkpDG74R] Client connected: clientId=2cd9-5d75, keyhash=128bd8, desc=NAVER Whale Browser on Windows
+[16:47:35] [epollEventLoopGroup-4-2/INFO]: Player connected with username lasayou
+[16:47:35] [localSession-7-2/INFO]: lasayou (logged in as: lasayou) has connected to the Java server
+[16:47:36] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[16:47:36] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[16:47:36] [Server thread/INFO]: .lasayou[/112.152.226.202:0] logged in with entity id 57933 at ([world]-1458.30001, 68.0, -997.0584)
+[16:47:52] [Async Chat Thread - #27/INFO]: [Not Secure] <.lasayou> 어라 왜 여깄지
+[16:48:08] [Async Chat Thread - #28/INFO]: [Not Secure] <.lasayou> 제대로 튕겼었냐보네요
+[16:48:26] [localSession-7-2/INFO]: lasayou has disconnected from the Java server because of Bedrock client disconnected
+[16:48:26] [Geyser Spigot connection thread-6-3/INFO]: Floodgate player logged in as .lasayou disconnected
+[16:48:26] [Server thread/INFO]: .lasayou lost connection: Disconnected
+[16:48:26] [Server thread/INFO]: [93m.lasayou left the game[0m
+[16:50:12] [Server thread/INFO]: SeworL issued server command: /spark profiler stop
+[16:50:12] [Paper Async Task Handler Thread - 0/INFO]: [37m[90m[[1m[93m⚡[0m[90m][37m Stopping the profiler & uploading results, please wait...[0m
+[16:50:16] [Paper Async Task Handler Thread - 0/INFO]: [37m[90m[[1m[93m⚡[0m[90m][37m [33mProfiler stopped & upload complete![0m
+[16:50:16] [Paper Async Task Handler Thread - 0/INFO]: [37mhttps://spark.lucko.me/vc6h9JMIDc[0m
+[16:50:16] [Paper Async Task Handler Thread - 0/INFO]: [37m[90m[[1m[93m⚡[0m[90m][37m Restarted the background profiler. [90m(If you don't want this to happen, run: /spark profiler cancel)[0m
+[16:51:10] [Async Chat Thread - #29/INFO]: [Not Secure] <.Tyrine74> 산호초도 보네..
+[16:54:02] [Paper Common Worker #0/ERROR]: Failed to fetch mob spawner entity at (1355, -33, -1356)
+[16:54:16] [Server thread/WARN]: .Tyrine74 moved wrongly!, (0.4200000000000017)
+[16:54:42] [Server thread/INFO]: SeworL issued server command: /ping .Tyrine74
+[16:57:02] [Server thread/INFO]: SeworL lost connection: Disconnected
+[16:57:02] [Server thread/INFO]: [93mSeworL left the game[0m
+[16:58:14] [Server thread/WARN]: .Tyrine74 moved wrongly!, (0.4200000000000017)

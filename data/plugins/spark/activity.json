@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "SeworL",
+      "uniqueId": "a622774f-7d34-432a-9182-348fe6f6f2dc"
+    },
+    "time": 1729097416228,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/vc6h9JMIDc"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SeworL",
+      "uniqueId": "a622774f-7d34-432a-9182-348fe6f6f2dc"
+    },
+    "time": 1729097234998,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/nhSo3SSZIK"
+    }
+  }
+]

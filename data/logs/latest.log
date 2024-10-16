@@ -329,3 +329,21 @@
 [19:13:49] [Server thread/INFO]: Black0Last drowned
 [19:15:00] [Server thread/INFO]: Black0Last lost connection: Disconnected
 [19:15:00] [Server thread/INFO]: [93mBlack0Last left the game[0m
+[22:55:20] [localSession-7-4/INFO]: wizness823 (logged in as: wizness823) has connected to the Java server
+[22:55:20] [epollEventLoopGroup-4-4/INFO]: Player connected with username wizness823
+[22:55:21] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
+[22:55:21] [Server thread/INFO]: [93m.wizness823 joined the game[0m
+[22:55:21] [Server thread/INFO]: .wizness823[/1.216.43.226:0] logged in with entity id 123005 at ([world]-1432.088134765625, 62.23747863769531, -1767.4688720703125)
+[22:55:59] [localSession-7-4/INFO]: wizness823 has disconnected from the Java server because of Bedrock client timed out
+[22:55:59] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .wizness823 disconnected
+[22:56:00] [Server thread/INFO]: .wizness823 lost connection: Disconnected
+[22:56:00] [Server thread/INFO]: [93m.wizness823 left the game[0m
+[22:56:10] [epollEventLoopGroup-4-1/INFO]: Player connected with username wizness823
+[22:56:10] [localSession-7-1/INFO]: wizness823 (logged in as: wizness823) has connected to the Java server
+[22:56:11] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
+[22:56:11] [Server thread/INFO]: [93m.wizness823 joined the game[0m
+[22:56:11] [Server thread/INFO]: .wizness823[/1.216.43.229:0] logged in with entity id 123634 at ([world]-1545.8857421875, 62.23747863769531, -1734.1246337890625)
+[22:57:35] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .wizness823 disconnected
+[22:57:35] [localSession-7-1/INFO]: wizness823 has disconnected from the Java server because of Bedrock client timed out
+[22:57:35] [Server thread/INFO]: .wizness823 lost connection: Disconnected
+[22:57:35] [Server thread/INFO]: [93m.wizness823 left the game[0m

@@ -1,86 +1,124 @@
-[04:10:59] [ServerMain/INFO]: Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Eclipse Adoptium Temurin-21.0.4+7) on Linux 6.5.0-1024-oracle (aarch64)
-[04:10:59] [ServerMain/INFO]: Loading Purpur 1.21.1-2324-ver/1.21.1@e12a4de (2024-10-09T23:26:12Z) for Minecraft 1.21.1
-[04:11:00] [ServerMain/INFO]: Initializing plugins...
-[04:11:00] [ServerMain/INFO]: Initialized 2 plugins
-[04:11:00] [ServerMain/INFO]: Bukkit plugins (2):
+[12:20:01] [ServerMain/INFO]: Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Eclipse Adoptium Temurin-21.0.4+7) on Linux 6.5.0-1024-oracle (aarch64)
+[12:20:01] [ServerMain/INFO]: Loading Purpur 1.21.1-2325-ver/1.21.1@7f490a6 (2024-10-16T11:40:43Z) for Minecraft 1.21.1
+[12:20:01] [ServerMain/INFO]: Initializing plugins...
+[12:20:02] [ServerMain/INFO]: Initialized 2 plugins
+[12:20:02] [ServerMain/INFO]: Bukkit plugins (2):
  - Geyser-Spigot (2.4.3-SNAPSHOT), floodgate (2.2.3-SNAPSHOT (b112-0360721))
-[04:11:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:11:07] [ServerMain/INFO]: Loaded 1290 recipes
-[04:11:07] [ServerMain/INFO]: Loaded 1399 advancements
-[04:11:07] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[04:11:07] [Server thread/INFO]: Loading properties
-[04:11:07] [Server thread/INFO]: This server is running Purpur version 1.21.1-2324-ver/1.21.1@e12a4de (2024-10-09T23:26:12Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[04:11:08] [Server thread/INFO]: This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[04:11:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:11:08] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:11:09] [Server thread/INFO]: Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[04:11:09] [Server thread/WARN]: SIMD operations are available for your server, but are not configured!
-[04:11:09] [Server thread/WARN]: To enable additional optimizations, add "--add-modules=jdk.incubator.vector" to your startup flags, BEFORE the "-jar".
-[04:11:09] [Server thread/WARN]: If you have already added this flag, then SIMD operations are not supported on your JVM or CPU.
-[04:11:09] [Server thread/WARN]: Debug: Java: 21.0.4, test run: true
-[04:11:09] [Server thread/INFO]: Default game type: SURVIVAL
-[04:11:09] [Server thread/INFO]: Generating keypair
-[04:11:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:11:09] [Server thread/INFO]: Using epoll channel type
-[04:11:09] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
-[04:11:09] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux aarch64) cipher from Velocity.
-[04:11:10] [Server thread/INFO]: Loading server plugin floodgate v2.2.3-SNAPSHOT (b112-0360721)
-[04:11:12] [Server thread/INFO]: Took 2,504ms to boot Floodgate
-[04:11:12] [Server thread/INFO]: Loading server plugin Geyser-Spigot v2.4.3-SNAPSHOT
-[04:11:15] [Server thread/INFO]: Loading extensions...
-[04:11:15] [Server thread/INFO]: Loaded 0 extension(s)
-[04:11:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:11:15] [Server thread/INFO]: Preparing level "world"
-[04:11:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:11:17] [Server thread/INFO]: Time elapsed: 1168 ms
-[04:11:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:11:17] [Server thread/INFO]: Time elapsed: 189 ms
-[04:11:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:11:17] [Server thread/INFO]: Time elapsed: 112 ms
-[04:11:17] [Server thread/INFO]: Enabling floodgate v2.2.3-SNAPSHOT (b112-0360721)
-[04:11:18] [Server thread/INFO]: Enabling Geyser-Spigot v2.4.3-SNAPSHOT
-[04:11:19] [Server thread/INFO]: Starting background profiler...
-[04:11:19] [Server thread/INFO]: ******************************************
-[04:11:19] [Server thread/INFO]: 
-[04:11:19] [Server thread/INFO]: Loading Geyser version 2.4.3-b689 (git-master-d64c0b3)
-[04:11:19] [Server thread/INFO]: 
-[04:11:19] [Server thread/INFO]: ******************************************
-[04:11:30] [epollEventLoopGroup-3-2/INFO]: Started Geyser on UDP port 19132
-[04:11:31] [Server thread/INFO]: Done (11.377s)! Run /geyser help for help!
-[04:11:31] [Server thread/INFO]: Done preparing level "world" (15.852s)
-[04:11:31] [Server thread/INFO]: Starting remote control listener
-[04:11:31] [Server thread/INFO]: Thread RCON Listener started
-[04:11:31] [Server thread/INFO]: RCON running on 0.0.0.0:25575
-[04:11:31] [Server thread/INFO]: Running delayed init tasks
-[04:11:31] [Server thread/INFO]: Done (32.139s)! For help, type "help"
-[04:11:35] [epollEventLoopGroup-4-1/INFO]: Player connected with username wizness823
-[04:11:35] [localSession-7-2/INFO]: wizness823 (logged in as: wizness823) has connected to the Java server
-[04:11:36] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
-[04:11:37] [Server thread/INFO]: [93m.wizness823 joined the game[0m
-[04:11:37] [Server thread/INFO]: .wizness823[/211.36.137.48:0] logged in with entity id 28 at ([world_nether]-267.61642, 60.34566, -105.08658)
-[04:11:38] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
-[04:11:38] [Server thread/INFO]: [3m[37m[Rcon: Gamerule keepInventory is now set to: true][0m
-[04:11:38] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
-[04:14:47] [Server thread/INFO]: .wizness823 issued server command: /gamemode creative
-[04:14:47] [Server thread/INFO]: [3m[37m[.wizness823: Set own game mode to Creative Mode][0m
-[04:15:01] [Server thread/INFO]: .wizness823 issued server command: /kill wizness823
-[04:15:15] [Server thread/INFO]: .wizness823 issued server command: /kill .wizness823
-[04:15:15] [Server thread/INFO]: .wizness823 was killed
-[04:15:15] [Server thread/INFO]: [3m[37m[.wizness823: Killed .wizness823][0m
-[04:15:27] [Server thread/INFO]: .wizness823 issued server command: /gamemode creative
-[04:15:33] [Server thread/INFO]: .wizness823 issued server command: /gamemode spectator
-[04:15:33] [Server thread/INFO]: [3m[37m[.wizness823: Set own game mode to Spectator Mode][0m
-[04:16:23] [Server thread/INFO]: .wizness823 issued server command: /gamemode survival
-[04:16:23] [Server thread/INFO]: [3m[37m[.wizness823: Set own game mode to Survival Mode][0m
-[04:16:35] [Server thread/INFO]: .wizness823 issued server command: /gamemode spectator
-[04:16:35] [Server thread/INFO]: [3m[37m[.wizness823: Set own game mode to Spectator Mode][0m
-[04:17:56] [Server thread/INFO]: .wizness823 issued server command: /gamemode creative
-[04:17:56] [Server thread/INFO]: [3m[37m[.wizness823: Set own game mode to Creative Mode][0m
-[04:18:44] [Server thread/INFO]: .wizness823 issued server command: /gamemode spectator
-[04:18:44] [Server thread/INFO]: [3m[37m[.wizness823: Set own game mode to Spectator Mode][0m
-[04:19:52] [Server thread/INFO]: .wizness823 issued server command: /gamemode creative
-[04:19:52] [Server thread/INFO]: [3m[37m[.wizness823: Set own game mode to Creative Mode][0m
-[04:20:05] [Server thread/INFO]: .wizness823 has made the advancement [92m[Ice Bucket Challenge][0m
-[04:20:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4280ms or 85 ticks behind
-[04:23:13] [Server thread/INFO]: .wizness823 issued server command: /gamemode creative
-[04:24:44] [Server thread/INFO]: .wizness823 issued server command: /gamemode creative
+[12:20:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:20:08] [ServerMain/INFO]: Loaded 1290 recipes
+[12:20:08] [ServerMain/INFO]: Loaded 1399 advancements
+[12:20:08] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[12:20:08] [Server thread/INFO]: Loading properties
+[12:20:08] [Server thread/INFO]: This server is running Purpur version 1.21.1-2325-ver/1.21.1@7f490a6 (2024-10-16T11:40:43Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[12:20:09] [Server thread/INFO]: This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[12:20:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:20:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:20:10] [Server thread/INFO]: Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[12:20:11] [Server thread/WARN]: SIMD operations are available for your server, but are not configured!
+[12:20:11] [Server thread/WARN]: To enable additional optimizations, add "--add-modules=jdk.incubator.vector" to your startup flags, BEFORE the "-jar".
+[12:20:11] [Server thread/WARN]: If you have already added this flag, then SIMD operations are not supported on your JVM or CPU.
+[12:20:11] [Server thread/WARN]: Debug: Java: 21.0.4, test run: true
+[12:20:11] [Server thread/INFO]: Default game type: SURVIVAL
+[12:20:11] [Server thread/INFO]: Generating keypair
+[12:20:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:20:11] [Server thread/INFO]: Using epoll channel type
+[12:20:11] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[12:20:11] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux aarch64) cipher from Velocity.
+[12:20:11] [Server thread/INFO]: Loading server plugin floodgate v2.2.3-SNAPSHOT (b112-0360721)
+[12:20:14] [Server thread/INFO]: Took 2,454ms to boot Floodgate
+[12:20:14] [Server thread/INFO]: Loading server plugin Geyser-Spigot v2.4.3-SNAPSHOT
+[12:20:16] [Server thread/INFO]: Loading extensions...
+[12:20:16] [Server thread/INFO]: Loaded 0 extension(s)
+[12:20:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:20:16] [Server thread/INFO]: Preparing level "world"
+[12:20:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:20:18] [Server thread/INFO]: Time elapsed: 1209 ms
+[12:20:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:20:18] [Server thread/INFO]: Time elapsed: 195 ms
+[12:20:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:20:19] [Server thread/INFO]: Time elapsed: 196 ms
+[12:20:19] [Server thread/INFO]: Enabling floodgate v2.2.3-SNAPSHOT (b112-0360721)
+[12:20:20] [Server thread/INFO]: Enabling Geyser-Spigot v2.4.3-SNAPSHOT
+[12:20:21] [Server thread/INFO]: Starting background profiler...
+[12:20:21] [Server thread/INFO]: ******************************************
+[12:20:21] [Server thread/INFO]: 
+[12:20:21] [Server thread/INFO]: Loading Geyser version 2.4.3-b689 (git-master-d64c0b3)
+[12:20:21] [Server thread/INFO]: 
+[12:20:21] [Server thread/INFO]: ******************************************
+[12:20:32] [epollEventLoopGroup-3-2/INFO]: Started Geyser on UDP port 19132
+[12:20:32] [Server thread/INFO]: Done (11.059s)! Run /geyser help for help!
+[12:20:32] [Server thread/INFO]: Done preparing level "world" (15.692s)
+[12:20:32] [Server thread/INFO]: Starting remote control listener
+[12:20:32] [Server thread/INFO]: Thread RCON Listener started
+[12:20:32] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[12:20:32] [Server thread/INFO]: Running delayed init tasks
+[12:20:32] [Server thread/INFO]: Done (32.076s)! For help, type "help"
+[12:20:40] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[12:20:40] [Server thread/INFO]: [3m[37m[Rcon: Gamerule keepInventory is now set to: true][0m
+[12:20:40] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[12:20:58] [epollEventLoopGroup-4-1/INFO]: Player connected with username wizness823
+[12:20:58] [localSession-7-2/INFO]: wizness823 (logged in as: wizness823) has connected to the Java server
+[12:20:59] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
+[12:20:59] [Server thread/INFO]: [93m.wizness823 joined the game[0m
+[12:20:59] [Server thread/INFO]: .wizness823[/121.173.161.173:0] logged in with entity id 113 at ([world]-1421.6144, 68.64131, -1000.9834)
+[12:22:45] [epollEventLoopGroup-4-2/INFO]: Player connected with username Tyrine74
+[12:22:45] [localSession-7-3/INFO]: Tyrine74 (logged in as: Tyrine74) has connected to the Java server
+[12:22:46] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[12:22:46] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[12:22:46] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 1454 at ([world]-1502.6506, 74.5625, -992.77234)
+[12:23:29] [Async Chat Thread - #0/INFO]: [Not Secure] <.Tyrine74> 건장한 철골램 두마리가 좀비를 패러 내게 어거 있었서
+[12:24:45] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[12:24:45] [RCON Client /0:0:0:0:0:0:0:1 #3/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[12:24:48] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[12:24:48] [RCON Client /0:0:0:0:0:0:0:1 #4/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[12:24:52] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[12:24:52] [RCON Client /0:0:0:0:0:0:0:1 #5/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[12:24:57] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[12:24:57] [Server thread/INFO]: [3m[37m[Rcon: Set .wizness823's game mode to Survival Mode][0m
+[12:24:57] [RCON Client /0:0:0:0:0:0:0:1 #6/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[12:25:06] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[12:25:06] [RCON Client /0:0:0:0:0:0:0:1 #7/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[12:25:13] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[12:25:13] [Server thread/INFO]: [3m[37m[Rcon: Made SeworL a server operator][0m
+[12:25:13] [RCON Client /0:0:0:0:0:0:0:1 #8/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[12:25:16] [Async Chat Thread - #2/INFO]: [Not Secure] <.wizness823> 예아
+[12:25:19] [Async Chat Thread - #2/INFO]: [Not Secure] <.wizness823> 정상화
+[12:25:56] [User Authenticator #0/INFO]: UUID of player SeworL is a622774f-7d34-432a-9182-348fe6f6f2dc
+[12:25:56] [Server thread/INFO]: [93mSeworL joined the game[0m
+[12:25:56] [Server thread/INFO]: SeworL[/113.131.33.203:64068] logged in with entity id 2151 at ([world]-1418.9928582721755, 63.0, -996.8440358365785)
+[12:26:08] [Async Chat Thread - #2/INFO]: [Not Secure] <SeworL> 이담
+[12:26:11] [Async Chat Thread - #2/INFO]: [Not Secure] <SeworL> 스킨이 날아가써
+[12:26:15] [Async Chat Thread - #2/INFO]: [Not Secure] <.wizness823> 리네가 근데
+[12:26:19] [Async Chat Thread - #2/INFO]: [Not Secure] <.Tyrine74> 난 멀쩡한디
+[12:26:25] [Async Chat Thread - #2/INFO]: [Not Secure] <SeworL> 아하
+[12:26:27] [Async Chat Thread - #2/INFO]: [Not Secure] <SeworL> 그럼 네트워크 이슈
+[12:26:27] [Async Chat Thread - #2/INFO]: [Not Secure] <.wizness823> 사야인강
+[12:26:34] [Async Chat Thread - #2/INFO]: [Not Secure] <SeworL> 리네가 사야
+[12:26:42] [Async Chat Thread - #2/INFO]: [Not Secure] <.wizness823> 우리 갑옷 투명화못하낭
+[12:26:46] [Async Chat Thread - #2/INFO]: [Not Secure] <.wizness823> 만들어올까
+[12:26:51] [Async Chat Thread - #2/INFO]: [Not Secure] <.wizness823> 으헤에엥
+[12:26:59] [Async Chat Thread - #2/INFO]: [Not Secure] <.Tyrine74> 티쟝 스킨 머야
+[12:27:05] [Async Chat Thread - #3/INFO]: [Not Secure] <SeworL> 내가 만들었던거
+[12:27:08] [Async Chat Thread - #3/INFO]: [Not Secure] <SeworL> 셰리
+[12:27:18] [Async Chat Thread - #3/INFO]: [Not Secure] <.Tyrine74> 아이도루 셰릴이구나
+[12:27:28] [Async Chat Thread - #3/INFO]: [Not Secure] <.Tyrine74> 돔 공얀 축하해
+[12:27:34] [Async Chat Thread - #3/INFO]: [Not Secure] <.wizness823> 티리네는 뭔가
+[12:27:45] [Async Chat Thread - #3/INFO]: [Not Secure] <.wizness823> 스킨따라 폭파광으로 전직힐듯
+[12:27:48] [Async Chat Thread - #3/INFO]: [Not Secure] <.wizness823> ㅋㅋㅋㅋ
+[12:27:56] [Async Chat Thread - #3/INFO]: [Not Secure] <.wizness823> 파괴 계승할듯
+[12:28:09] [Async Chat Thread - #4/INFO]: [Not Secure] <.Tyrine74> 여서 당장 자원은 내가 젤 많긴할걸
+[12:28:15] [Async Chat Thread - #4/INFO]: [Not Secure] <.wizness823> 이제 나중가면
+[12:28:19] [Async Chat Thread - #4/INFO]: [Not Secure] <.wizness823> 그거 아닌가
+[12:28:32] [Async Chat Thread - #4/INFO]: [Not Secure] <.Tyrine74> 시스템은 티정이지만
+[12:28:33] [Async Chat Thread - #4/INFO]: [Not Secure] <.wizness823> 위다 소환하면서 마허라 영창 외우면서 딜넣을듯
+[12:28:37] [Async Chat Thread - #4/INFO]: [Not Secure] <.Tyrine74> 너가다늠 많이 뛰였서
+[12:28:39] [Async Chat Thread - #4/INFO]: [Not Secure] <.wizness823> 후루베 유라유라
+[12:28:49] [Async Chat Thread - #3/INFO]: [Not Secure] <.Tyrine74> 워더 소환을 바래?
+[12:28:53] [Async Chat Thread - #3/INFO]: [Not Secure] <.wizness823> 아냐
+[12:29:00] [Async Chat Thread - #3/INFO]: [Not Secure] <.Tyrine74> 대가리 모으기 쉬운데
+[12:29:15] [Async Chat Thread - #3/INFO]: [Not Secure] <.wizness823> 근데 워든이먄 유라유라 맞을듯
+[12:29:18] [Async Chat Thread - #3/INFO]: [Not Secure] <.wizness823> ㅋㅋㅋㅋㅋㅋ
+[12:29:46] [Async Chat Thread - #3/INFO]: [Not Secure] <.wizness823> 인첸트가 하고시퍼요
+[12:29:50] [Async Chat Thread - #3/INFO]: [Not Secure] <.Tyrine74> 티쟝은 투명에디샨 별로인가
+[12:29:52] [Async Chat Thread - #3/INFO]: [Not Secure] <.wizness823> 테이블을 만들어봐용
+[12:30:00] [Async Chat Thread - #3/INFO]: [Not Secure] <.Tyrine74> 나 재료는 디 있서

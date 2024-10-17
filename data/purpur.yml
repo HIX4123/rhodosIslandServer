@@ -1750,19 +1750,18 @@ world-settings:
         can-skip-night: true
         critical-damage-multiplier: 1.5
         burp-delay: 10
-        burp-when-full: false
+        burp-when-full: true
         ridable-in-water: false
         curse-of-binding:
-          remove-with-weakness: false
+          remove-with-weakness: true
         shift-right-click-repairs-mending-points: 0
         exp-pickup-delay-ticks: 2
-        allow-void-trading: false
+        allow-void-trading: true
       silk-touch:
-        enabled: false
-        spawner-name: <reset><white>Monster Spawner
+        enabled: true
         minimal-level: 1
         spawner-lore:
-          - Spawns a <mob>
+          - <mob>을 스폰합니다.
         tools:
           - minecraft:iron_pickaxe
           - minecraft:golden_pickaxe
@@ -1777,19 +1776,19 @@ world-settings:
         trident: 1.0
         snowball: 1.0
       projectile-damage:
-        snowball: -1
+        snowball: 1
       halloween:
         force: false
         head-chance: 0.25
       entity-lifespan: 0
       entity-left-handed-chance: 0.05000000074505806
       minecart:
-        max-speed: 0.4
-        place-anywhere: false
+        max-speed: 4
+        place-anywhere: true
         powered-rail:
           boost-modifier: 0.06
         controllable:
-          enabled: false
+          enabled: true
           step-height: 1.0
           hop-boost: 0.5
           fall-damage: true

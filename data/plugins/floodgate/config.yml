@@ -17,10 +17,10 @@ replace-spaces: true
 disconnect:
   # The disconnect message Geyser users should get when connecting
   # to the server with an invalid key
-  invalid-key: Please connect through the official Geyser
+  invalid-key: 공식 Geyser를 통해 연결하세요.k
   # The disconnect message Geyser users should get when connecting
   # to the server with the correct key but not with the correct data format
-  invalid-arguments-length: Expected {} arguments, got {}. Is Geyser up-to-date?
+  invalid-arguments-length: 예상한 {} 인수가 {}를 가져왔습니다. Geyser가 최신 버전인가요?
 
 # Configuration for player linking
 player-link:

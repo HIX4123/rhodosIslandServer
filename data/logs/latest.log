@@ -78,3 +78,5 @@
 [05:56:14] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.jfr.JfrReader.<init>(JfrReader.java:75)
 [05:56:14] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.aggregate(AsyncProfilerJob.java:204)
 [05:56:14] [spark-async-sampler-worker-thread/WARN]: 	... 7 more
+[07:11:27] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[07:11:27] [RCON Client /0:0:0:0:0:0:0:1 #3/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down

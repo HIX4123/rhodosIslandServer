@@ -1,51 +1,55 @@
-[00:07:56] [localSession-7-4/INFO]: wizness823 has disconnected from the Java server because of Bedrock client disconnected
-[00:07:56] [Server thread/INFO]: .wizness823 lost connection: Disconnected
-[00:07:56] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .wizness823 disconnected
-[00:07:56] [Server thread/INFO]: [93m.wizness823 left the game[0m
-[01:07:58] [localSession-7-1/INFO]: wizness823 (logged in as: wizness823) has connected to the Java server
-[01:07:58] [epollEventLoopGroup-4-1/INFO]: Player connected with username wizness823
-[01:07:59] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
-[01:07:59] [Server thread/INFO]: [93m.wizness823 joined the game[0m
-[01:07:59] [Server thread/INFO]: .wizness823[/211.46.131.103:0] logged in with entity id 141014 at ([world]-1540.2239990234375, 62.23747863769531, -879.3514404296875)
-[01:16:04] [Server thread/INFO]: .wizness823 drowned
-[01:22:13] [Server thread/INFO]: .wizness823 was slain by Wither Skeleton
-[01:26:34] [Server thread/INFO]: .wizness823 was slain by Zombie
-[01:27:25] [Server thread/WARN]: .wizness823 moved wrongly!, (0.4200000000000017)
-[01:31:02] [Server thread/INFO]: .wizness823 was shot by Skeleton
-[01:33:54] [Server thread/WARN]: Jungle Boat (vehicle of .wizness823) moved wrongly! 0.28864268781126157
-[01:33:54] [Server thread/WARN]: Jungle Boat (vehicle of .wizness823) moved wrongly! 0.43804148034632817
-[01:33:54] [Server thread/WARN]: Jungle Boat (vehicle of .wizness823) moved wrongly! 0.7287195828694166
-[01:33:54] [Server thread/WARN]: Jungle Boat (vehicle of .wizness823) moved wrongly! 0.38827390791357175
-[01:33:54] [Server thread/WARN]: Jungle Boat (vehicle of .wizness823) moved wrongly! 0.6616582554715933
-[01:33:55] [Server thread/WARN]: Jungle Boat (vehicle of .wizness823) moved wrongly! 0.9862429873037399
-[01:33:55] [Server thread/WARN]: Jungle Boat (vehicle of .wizness823) moved wrongly! 0.3967436925458969
-[01:33:55] [Server thread/WARN]: Jungle Boat (vehicle of .wizness823) moved wrongly! 0.3816786390680136
-[01:33:55] [Server thread/WARN]: Jungle Boat (vehicle of .wizness823) moved wrongly! 0.6276487811419429
-[01:33:55] [Server thread/WARN]: Jungle Boat (vehicle of .wizness823) moved wrongly! 0.9195834324646057
-[01:33:55] [Server thread/WARN]: Jungle Boat (vehicle of .wizness823) moved wrongly! 0.35534412422657624
-[01:33:55] [Server thread/WARN]: Jungle Boat (vehicle of .wizness823) moved wrongly! 0.3334206827867092
-[01:33:55] [Server thread/WARN]: Jungle Boat (vehicle of .wizness823) moved wrongly! 0.3068888933348717
-[01:33:55] [Server thread/WARN]: Jungle Boat (vehicle of .wizness823) moved wrongly! 0.3139996827530922
-[01:33:55] [Server thread/WARN]: Jungle Boat (vehicle of .wizness823) moved wrongly! 0.49437707298875466
-[01:36:57] [Server thread/WARN]: Jungle Boat (vehicle of .wizness823) moved wrongly! 0.42000626400113106
-[01:36:58] [Server thread/WARN]: Jungle Boat (vehicle of .wizness823) moved wrongly! 0.29696682788005546
-[01:38:00] [localSession-7-1/INFO]: wizness823 has disconnected from the Java server because of Bedrock client disconnected
-[01:38:00] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .wizness823 disconnected
-[01:38:00] [Server thread/INFO]: .wizness823 lost connection: Disconnected
-[01:38:00] [Server thread/INFO]: [93m.wizness823 left the game[0m
-[03:30:01] [localSession-7-2/INFO]: lasayou (logged in as: lasayou) has connected to the Java server
-[03:30:01] [epollEventLoopGroup-4-2/INFO]: Player connected with username lasayou
-[03:30:02] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
-[03:30:02] [Server thread/INFO]: [93m.lasayou joined the game[0m
-[03:30:02] [Server thread/INFO]: .lasayou[/118.221.147.91:0] logged in with entity id 147470 at ([world]-1475.3665, 58.0, -1043.69999)
-[03:39:28] [Server thread/INFO]: .lasayou was burned to a crisp while fighting Zombie
-[03:44:17] [Server thread/INFO]: .lasayou has made the advancement [92m[We Need to Go Deeper][0m
-[03:45:14] [Server thread/INFO]: .lasayou has made the advancement [92m[Hot Stuff][0m
-[03:45:43] [Server thread/INFO]: .lasayou tried to swim in lava
-[03:49:06] [Server thread/INFO]: .lasayou tried to swim in lava
-[03:51:39] [Server thread/INFO]: .lasayou tried to swim in lava
-[03:54:13] [Server thread/INFO]: .lasayou was slain by Zombie
-[03:54:52] [Server thread/INFO]: .lasayou was shot by Skeleton
-[03:56:42] [Server thread/INFO]: Villager Villager['Villager'/152263, uuid='84092773-22a2-4fd6-a0f7-1b801da81c03', l='ServerLevel[world]', x=-1487.09, y=60.00, z=-1043.35, cpos=[-93, -66], tl=1120981, v=true] died, message: 'Villager was slain by Zombie'
-[04:07:07] [Server thread/WARN]: .lasayou moved wrongly!, (0.0)
-[04:17:41] [Server thread/INFO]: .lasayou was blown up by Creeper
+[04:59:40] [ServerMain/INFO]: Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Eclipse Adoptium Temurin-21.0.4+7) on Linux 6.5.0-1024-oracle (aarch64)
+[04:59:40] [ServerMain/INFO]: Loading Purpur 1.21.1-2325-ver/1.21.1@7f490a6 (2024-10-16T11:40:43Z) for Minecraft 1.21.1
+[04:59:40] [ServerMain/INFO]: Initializing plugins...
+[04:59:40] [ServerMain/INFO]: Initialized 2 plugins
+[04:59:40] [ServerMain/INFO]: Bukkit plugins (2):
+ - Geyser-Spigot (2.4.3-SNAPSHOT), floodgate (2.2.3-SNAPSHOT (b112-0360721))
+[04:59:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:59:47] [ServerMain/INFO]: Loaded 1290 recipes
+[04:59:47] [ServerMain/INFO]: Loaded 1399 advancements
+[04:59:47] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[04:59:47] [Server thread/INFO]: Loading properties
+[04:59:47] [Server thread/INFO]: This server is running Purpur version 1.21.1-2325-ver/1.21.1@7f490a6 (2024-10-16T11:40:43Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[04:59:48] [Server thread/INFO]: This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:59:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:59:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:59:49] [Server thread/INFO]: Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[04:59:50] [Server thread/WARN]: SIMD operations are available for your server, but are not configured!
+[04:59:50] [Server thread/WARN]: To enable additional optimizations, add "--add-modules=jdk.incubator.vector" to your startup flags, BEFORE the "-jar".
+[04:59:50] [Server thread/WARN]: If you have already added this flag, then SIMD operations are not supported on your JVM or CPU.
+[04:59:50] [Server thread/WARN]: Debug: Java: 21.0.4, test run: true
+[04:59:50] [Server thread/INFO]: Default game type: SURVIVAL
+[04:59:50] [Server thread/INFO]: Generating keypair
+[04:59:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:59:50] [Server thread/INFO]: Using epoll channel type
+[04:59:50] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[04:59:50] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux aarch64) cipher from Velocity.
+[04:59:50] [Server thread/INFO]: Loading server plugin floodgate v2.2.3-SNAPSHOT (b112-0360721)
+[04:59:53] [Server thread/INFO]: Took 2,572ms to boot Floodgate
+[04:59:53] [Server thread/INFO]: Loading server plugin Geyser-Spigot v2.4.3-SNAPSHOT
+[04:59:55] [Server thread/INFO]: Loading extensions...
+[04:59:55] [Server thread/INFO]: Loaded 0 extension(s)
+[04:59:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:59:55] [Server thread/INFO]: Preparing level "world"
+[04:59:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:59:57] [Server thread/INFO]: Time elapsed: 1232 ms
+[04:59:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:59:58] [Server thread/INFO]: Time elapsed: 231 ms
+[04:59:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:59:58] [Server thread/INFO]: Time elapsed: 119 ms
+[04:59:58] [Server thread/INFO]: Enabling floodgate v2.2.3-SNAPSHOT (b112-0360721)
+[04:59:59] [Server thread/INFO]: Enabling Geyser-Spigot v2.4.3-SNAPSHOT
+[05:00:00] [Server thread/INFO]: Starting background profiler...
+[05:00:00] [Server thread/INFO]: ******************************************
+[05:00:00] [Server thread/INFO]: 
+[05:00:00] [Server thread/INFO]: Loading Geyser version 2.4.3-b689 (git-master-d64c0b3)
+[05:00:00] [Server thread/INFO]: 
+[05:00:00] [Server thread/INFO]: ******************************************
+[05:00:12] [epollEventLoopGroup-3-2/INFO]: Started Geyser on UDP port 19132
+[05:00:12] [Server thread/INFO]: Done (12.226s)! Run /geyser help for help!
+[05:00:12] [Server thread/INFO]: Done preparing level "world" (16.734s)
+[05:00:12] [Server thread/INFO]: Starting remote control listener
+[05:00:12] [Server thread/INFO]: Thread RCON Listener started
+[05:00:12] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[05:00:12] [Server thread/INFO]: Running delayed init tasks
+[05:00:12] [Server thread/INFO]: Done (33.372s)! For help, type "help"

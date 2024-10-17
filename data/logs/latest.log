@@ -770,3 +770,11 @@
 [16:27:15] [localSession-7-1/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client disconnected
 [16:27:15] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
 [16:27:15] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[19:13:04] [localSession-7-4/INFO]: Tyrine74 (logged in as: Tyrine74) has connected to the Java server
+[19:13:04] [epollEventLoopGroup-4-3/INFO]: Player connected with username Tyrine74
+[19:13:05] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[19:13:05] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[19:13:05] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 80163 at ([world]-1502.2396, 74.82416331462245, -991.496)
+[19:14:33] [Server thread/INFO]: .Tyrine74 was shot by Skeleton using [97m[Bow][0m
+[19:16:07] [Server thread/INFO]: .Tyrine74 hit the ground too hard
+[19:24:39] [Server thread/INFO]: .Tyrine74 has made the advancement [92m[Bee Our Guest][0m

@@ -2,3 +2,12 @@
 [00:07:56] [Server thread/INFO]: .wizness823 lost connection: Disconnected
 [00:07:56] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .wizness823 disconnected
 [00:07:56] [Server thread/INFO]: [93m.wizness823 left the game[0m
+[01:07:58] [localSession-7-1/INFO]: wizness823 (logged in as: wizness823) has connected to the Java server
+[01:07:58] [epollEventLoopGroup-4-1/INFO]: Player connected with username wizness823
+[01:07:59] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
+[01:07:59] [Server thread/INFO]: [93m.wizness823 joined the game[0m
+[01:07:59] [Server thread/INFO]: .wizness823[/211.46.131.103:0] logged in with entity id 141014 at ([world]-1540.2239990234375, 62.23747863769531, -879.3514404296875)
+[01:16:04] [Server thread/INFO]: .wizness823 drowned
+[01:22:13] [Server thread/INFO]: .wizness823 was slain by Wither Skeleton
+[01:26:34] [Server thread/INFO]: .wizness823 was slain by Zombie
+[01:27:25] [Server thread/WARN]: .wizness823 moved wrongly!, (0.4200000000000017)

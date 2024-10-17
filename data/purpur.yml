@@ -5,8 +5,8 @@
 # If you need help with the configuration or have any questions related to Purpur,
 # join us in our Discord guild.
 #
-# Website: https://purpurmc.org
-# Docs: https://purpurmc.org/docs
+# Website: https://purpurmc.org 
+# Docs: https://purpurmc.org/docs 
 
 verbose: true
 settings:
@@ -37,12 +37,12 @@ settings:
     afk-broadcast-away: <yellow><italic>%s는 현재 AFK입니다.
     afk-broadcast-back: <yellow><italic>%s는 더 이상 AFK가 아닙니다.
     afk-broadcast-use-display-name: false
-    afk-tab-list-prefix: "[AFK] "
-    afk-tab-list-suffix: ""
+    afk-tab-list-prefix: '[AFK] '
+    afk-tab-list-suffix: ''
     credits-command-output: <green>%s에 엔딩 크레딧이 표시되었습니다.
     demo-command-output: <green>%s에게 데모 화면이 표시되었습니다.
     ping-command-output: <green>%s의 핑은 %sms입니다.
-    ram-command-output: "<green>램 사용량: <used>/<xmx> (<percent>)"
+    ram-command-output: '<green>램 사용량: <used>/<xmx> (<percent>)'
     rambar-command-output: <green>RAM 바가 <target>에게 <onoff>로 토글되었습니다.
     tpsbar-command-output: <green>TPS 바가 <target>에게 <onoff>로 토글되었습니다.
     dont-run-with-scissors: <red><italic>가위를 들고 뛰지 마세요!
@@ -71,8 +71,7 @@ settings:
         low: <gradient:#ff5555:#aa0000><text></gradient>
       tick-interval: 20
     tpsbar:
-      title:
-        <gray>TPS<yellow>:</yellow> <tps> MSPT<yellow>:</yellow> <mspt> Ping<yellow>:</yellow>
+      title: <gray>TPS<yellow>:</yellow> <tps> MSPT<yellow>:</yellow> <mspt> Ping<yellow>:</yellow>
         <ping>ms
       overlay: NOTCHED_20
       fill-mode: MSPT
@@ -86,7 +85,7 @@ settings:
         low: <gradient:#ff5555:#aa0000><text></gradient>
       tick-interval: 20
     compass:
-      title: "S  ·  ◈  ·  ◈  ·  ◈  ·  SW  ·  ◈  ·  ◈  ·  ◈  ·  W  ·  ◈  ·  ◈  ·  ◈  ·  NW  ·  ◈  ·  ◈  ·  ◈  ·  N  ·  ◈  ·  ◈  ·  ◈  ·  NE  ·  ◈  ·  ◈  ·  ◈  ·  E  ·  ◈  ·  ◈  ·  ◈  ·  SE  ·  ◈  ·  ◈  ·  ◈  ·  S  ·  ◈  ·  ◈  ·  ◈  ·  SW  ·  ◈  ·  ◈  ·  ◈  ·  W  ·  ◈  ·  ◈  ·  ◈  ·  NW  ·  ◈  ·  ◈  ·  ◈  ·  N  ·  ◈  ·  ◈  ·  ◈  ·  NE  ·  ◈  ·  ◈  ·  ◈  ·  E  ·  ◈  ·  ◈  ·  ◈  ·  SE  ·  ◈  ·  ◈  ·  ◈  ·  "
+      title: 'S  ·  ◈  ·  ◈  ·  ◈  ·  SW  ·  ◈  ·  ◈  ·  ◈  ·  W  ·  ◈  ·  ◈  ·  ◈  ·  NW  ·  ◈  ·  ◈  ·  ◈  ·  N  ·  ◈  ·  ◈  ·  ◈  ·  NE  ·  ◈  ·  ◈  ·  ◈  ·  E  ·  ◈  ·  ◈  ·  ◈  ·  SE  ·  ◈  ·  ◈  ·  ◈  ·  S  ·  ◈  ·  ◈  ·  ◈  ·  SW  ·  ◈  ·  ◈  ·  ◈  ·  W  ·  ◈  ·  ◈  ·  ◈  ·  NW  ·  ◈  ·  ◈  ·  ◈  ·  N  ·  ◈  ·  ◈  ·  ◈  ·  NE  ·  ◈  ·  ◈  ·  ◈  ·  E  ·  ◈  ·  ◈  ·  ◈  ·  SE  ·  ◈  ·  ◈  ·  ◈  ·  '
       overlay: PROGRESS
       progress-color: BLUE
       percent: 1.0
@@ -96,14 +95,14 @@ settings:
     hide-hidden-players-from-entity-selector: false
     uptime:
       format: <days><hours><minutes><seconds>
-      day: "%02d일 "
-      days: "%02d일 "
-      hour: "%02d시간 "
-      hours: "%02d시간 "
-      minute: "%02d분"
-      minutes: "%02d분 "
-      second: "%02d초"
-      seconds: "%02d초"
+      day: '%02d일 '
+      days: '%02d일 '
+      hour: '%02d시간 '
+      hours: '%02d시간 '
+      minute: '%02d분'
+      minutes: '%02d분 '
+      second: '%02d초'
+      seconds: '%02d초'
   blocks:
     barrel:
       rows: 3
@@ -120,8 +119,8 @@ settings:
       range: 128
     grindstone:
       ignored-enchants:
-        - minecraft:binding_curse
-        - minecraft:vanishing_curse
+      - minecraft:binding_curse
+      - minecraft:vanishing_curse
       remove-attributes: false
       remove-name-and-lore: false
     cave_vines:
@@ -322,10 +321,10 @@ world-settings:
           distance: 8.0
           damage-amount: 4.0
         valid-ring-blocks:
-          - minecraft:prismarine
-          - minecraft:prismarine_bricks
-          - minecraft:sea_lantern
-          - minecraft:dark_prismarine
+        - minecraft:prismarine
+        - minecraft:prismarine_bricks
+        - minecraft:sea_lantern
+        - minecraft:dark_prismarine
       cauldron:
         fill-chances:
           rain: 0.05000000074505806
@@ -794,7 +793,7 @@ world-settings:
         bypass-mob-griefing: false
         takes-damage-from-water: false
         explode-when-killed: false
-        health-impacts-explosion: true  
+        health-impacts-explosion: true
         always-drop-exp: false
         head-visibility-percent: 0.5
         encircle-target: false
@@ -1123,7 +1122,7 @@ world-settings:
           fire-time: 8
         allow-griefing: false
         attributes:
-          max_health: "20.0"
+          max_health: '20.0'
           attack_damage: 6 + size
         attacked-by-crystal-range: 1.0
         attacked-by-crystal-damage: 1.0
@@ -1195,7 +1194,7 @@ world-settings:
         attributes:
           max_health: 30.0
           scale: 1.0
-        breedable-item: ""
+        breedable-item: ''
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
         always-drop-exp: false
@@ -1230,16 +1229,16 @@ world-settings:
         bypass-mob-griefing: false
         takes-damage-from-water: false
         griefable-blocks:
-          - minecraft:oak_leaves
-          - minecraft:spruce_leaves
-          - minecraft:birch_leaves
-          - minecraft:jungle_leaves
-          - minecraft:acacia_leaves
-          - minecraft:dark_oak_leaves
-          - minecraft:beetroots
-          - minecraft:carrots
-          - minecraft:potatoes
-          - minecraft:wheat
+        - minecraft:oak_leaves
+        - minecraft:spruce_leaves
+        - minecraft:birch_leaves
+        - minecraft:jungle_leaves
+        - minecraft:acacia_leaves
+        - minecraft:dark_oak_leaves
+        - minecraft:beetroots
+        - minecraft:carrots
+        - minecraft:potatoes
+        - minecraft:wheat
         always-drop-exp: false
         avoid-rabbits: false
       salmon:
@@ -1298,7 +1297,7 @@ world-settings:
           scale: 1.0
         takes-damage-from-water: false
         always-drop-exp: false
-        head-visibility-percent: 0.5  
+        head-visibility-percent: 0.5
         feed-wither-roses: 0
         bow-accuracy: 14 - difficulty * 4
       skeleton_horse:
@@ -1563,7 +1562,7 @@ world-settings:
           only-babies: true
           chance: 0.05
           try-existing-chickens: true
-        aggressive-towards-villager-when-lagging: false 
+        aggressive-towards-villager-when-lagging: false
         bypass-mob-griefing: false
         takes-damage-from-water: false
         always-drop-exp: false
@@ -1758,15 +1757,16 @@ world-settings:
         exp-pickup-delay-ticks: 2
         allow-void-trading: true
       silk-touch:
+        spawner-name: <reset><white>Monster Spawner
         enabled: true
         minimal-level: 1
         spawner-lore:
-          - <mob>을 스폰합니다.
+        - <mob>을 스폰합니다.
         tools:
-          - minecraft:iron_pickaxe
-          - minecraft:golden_pickaxe
-          - minecraft:diamond_pickaxe
-          - minecraft:netherite_pickaxe
+        - minecraft:iron_pickaxe
+        - minecraft:golden_pickaxe
+        - minecraft:diamond_pickaxe
+        - minecraft:netherite_pickaxe
       projectile-offset:
         bow: 1.0
         crossbow: 1.0

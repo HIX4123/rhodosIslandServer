@@ -181,3 +181,218 @@ java.nio.file.AccessDeniedException: ./world/playerdata/00000000-0000-0000-0009-
 [08:30:22] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .syhana7338 disconnected
 [08:30:22] [Server thread/INFO]: .syhana7338 lost connection: Disconnected
 [08:30:22] [Server thread/INFO]: [93m.syhana7338 left the game[0m
+[09:00:49] [localSession-7-1/INFO]: Tyrine74 (logged in as: Tyrine74) has connected to the Java server
+[09:00:49] [epollEventLoopGroup-4-4/INFO]: Player connected with username Tyrine74
+[09:00:50] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[09:00:50] [Server thread/WARN]: Failed to load player data for .Tyrine74
+[09:00:50] [Server thread/WARN]: Failed to copy the player.dat file for .Tyrine74
+java.nio.file.AccessDeniedException: ./world/playerdata/00000000-0000-0000-0009-01f1152cfb8b.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystem.copyFile(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystem.copy(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.copy(Unknown Source) ~[?:?]
+	at java.base/java.nio.file.Files.copy(Unknown Source) ~[?:?]
+	at net.minecraft.world.level.storage.PlayerDataStorage.backup(PlayerDataStorage.java:65) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.world.level.storage.PlayerDataStorage.load(PlayerDataStorage.java:132) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.world.level.storage.PlayerDataStorage.load(PlayerDataStorage.java:112) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.players.PlayerList.load(PlayerList.java:565) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.players.PlayerList.placeNewPlayer(PlayerList.java:200) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.handleConfigurationFinished(ServerConfigurationPacketListenerImpl.java:173) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:22) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:13) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1581) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1558) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1551) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1510) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1517) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1362) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:333) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at java.base/java.lang.Thread.run(Unknown Source) [?:?]
+[09:00:50] [Server thread/WARN]: Failed to load player data for .Tyrine74
+[09:00:50] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[09:00:50] [Server thread/INFO]: .Tyrine74[/221.168.244.12:0] logged in with entity id 14496 at ([world]2.5, 84.0, -32.5)
+[09:02:35] [Server thread/INFO]: .Tyrine74 drowned
+[09:05:19] [epollEventLoopGroup-4-1/INFO]: Player connected with username Red12344
+[09:05:19] [localSession-7-2/INFO]: Red12344 (logged in as: Red12344) has connected to the Java server
+[09:05:20] [Server thread/INFO]: Floodgate player logged in as .Red12344 joined (UUID: 00000000-0000-0000-0009-01f107bd8a1f)
+[09:05:20] [Server thread/INFO]: [93m.Red12344 joined the game[0m
+[09:05:20] [Server thread/INFO]: .Red12344[/218.152.150.178:0] logged in with entity id 15051 at ([world]-6.5, 91.0, -33.5)
+[09:05:29] [Async Chat Thread - #1/INFO]: [Not Secure] <.Tyrine74> 다레?
+[09:05:44] [Async Chat Thread - #1/INFO]: [Not Secure] <.Red12344> 들어오래성
+[09:05:47] [Async Chat Thread - #1/INFO]: [Not Secure] <.Red12344> 들어왔는데
+[09:05:55] [Async Chat Thread - #1/INFO]: [Not Secure] <.Tyrine74> 아 그거구나
+[09:06:10] [Async Chat Thread - #1/INFO]: [Not Secure] <.Tyrine74> 방에 오래남아있으면서 한달에 채팅있을까 말까한
+[09:06:18] [epollEventLoopGroup-4-2/INFO]: Player connected with username syhana7338
+[09:06:18] [localSession-7-3/INFO]: syhana7338 (logged in as: syhana7338) has connected to the Java server
+[09:06:19] [Server thread/INFO]: Floodgate player logged in as .syhana7338 joined (UUID: 00000000-0000-0000-0009-01fcf632faa0)
+[09:06:19] [Server thread/INFO]: [93m.syhana7338 joined the game[0m
+[09:06:19] [Server thread/INFO]: .syhana7338[/58.122.12.101:0] logged in with entity id 15200 at ([world]-1484.6649, 70.0, -1004.0501)
+[09:06:22] [Async Chat Thread - #1/INFO]: [Not Secure] <.Tyrine74> 봇지쨩 이구나~!
+[09:06:27] [Async Chat Thread - #1/INFO]: [Not Secure] <.Red12344> :;
+[09:07:17] [Server thread/WARN]: .Red12344 moved wrongly!, (0.4200000000000017)
+[09:09:19] [Server thread/INFO]: .Red12344 has made the advancement [92m[Stone Age][0m
+[09:09:43] [Server thread/INFO]: .Red12344 has made the advancement [92m[Monster Hunter][0m
+[09:09:54] [Async Chat Thread - #2/INFO]: [Not Secure] <.Tyrine74> 레드상
+[09:09:59] [Async Chat Thread - #2/INFO]: [Not Secure] <.Tyrine74> 아니 봇지쟝
+[09:10:03] [Async Chat Thread - #2/INFO]: [Not Secure] <.Red12344> ㅔㅔㅔㅔㅔㅔㅔㅔㅔㅔㅔㄱ
+[09:10:14] [Async Chat Thread - #2/INFO]: [Not Secure] <.Tyrine74> -1500 -1000으로 ㄱㄱ
+[09:10:25] [Async Chat Thread - #2/INFO]: [Not Secure] <.Tyrine74> 거기에 우리 주둔지임
+[09:10:31] [Server thread/INFO]: .Red12344 has made the advancement [92m[Getting an Upgrade][0m
+[09:11:32] [Async Chat Thread - #4/INFO]: [Not Secure] <.Red12344> 멀군용
+[09:11:42] [Async Chat Thread - #4/INFO]: [Not Secure] <.Tyrine74> 배타면 갈만함
+[09:12:25] [Server thread/INFO]: .Red12344 was slain by Zombie
+[09:13:40] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .syhana7338 disconnected
+[09:13:40] [localSession-7-3/INFO]: syhana7338 has disconnected from the Java server because of Bedrock client disconnected
+[09:13:40] [Server thread/INFO]: .syhana7338 lost connection: Disconnected
+[09:13:40] [Server thread/INFO]: [93m.syhana7338 left the game[0m
+[09:14:01] [Server thread/WARN]: Jungle Boat (vehicle of .Tyrine74) moved wrongly! 0.4528092034161091
+[09:14:01] [Server thread/WARN]: Jungle Boat (vehicle of .Tyrine74) moved wrongly! 0.333895955234766
+[09:14:02] [Server thread/WARN]: Jungle Boat (vehicle of .Tyrine74) moved wrongly! 0.6552723795175552
+[09:14:02] [Server thread/WARN]: Jungle Boat (vehicle of .Tyrine74) moved wrongly! 0.9488430991768837
+[09:14:02] [Server thread/WARN]: Jungle Boat (vehicle of .Tyrine74) moved wrongly! 0.3701886385679245
+[09:14:02] [Server thread/WARN]: Jungle Boat (vehicle of .Tyrine74) moved wrongly! 0.6991070955991745
+[09:14:02] [Server thread/WARN]: Jungle Boat (vehicle of .Tyrine74) moved wrongly! 0.27826131135225296
+[09:14:02] [Server thread/WARN]: Jungle Boat (vehicle of .Tyrine74) moved wrongly! 0.5496499426662922
+[09:14:02] [Server thread/WARN]: Jungle Boat (vehicle of .Tyrine74) moved wrongly! 0.6677071936428547
+[09:14:02] [Server thread/WARN]: Jungle Boat (vehicle of .Tyrine74) moved wrongly! 0.7723367102444172
+[09:14:02] [Server thread/WARN]: Jungle Boat (vehicle of .Tyrine74) moved wrongly! 0.8637215979397297
+[09:14:02] [Server thread/WARN]: Jungle Boat (vehicle of .Tyrine74) moved wrongly! 0.9414346106350422
+[09:14:02] [Server thread/WARN]: Jungle Boat (vehicle of .Tyrine74) moved wrongly! 1.1727578528225422
+[09:14:02] [Server thread/WARN]: Jungle Boat (vehicle of .Tyrine74) moved wrongly! 1.3893105871975422
+[09:14:03] [Server thread/WARN]: Jungle Boat (vehicle of .Tyrine74) moved wrongly! 0.31878662109375
+[09:14:03] [Server thread/WARN]: Jungle Boat (vehicle of .Tyrine74) moved wrongly! 0.29705810546875
+[09:14:10] [Geyser Spigot connection thread-6-3/INFO]: Floodgate player logged in as .Red12344 disconnected
+[09:14:10] [Server thread/INFO]: .Red12344 lost connection: Disconnected
+[09:14:10] [localSession-7-2/INFO]: Red12344 has disconnected from the Java server because of Bedrock client disconnected
+[09:14:10] [Server thread/INFO]: [93m.Red12344 left the game[0m
+[09:14:30] [epollEventLoopGroup-4-3/INFO]: Bedrock user with ip: /218.152.150.178 has disconnected for reason Bedrock client disconnected
+[09:14:35] [epollEventLoopGroup-4-4/INFO]: Player connected with username Red12344
+[09:14:35] [localSession-7-4/INFO]: Red12344 (logged in as: Red12344) has connected to the Java server
+[09:14:36] [Server thread/INFO]: Floodgate player logged in as .Red12344 joined (UUID: 00000000-0000-0000-0009-01f107bd8a1f)
+[09:14:36] [Server thread/INFO]: [93m.Red12344 joined the game[0m
+[09:14:36] [Server thread/INFO]: .Red12344[/218.152.150.178:0] logged in with entity id 25914 at ([world]-121.32348488859266, 79.49518527633721, 94.16588393379668)
+[09:15:21] [Server thread/INFO]: .Red12344 was slain by Zombie
+[09:16:35] [Async Chat Thread - #6/INFO]: [Not Secure] <.Tyrine74> 키탕★
+[09:16:36] [Server thread/INFO]: .Red12344 was shot by Skeleton using [97m[Bow][0m
+[09:17:09] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[09:17:09] [localSession-7-1/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client timed out
+[09:17:09] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[09:17:09] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[09:18:40] [Server thread/INFO]: .Red12344 was shot by Skeleton using [97m[Bow][0m
+[09:18:43] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .Red12344 disconnected
+[09:18:43] [localSession-7-4/INFO]: Red12344 has disconnected from the Java server because of Bedrock client disconnected
+[09:18:43] [Server thread/INFO]: .Red12344 lost connection: Disconnected
+[09:18:43] [Server thread/INFO]: [93m.Red12344 left the game[0m
+[09:19:23] [epollEventLoopGroup-4-1/INFO]: Player connected with username Red12344
+[09:19:23] [localSession-7-1/INFO]: Red12344 (logged in as: Red12344) has connected to the Java server
+[09:19:24] [Server thread/INFO]: Floodgate player logged in as .Red12344 joined (UUID: 00000000-0000-0000-0009-01f107bd8a1f)
+[09:19:24] [Server thread/INFO]: [93m.Red12344 joined the game[0m
+[09:19:24] [Server thread/INFO]: .Red12344[/218.152.150.178:0] logged in with entity id 29151 at ([world]-7.5, 87.0, -31.5)
+[09:19:35] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .Red12344 disconnected
+[09:19:35] [localSession-7-1/INFO]: Red12344 has disconnected from the Java server because of Bedrock client disconnected
+[09:19:35] [Server thread/INFO]: .Red12344 lost connection: Disconnected
+[09:19:36] [Server thread/INFO]: [93m.Red12344 left the game[0m
+[09:20:51] [epollEventLoopGroup-4-2/INFO]: Player connected with username lasayou
+[09:20:51] [localSession-7-2/INFO]: lasayou (logged in as: lasayou) has connected to the Java server
+[09:20:52] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[09:20:52] [Server thread/WARN]: Failed to load player data for .lasayou
+[09:20:52] [Server thread/WARN]: Failed to copy the player.dat file for .lasayou
+java.nio.file.AccessDeniedException: ./world/playerdata/00000000-0000-0000-0009-01f5bcd8c095.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystem.copyFile(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystem.copy(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.copy(Unknown Source) ~[?:?]
+	at java.base/java.nio.file.Files.copy(Unknown Source) ~[?:?]
+	at net.minecraft.world.level.storage.PlayerDataStorage.backup(PlayerDataStorage.java:65) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.world.level.storage.PlayerDataStorage.load(PlayerDataStorage.java:132) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.world.level.storage.PlayerDataStorage.load(PlayerDataStorage.java:112) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.players.PlayerList.load(PlayerList.java:565) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.players.PlayerList.placeNewPlayer(PlayerList.java:200) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.handleConfigurationFinished(ServerConfigurationPacketListenerImpl.java:173) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:22) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:13) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1581) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1558) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1551) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1673) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1342) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:333) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at java.base/java.lang.Thread.run(Unknown Source) [?:?]
+[09:20:52] [Server thread/WARN]: Failed to load player data for .lasayou
+[09:20:52] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[09:20:52] [Server thread/INFO]: .lasayou[/106.252.222.90:0] logged in with entity id 29200 at ([world]5.5, 88.0, -21.5)
+[09:22:28] [epollEventLoopGroup-4-3/INFO]: Player connected with username wizness823
+[09:22:28] [localSession-7-3/INFO]: wizness823 (logged in as: wizness823) has connected to the Java server
+[09:22:29] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
+[09:22:29] [Server thread/WARN]: Failed to load player data for .wizness823
+[09:22:29] [Server thread/WARN]: Failed to copy the player.dat file for .wizness823
+java.nio.file.AccessDeniedException: ./world/playerdata/00000000-0000-0000-0009-01f480849d23.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystem.copyFile(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystem.copy(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.copy(Unknown Source) ~[?:?]
+	at java.base/java.nio.file.Files.copy(Unknown Source) ~[?:?]
+	at net.minecraft.world.level.storage.PlayerDataStorage.backup(PlayerDataStorage.java:65) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.world.level.storage.PlayerDataStorage.load(PlayerDataStorage.java:132) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.world.level.storage.PlayerDataStorage.load(PlayerDataStorage.java:112) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.players.PlayerList.load(PlayerList.java:565) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.players.PlayerList.placeNewPlayer(PlayerList.java:200) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.handleConfigurationFinished(ServerConfigurationPacketListenerImpl.java:173) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:22) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:13) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1581) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1558) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1551) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1510) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1517) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1362) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:333) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at java.base/java.lang.Thread.run(Unknown Source) [?:?]
+[09:22:29] [Server thread/WARN]: Failed to load player data for .wizness823
+[09:22:29] [Server thread/INFO]: [93m.wizness823 joined the game[0m
+[09:22:29] [Server thread/INFO]: .wizness823[/222.121.201.91:0] logged in with entity id 29385 at ([world]5.5, 88.0, -37.5)
+[09:22:43] [Async Chat Thread - #8/INFO]: [Not Secure] <.wizness823> 엥
+[09:22:48] [Async Chat Thread - #8/INFO]: [Not Secure] <.wizness823> 왜 나도 날아가지
+[09:23:01] [Async Chat Thread - #8/INFO]: [Not Secure] <.lasayou> ㅠ
+[09:23:04] [Async Chat Thread - #9/INFO]: [Not Secure] <.wizness823> 컴온
+[09:24:33] [Async Chat Thread - #10/INFO]: [Not Secure] <.wizness823> 어라
+[09:24:37] [Async Chat Thread - #10/INFO]: [Not Secure] <.wizness823> 템이앖네
+[09:24:40] [Async Chat Thread - #10/INFO]: [Not Secure] <.wizness823> 털렸나
+[09:24:44] [Async Chat Thread - #10/INFO]: [Not Secure] <.lasayou> ㅇㄴ
+[09:25:13] [Async Chat Thread - #10/INFO]: [Not Secure] <.wizness823> 자잔
+[09:25:56] [Server thread/INFO]: .wizness823 was shot by Skeleton using [97m[Bow][0m
+[09:26:03] [Async Chat Thread - #11/INFO]: [Not Secure] <.wizness823> 꾸엑
+[09:26:12] [Server thread/INFO]: .lasayou was shot by Skeleton using [97m[Bow][0m
+[09:26:19] [Async Chat Thread - #11/INFO]: [Not Secure] <.lasayou> 겁나 많내요
+[09:28:39] [Async Chat Thread - #12/INFO]: [Not Secure] <.wizness823> ???
+[09:28:53] [Async Chat Thread - #12/INFO]: [Not Secure] <.wizness823> 조합불가에요
+[09:29:00] [Async Chat Thread - #12/INFO]: [Not Secure] <.lasayou> 엥
+[09:29:37] [Async Chat Thread - #13/INFO]: [Not Secure] <.wizness823> ????
+[09:29:40] [Async Chat Thread - #13/INFO]: [Not Secure] <.wizness823> 왜이라지

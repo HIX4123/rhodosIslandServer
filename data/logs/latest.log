@@ -305,3 +305,33 @@
 [11:58:39] [Async Chat Thread - #15/INFO]: [Not Secure] <.lasayou> 딱히 평탄화 해야할곳 없죠?
 [11:59:00] [Async Chat Thread - #15/INFO]: [Not Secure] <.lasayou> 흙이 필요해서,,
 [11:59:41] [Async Chat Thread - #15/INFO]: [Not Secure] <.Tyrine74> 흚
+[12:00:19] [Server thread/INFO]: .Tyrine74 hit the ground too hard
+[12:00:58] [Async Chat Thread - #17/INFO]: [Not Secure] <.Tyrine74> 여 하실
+[12:01:07] [Async Chat Thread - #17/INFO]: [Not Secure] <.Tyrine74> 마을 근처임
+[12:04:44] [Async Chat Thread - #19/INFO]: [Not Secure] <.Tyrine74> 이제 필요한분 되셨나
+[12:05:02] [Server thread/INFO]: .lasayou was slain by Zombie
+[12:05:16] [Async Chat Thread - #19/INFO]: [Not Secure] <.Tyrine74> ㅇ?
+[12:08:51] [localSession-7-4/INFO]: lasayou has disconnected from the Java server because of Bedrock client disconnected
+[12:08:51] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .lasayou disconnected
+[12:08:51] [Server thread/INFO]: .lasayou lost connection: Disconnected
+[12:08:51] [Server thread/INFO]: [93m.lasayou left the game[0m
+[12:09:24] [epollEventLoopGroup-4-2/INFO]: Player connected with username lasayou
+[12:09:24] [localSession-7-3/INFO]: lasayou (logged in as: lasayou) has connected to the Java server
+[12:09:25] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[12:09:25] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[12:09:25] [Server thread/INFO]: .lasayou[/106.252.222.90:0] logged in with entity id 16562 at ([world]-1467.1849, 63.0, -1139.6536)
+[12:11:05] [Server thread/WARN]: .Tyrine74 moved wrongly!, (0.4200000000000017)
+[12:11:05] [Server thread/WARN]: .Tyrine74 moved wrongly!, (0.0)
+[12:18:55] [localSession-7-3/INFO]: lasayou has disconnected from the Java server because of Bedrock client disconnected
+[12:18:55] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .lasayou disconnected
+[12:18:55] [Server thread/INFO]: .lasayou lost connection: Disconnected
+[12:18:55] [Server thread/INFO]: [93m.lasayou left the game[0m
+[12:19:20] [epollEventLoopGroup-4-3/INFO]: Player connected with username lasayou
+[12:19:20] [localSession-7-4/INFO]: lasayou (logged in as: lasayou) has connected to the Java server
+[12:19:21] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[12:19:21] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[12:19:21] [Server thread/INFO]: .lasayou[/106.252.222.90:0] logged in with entity id 18479 at ([world]-1478.6266, 63.0, -1114.798)
+[12:26:44] [Async Chat Thread - #21/INFO]: [Not Secure] <.Tyrine74> 뭘 만드길래
+[12:26:52] [Async Chat Thread - #21/INFO]: [Not Secure] <.Tyrine74> 흙이 글케 필요한가
+[12:27:09] [Async Chat Thread - #23/INFO]: [Not Secure] <.lasayou> 아 아건 그냥 깎는거...겸사겸사 강도 매꾸고...
+[12:27:18] [Async Chat Thread - #21/INFO]: [Not Secure] <.Tyrine74> 으헤

@@ -353,3 +353,29 @@
 [12:57:36] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .lasayou disconnected
 [12:57:36] [Server thread/INFO]: .lasayou lost connection: Disconnected
 [12:57:36] [Server thread/INFO]: [93m.lasayou left the game[0m
+[13:02:13] [Server thread/INFO]: .Tyrine74 has made the advancement [92m[A Seedy Place][0m
+[13:05:35] [Server thread/WARN]: .Tyrine74 moved wrongly!, (0.4200000000000017)
+[13:06:39] [Geyser Spigot connection thread-6-3/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[13:06:39] [localSession-7-2/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client timed out
+[13:06:39] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[13:06:39] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[13:08:31] [epollEventLoopGroup-4-1/INFO]: Player connected with username wizness823
+[13:08:31] [localSession-7-2/INFO]: wizness823 (logged in as: wizness823) has connected to the Java server
+[13:08:32] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
+[13:08:32] [Server thread/INFO]: [93m.wizness823 joined the game[0m
+[13:08:32] [Server thread/INFO]: .wizness823[/121.173.161.173:0] logged in with entity id 27527 at ([world]-1427.9945, 63.0, -1019.4242)
+[13:12:25] [Server thread/WARN]: .wizness823 moved wrongly!, (0.1429600000000022)
+[13:12:31] [Server thread/INFO]: .wizness823 drowned
+[13:20:18] [Server thread/INFO]: .wizness823 drowned
+[13:20:42] [Server thread/WARN]: .wizness823 moved wrongly!, (0.0)
+[13:25:58] [localSession-7-3/INFO]: lasayou (logged in as: lasayou) has connected to the Java server
+[13:25:58] [epollEventLoopGroup-4-2/INFO]: Player connected with username lasayou
+[13:25:59] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[13:25:59] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[13:25:59] [Server thread/INFO]: .lasayou[/58.150.55.168:0] logged in with entity id 29642 at ([world]-1447.582, 25.0, -1024.6621)
+[13:27:57] [epollEventLoopGroup-4-3/INFO]: Player connected with username Tyrine74
+[13:27:57] [localSession-7-4/INFO]: Tyrine74 (logged in as: Tyrine74) has connected to the Java server
+[13:27:58] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[13:27:58] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[13:27:58] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 30071 at ([world]-1478.8789, 69.0, -1029.7882)
+[13:29:41] [Server thread/INFO]: .wizness823 tried to swim in lava

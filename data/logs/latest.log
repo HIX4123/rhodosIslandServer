@@ -765,3 +765,8 @@
 [15:58:50] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .wizness823 disconnected
 [15:58:50] [Server thread/INFO]: .wizness823 lost connection: Disconnected
 [15:58:50] [Server thread/INFO]: [93m.wizness823 left the game[0m
+[16:06:47] [Server thread/INFO]: AreYouOffline (/51.158.77.87:52330) lost connection: Timed out
+[16:27:15] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[16:27:15] [localSession-7-1/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client disconnected
+[16:27:15] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[16:27:15] [Server thread/INFO]: [93m.Tyrine74 left the game[0m

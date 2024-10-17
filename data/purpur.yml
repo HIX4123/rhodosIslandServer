@@ -1125,9 +1125,9 @@ world-settings:
         attributes:
           max_health: "20.0"
           attack_damage: 6 + size
-        attacked-by-crystal-range: 0.0
+        attacked-by-crystal-range: 1.0
         attacked-by-crystal-damage: 1.0
-        orbit-crystal-radius: 0.0
+        orbit-crystal-radius: 2.0
         spawn:
           min-sky-darkness: 5
           only-above-sea-level: true
@@ -1138,7 +1138,7 @@ world-settings:
             max: -1
         burn-in-light: 0
         burn-in-daylight: true
-        ignore-players-with-torch: false
+        ignore-players-with-torch: true
         flames-on-swoop: false
         takes-damage-from-water: false
         always-drop-exp: false
@@ -1152,7 +1152,7 @@ world-settings:
         attributes:
           max_health: 10.0
           scale: 1.0
-        give-saddle-back: false
+        give-saddle-back: true
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
         always-drop-exp: false
@@ -1168,7 +1168,7 @@ world-settings:
         portal-spawn-modifier: 2000
         always-drop-exp: false
         head-visibility-percent: 0.5
-        ignores-armor-with-gold-trim: false
+        ignores-armor-with-gold-trim: true
       piglin_brute:
         ridable: false
         ridable-in-water: true
@@ -1274,8 +1274,8 @@ world-settings:
           require-open-lid: true
           nearby-range: 8.0
           nearby-equation: (nearby - 1) / 5.0
-          random-color: false
-        change-color-with-dye: false
+          random-color: true
+        change-color-with-dye: true
         always-drop-exp: false
       silverfish:
         ridable: false
@@ -1298,7 +1298,7 @@ world-settings:
           scale: 1.0
         takes-damage-from-water: false
         always-drop-exp: false
-        head-visibility-percent: 0.5
+        head-visibility-percent: 0.5  
         feed-wither-roses: 0
         bow-accuracy: 14 - difficulty * 4
       skeleton_horse:
@@ -1330,11 +1330,11 @@ world-settings:
         ridable: false
         ridable-in-water: true
         controllable: true
-        leave-trail-when-ridden: false
+        leave-trail-when-ridden: true
         attributes:
           max_health: 4.0
           scale: 1.0
-        pumpkin-can-be-added-back: false
+        pumpkin-can-be-added-back: true
         min-shoot-interval-ticks: 20
         max-shoot-interval-ticks: 20
         snow-ball-modifier: 10.0
@@ -1387,7 +1387,7 @@ world-settings:
           max_health: 20.0
           scale: 1.0
         breeding-delay-ticks: 6000
-        give-saddle-back: false
+        give-saddle-back: true
         takes-damage-from-water: true
         always-drop-exp: false
       tadpole:
@@ -1446,11 +1446,11 @@ world-settings:
         attributes:
           max_health: 20.0
           scale: 1.0
-        follow-emerald-blocks: false
-        can-be-leashed: false
+        follow-emerald-blocks: true
+        can-be-leashed: true
         can-breed: true
         breeding-delay-ticks: 6000
-        clerics-farm-warts: false
+        clerics-farm-warts: true
         cleric-wart-farmers-throw-warts-at-villagers: true
         bypass-mob-griefing: false
         takes-damage-from-water: false
@@ -1486,8 +1486,8 @@ world-settings:
         attributes:
           max_health: 20.0
           scale: 1.0
-        follow-emerald-blocks: false
-        can-be-leashed: false
+        follow-emerald-blocks: true
+        can-be-leashed: true
         takes-damage-from-water: false
         allow-trading: true
         always-drop-exp: false
@@ -1563,7 +1563,7 @@ world-settings:
           only-babies: true
           chance: 0.05
           try-existing-chickens: true
-        aggressive-towards-villager-when-lagging: true
+        aggressive-towards-villager-when-lagging: false 
         bypass-mob-griefing: false
         takes-damage-from-water: false
         always-drop-exp: false
@@ -1627,16 +1627,16 @@ world-settings:
     gameplay-mechanics:
       armorstand:
         step-height: 0.0
-        set-name-visible-when-placing-with-custom-name: false
-        fix-nametags: false
+        set-name-visible-when-placing-with-custom-name: true
+        fix-nametags: true
         can-movement-tick: true
         can-move-in-water: true
         can-move-in-water-over-fence: true
-        place-with-arms-visible: false
+        place-with-arms-visible: true
       arrow:
         movement-resets-despawn-counter: true
-      use-better-mending: false
-      always-tame-in-creative: false
+      use-better-mending: true
+      always-tame-in-creative: true
       boat:
         eject-players-on-land: false
         do-fall-damage: false
@@ -1650,7 +1650,7 @@ world-settings:
       milk-cures-bad-omen: true
       milk-clears-beneficial-effects: true
       note-block-ignore-above: false
-      persistent-tileentity-lore: false
+      persistent-tileentity-lore: true
       persistent-tileentity-display-name: true
       persistent-droppable-entity-display-names: true
       projectiles-bypass-mob-griefing: false
@@ -1659,7 +1659,7 @@ world-settings:
       trident-loyalty-void-return-height: 0.0
       raid-cooldown-seconds: 0
       animal-breeding-cooldown-seconds: 0
-      mobs-ignore-rails: false
+      mobs-ignore-rails: true
       rain-stops-after-sleep: true
       thunder-stops-after-sleep: true
       mob-last-hurt-by-player-time: 100
@@ -1679,7 +1679,7 @@ world-settings:
           trident: 0
         kinetic-damage: true
       infinity-bow:
-        works-without-arrows: false
+        works-without-arrows: true
       clamp-explosion-radius: true
       item:
         immune:
@@ -1688,9 +1688,9 @@ world-settings:
           fire: []
           lightning: []
         shears:
-          damage-if-sprinting: false
-          ignore-in-water: false
-          ignore-in-lava: false
+          damage-if-sprinting: true
+          ignore-in-water: true
+          ignore-in-lava: true
           sprinting-damage: 1.0
           defuse-tnt-chance: 0.0
         ender-pearl:
@@ -1699,16 +1699,16 @@ world-settings:
           creative-cooldown: 20
           endermite-spawn-chance: 0.05000000074505806
         glow_berries:
-          eat-glow-duration: 0
+          eat-glow-duration: 20
         shulker_box:
           drop-contents-when-destroyed: true
         compass:
-          holding-shows-bossbar: false
+          holding-shows-bossbar: true
         snowball:
           extinguish:
-            fire: false
-            candles: false
-            campfires: false
+            fire: true
+            candles: true
+            campfires: true
         end-crystal:
           place-anywhere: false
       mob-effects:
@@ -1727,24 +1727,24 @@ world-settings:
         ignore-creative-players: false
       player:
         netherite-fire-resistance:
-          duration: 0
+          duration: 10
           amplifier: 0
-          ambient: false
+          ambient: true
           show-particles: false
-          show-icon: true
+          show-icon: false
         idle-timeout:
           kick-if-idle: true
           tick-nearby-entities: true
-          count-as-sleeping: false
-          update-tab-list: false
+          count-as-sleeping: true
+          update-tab-list: true
           mobs-target: true
         exp-dropped-on-death:
           equation: expLevel * 7
           maximum: 100
         teleport-if-outside-border: false
         teleport-on-nether-ceiling-damage: false
-        totem-of-undying-works-in-inventory: false
-        fix-stuck-in-portal: false
+        totem-of-undying-works-in-inventory: true
+        fix-stuck-in-portal: true
         one-punch-in-creative: false
         sleep-ignore-nearby-mobs: false
         can-skip-night: true

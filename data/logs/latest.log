@@ -500,3 +500,9 @@ java.nio.file.AccessDeniedException: ./world/playerdata/00000000-0000-0000-0009-
 [10:10:00] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .Tyrine74 disconnected
 [10:10:00] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
 [10:10:00] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[10:56:34] [epollEventLoopGroup-4-2/INFO]: Player connected with username wizness823
+[10:56:34] [localSession-7-2/INFO]: wizness823 (logged in as: wizness823) has connected to the Java server
+[10:56:35] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
+[10:56:35] [Server thread/INFO]: [93m.wizness823 joined the game[0m
+[10:56:35] [Server thread/INFO]: .wizness823[/222.121.201.91:0] logged in with entity id 44963 at ([world]0.2610646, 50.093940286603555, 56.02189)
+[10:56:48] [Server thread/INFO]: .wizness823 drowned

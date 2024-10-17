@@ -80,3 +80,46 @@
 [05:56:14] [spark-async-sampler-worker-thread/WARN]: 	... 7 more
 [07:11:27] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
 [07:11:27] [RCON Client /0:0:0:0:0:0:0:1 #3/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[07:58:57] [epollEventLoopGroup-4-1/INFO]: Player connected with username syhana7338
+[07:58:57] [localSession-7-2/INFO]: syhana7338 (logged in as: syhana7338) has connected to the Java server
+[07:58:58] [Server thread/INFO]: Floodgate player logged in as .syhana7338 joined (UUID: 00000000-0000-0000-0009-01fcf632faa0)
+[07:58:58] [Server thread/WARN]: Failed to load player data for .syhana7338
+[07:58:58] [Server thread/WARN]: Failed to copy the player.dat file for .syhana7338
+java.nio.file.AccessDeniedException: ./world/playerdata/00000000-0000-0000-0009-01fcf632faa0.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystem.copyFile(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystem.copy(Unknown Source) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.copy(Unknown Source) ~[?:?]
+	at java.base/java.nio.file.Files.copy(Unknown Source) ~[?:?]
+	at net.minecraft.world.level.storage.PlayerDataStorage.backup(PlayerDataStorage.java:65) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.world.level.storage.PlayerDataStorage.load(PlayerDataStorage.java:132) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.world.level.storage.PlayerDataStorage.load(PlayerDataStorage.java:112) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.players.PlayerList.load(PlayerList.java:565) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.players.PlayerList.placeNewPlayer(PlayerList.java:200) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.handleConfigurationFinished(ServerConfigurationPacketListenerImpl.java:173) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:22) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:13) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1581) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1558) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1551) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1510) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1517) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1362) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:333) ~[purpur-1.21.1.jar:1.21.1-2326-4f2fe31]
+	at java.base/java.lang.Thread.run(Unknown Source) [?:?]
+[07:58:58] [Server thread/WARN]: Failed to load player data for .syhana7338
+[07:58:58] [Server thread/INFO]: [93m.syhana7338 joined the game[0m
+[07:58:58] [Server thread/INFO]: .syhana7338[/58.122.12.101:0] logged in with entity id 106 at ([world]-2.5, 79.0, -40.5)
+[07:59:33] [localSession-7-2/INFO]: syhana7338 has disconnected from the Java server because of Bedrock client disconnected
+[07:59:33] [Geyser Spigot connection thread-6-3/INFO]: Floodgate player logged in as .syhana7338 disconnected
+[07:59:33] [Server thread/INFO]: .syhana7338 lost connection: Disconnected
+[07:59:33] [Server thread/INFO]: [93m.syhana7338 left the game[0m

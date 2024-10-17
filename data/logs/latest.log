@@ -123,3 +123,57 @@ java.nio.file.AccessDeniedException: ./world/playerdata/00000000-0000-0000-0009-
 [07:59:33] [Geyser Spigot connection thread-6-3/INFO]: Floodgate player logged in as .syhana7338 disconnected
 [07:59:33] [Server thread/INFO]: .syhana7338 lost connection: Disconnected
 [07:59:33] [Server thread/INFO]: [93m.syhana7338 left the game[0m
+[08:01:13] [epollEventLoopGroup-4-2/INFO]: Player connected with username syhana7338
+[08:01:13] [localSession-7-3/INFO]: syhana7338 (logged in as: syhana7338) has connected to the Java server
+[08:01:14] [Server thread/INFO]: Floodgate player logged in as .syhana7338 joined (UUID: 00000000-0000-0000-0009-01fcf632faa0)
+[08:01:14] [Server thread/INFO]: [93m.syhana7338 joined the game[0m
+[08:01:14] [Server thread/INFO]: .syhana7338[/58.122.12.101:0] logged in with entity id 627 at ([world]-4.0319014, 82.0, -43.659214)
+[08:09:15] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.33941572807174225
+[08:09:15] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.311776497860933
+[08:11:13] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.29014463629573584
+[08:11:14] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.3888920140452683
+[08:11:56] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.33560742265990484
+[08:13:24] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.42185295443050563
+[08:13:24] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.2786796025466174
+[08:13:24] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.59375
+[08:13:24] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.2996826171875
+[08:13:24] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.600830078125
+[08:13:24] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.90087890625
+[08:13:24] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.2984619140625
+[08:13:24] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.5887451171875
+[08:13:24] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.8800048828125
+[08:13:24] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.2890625
+[08:13:25] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.5706787109375
+[08:13:25] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.854736328125
+[08:13:25] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.283203125
+[08:13:25] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.5633544921875
+[08:13:25] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.844482421875
+[08:13:25] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.28076171875
+[08:13:25] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.54736328125
+[08:13:25] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.79736328125
+[08:13:59] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.5167909806071975
+[08:13:59] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.358110604010335
+[08:13:59] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.6658070422782885
+[08:14:00] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.3188858396052865
+[08:14:01] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.361211305529082
+[08:14:20] [Server thread/INFO]: .syhana7338 was shot by Skeleton using [97m[Bow][0m
+[08:20:53] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .syhana7338 disconnected
+[08:20:53] [localSession-7-3/INFO]: syhana7338 has disconnected from the Java server because of Bedrock client disconnected
+[08:20:53] [Server thread/INFO]: .syhana7338 lost connection: Disconnected
+[08:20:53] [Server thread/INFO]: [93m.syhana7338 left the game[0m
+[08:21:04] [epollEventLoopGroup-4-3/INFO]: Player connected with username syhana7338
+[08:21:04] [localSession-7-4/INFO]: syhana7338 (logged in as: syhana7338) has connected to the Java server
+[08:21:05] [Server thread/INFO]: Floodgate player logged in as .syhana7338 joined (UUID: 00000000-0000-0000-0009-01fcf632faa0)
+[08:21:05] [Server thread/INFO]: [93m.syhana7338 joined the game[0m
+[08:21:05] [Server thread/INFO]: .syhana7338[/58.122.12.101:0] logged in with entity id 11039 at ([world]-1064.830810546875, 62.23747863769531, -694.0020751953125)
+[08:22:06] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.39882584381848574
+[08:22:07] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.34566199127584696
+[08:22:31] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.2675599157810211
+[08:22:32] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.3292067423462868
+[08:22:32] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.3684053383767605
+[08:22:32] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.2738956902176142
+[08:22:32] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.5641474220901728
+[08:22:32] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.33396813087165356
+[08:22:45] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.25843752469154424
+[08:22:45] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.2858804046663863
+[08:22:45] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.41050383183392114

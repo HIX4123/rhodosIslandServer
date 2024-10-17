@@ -778,3 +778,7 @@
 [19:14:33] [Server thread/INFO]: .Tyrine74 was shot by Skeleton using [97m[Bow][0m
 [19:16:07] [Server thread/INFO]: .Tyrine74 hit the ground too hard
 [19:24:39] [Server thread/INFO]: .Tyrine74 has made the advancement [92m[Bee Our Guest][0m
+[19:58:53] [localSession-7-4/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client timed out
+[19:58:53] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[19:58:53] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[19:58:53] [Server thread/INFO]: [93m.Tyrine74 left the game[0m

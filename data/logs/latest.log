@@ -495,3 +495,8 @@ java.nio.file.AccessDeniedException: ./world/playerdata/00000000-0000-0000-0009-
 [09:56:43] [Server thread/INFO]: .lasayou lost connection: Disconnected
 [09:56:43] [Server thread/INFO]: [93m.lasayou left the game[0m
 [09:59:19] [Server thread/WARN]: .Tyrine74 moved wrongly!, (0.4200000000000017)
+[10:02:44] [Server thread/INFO]: Villager Villager['Villager'/37832, uuid='fa32c920-baba-47b0-a365-41a365b818fa', l='ServerLevel[world]', x=-1503.30, y=71.00, z=-993.46, cpos=[-94, -63], tl=1136404, v=true] died, message: 'Villager hit the ground too hard'
+[10:10:00] [localSession-7-4/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client timed out
+[10:10:00] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[10:10:00] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[10:10:00] [Server thread/INFO]: [93m.Tyrine74 left the game[0m

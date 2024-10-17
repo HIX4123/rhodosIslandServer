@@ -644,3 +644,74 @@
 [14:59:38] [Server thread/INFO]: [93mSeworL joined the game[0m
 [14:59:38] [Server thread/INFO]: SeworL[/113.131.33.203:53846] logged in with entity id 61627 at ([world]-1487.6940399584887, 70.0, -999.7906884312798)
 [14:59:54] [Server thread/INFO]: .lasayou fell from a high place
+[15:00:17] [Server thread/INFO]: .wizness823 was slain by Zombie
+[15:00:48] [Async Chat Thread - #65/INFO]: [Not Secure] <.wizness823> 수중동굴 너무 없음
+[15:00:49] [Server thread/INFO]: .Tyrine74 was shot by Pillager using [97m[Crossbow][0m
+[15:00:51] [Async Chat Thread - #65/INFO]: [Not Secure] <.wizness823> ㅋㅋㅋㅋㅋ
+[15:00:55] [Async Chat Thread - #65/INFO]: [Not Secure] <.wizness823> 아니ㅜ뭔
+[15:00:57] [Async Chat Thread - #65/INFO]: [Not Secure] <SeworL> 저런
+[15:01:00] [Async Chat Thread - #65/INFO]: [Not Secure] <SeworL> 수중동굴은
+[15:01:01] [Async Chat Thread - #65/INFO]: [Not Secure] <.Tyrine74> 흉조 3
+[15:01:01] [Async Chat Thread - #66/INFO]: [Not Secure] <.lasayou> 수중동굴
+[15:01:06] [Async Chat Thread - #66/INFO]: [Not Secure] <SeworL> 오히려 스폰 근처에 있을듯?
+[15:01:08] [Async Chat Thread - #66/INFO]: [Not Secure] <.wizness823> 2000좌표 내에 없냐 말도리인데다
+[15:01:08] [Async Chat Thread - #66/INFO]: [Not Secure] <.lasayou> 제가 파다가 본거있는데
+[15:01:12] [Async Chat Thread - #66/INFO]: [Not Secure] <.lasayou> 알려드릴깨요
+[15:01:15] [Server thread/INFO]: SeworL issued server command: /deop .wizness823
+[15:01:15] [Server thread/INFO]: [3m[37m[SeworL: Made .wizness823 no longer a server operator][0m
+[15:01:21] [Async Chat Thread - #66/INFO]: [Not Secure] <.wizness823> 헤
+[15:01:21] [Server thread/INFO]: SeworL issued server command: /deop tyrine
+[15:01:21] [Server thread/INFO]: [3m[37m[SeworL: Made tyrine no longer a server operator][0m
+[15:02:20] [Async Chat Thread - #66/INFO]: [Not Secure] <SeworL> 웬 마녀가
+[15:02:33] [Server thread/INFO]: .Tyrine74 was slain by Wolf
+[15:02:41] [Async Chat Thread - #66/INFO]: [Not Secure] <.Tyrine74> 머지
+[15:02:44] [Async Chat Thread - #66/INFO]: [Not Secure] <.Tyrine74> 스폰 부셧는데
+[15:02:47] [Async Chat Thread - #66/INFO]: [Not Secure] <.Tyrine74> 왜 안가지
+[15:02:53] [Server thread/INFO]: Tyrine84 lost connection: You have been idle for too long!
+[15:02:53] [Server thread/INFO]: [93mTyrine84 left the game[0m
+[15:03:16] [Async Chat Thread - #65/INFO]: [Not Secure] <.Tyrine74> 춘식이 부릴려고 했는데 안되네
+[15:04:27] [Server thread/INFO]: .wizness823 drowned
+[15:07:52] [Async Chat Thread - #67/INFO]: [Not Secure] <.Tyrine74> 물로 쓸어버리는게 편하긴하메
+[15:12:04] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .lasayou disconnected
+[15:12:04] [localSession-7-3/INFO]: lasayou has disconnected from the Java server because of Bedrock client disconnected
+[15:12:04] [Server thread/INFO]: .lasayou lost connection: Disconnected
+[15:12:04] [Server thread/INFO]: [93m.lasayou left the game[0m
+[15:13:04] [Async Chat Thread - #69/INFO]: [Not Secure] <.Tyrine74> 티쟝 거미눈 줘
+[15:13:11] [Server thread/INFO]: .wizness823 drowned
+[15:14:48] [Server thread/INFO]: .wizness823 drowned
+[15:16:34] [Server thread/INFO]: .wizness823 drowned
+[15:17:24] [Server thread/INFO]: SeworL has made the advancement [92m[Shear Brilliance][0m
+[15:17:29] [Server thread/WARN]: .Tyrine74 moved wrongly!, (0.4200000000000017)
+[15:18:34] [Server thread/INFO]: .wizness823 drowned
+[15:18:59] [Async Chat Thread - #71/INFO]: [Not Secure] <.Tyrine74> 책장 11개
+[15:19:23] [Async Chat Thread - #71/INFO]: [Not Secure] <SeworL> 오늘은 딴서버 좀 가봐야겠다
+[15:19:29] [Async Chat Thread - #71/INFO]: [Not Secure] <SeworL> 문제 생기면 부르쇼
+[15:19:29] [Server thread/INFO]: SeworL lost connection: Disconnected
+[15:19:29] [Server thread/INFO]: [93mSeworL left the game[0m
+[15:19:30] [Async Chat Thread - #72/INFO]: [Not Secure] <.Tyrine74> 헤에
+[15:21:07] [Server thread/INFO]: .wizness823 drowned
+[15:21:37] [Async Chat Thread - #73/INFO]: [Not Secure] <.Tyrine74> 흠...
+[15:21:39] [Async Chat Thread - #73/INFO]: [Not Secure] <.Tyrine74> 담이
+[15:21:47] [Async Chat Thread - #74/INFO]: [Not Secure] <.Tyrine74> 대나무 불질러도되?
+[15:21:53] [Async Chat Thread - #74/INFO]: [Not Secure] <.wizness823> ?
+[15:21:59] [Async Chat Thread - #74/INFO]: [Not Secure] <.wizness823> 내쩍만 아니면야
+[15:22:01] [Async Chat Thread - #74/INFO]: [Not Secure] <.Tyrine74> 슬슬 나무가 딸려
+[15:22:08] [Async Chat Thread - #74/INFO]: [Not Secure] <.Tyrine74> 왜 담이의 의견을 묻겟서
+[15:22:10] [Async Chat Thread - #74/INFO]: [Not Secure] <.wizness823> 미로는 그건디야
+[15:22:10] [Async Chat Thread - #74/INFO]: [Not Secure] <.Tyrine74> ㅋㅋㅋ
+[15:22:21] [Async Chat Thread - #74/INFO]: [Not Secure] <.wizness823> 내 버루같튼거임
+[15:22:41] [Async Chat Thread - #74/INFO]: [Not Secure] <.Tyrine74> 그럼 쩔수없고
+[15:23:47] [Async Chat Thread - #75/INFO]: [Not Secure] <.wizness823> 아 맞다
+[15:23:53] [Async Chat Thread - #75/INFO]: [Not Secure] <.wizness823> 나 내집네서
+[15:23:58] [Async Chat Thread - #75/INFO]: [Not Secure] <.wizness823> 일자굴 파다
+[15:24:07] [Async Chat Thread - #75/INFO]: [Not Secure] <.wizness823> 다야4개마금
+[15:24:27] [Async Chat Thread - #75/INFO]: [Not Secure] <.Tyrine74> 그렇구나
+[15:24:32] [Async Chat Thread - #75/INFO]: [Not Secure] <.wizness823> ㅋㅋㅋ
+[15:24:37] [Async Chat Thread - #75/INFO]: [Not Secure] <.Tyrine74> -54까지 내려가보면 더 많이 벌수있어
+[15:24:42] [Async Chat Thread - #75/INFO]: [Not Secure] <.wizness823> 헤
+[15:26:53] [Server thread/INFO]: Villager Villager['Mason'/135, uuid='a16ab446-e28f-4c41-b14c-bec72bfe50b5', l='ServerLevel[world]', x=-1478.62, y=68.42, z=-997.30, cpos=[-93, -63], tl=399319, v=true] died, message: 'Mason was slain by Zombie'
+[15:27:15] [Server thread/INFO]: .Tyrine74 was slain by Zombie
+[15:27:37] [Server thread/INFO]: .Tyrine74 was slain by Zombie
+[15:28:37] [Server thread/INFO]: .wizness823 drowned
+[15:28:57] [Server thread/INFO]: .Tyrine74 was slain by Zombie
+[15:29:09] [Server thread/WARN]: .Tyrine74 moved wrongly!, (0.0)

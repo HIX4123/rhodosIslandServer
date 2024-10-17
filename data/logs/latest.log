@@ -177,3 +177,7 @@ java.nio.file.AccessDeniedException: ./world/playerdata/00000000-0000-0000-0009-
 [08:22:45] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.25843752469154424
 [08:22:45] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.2858804046663863
 [08:22:45] [Server thread/WARN]: Oak Boat (vehicle of .syhana7338) moved wrongly! 0.41050383183392114
+[08:30:22] [localSession-7-4/INFO]: syhana7338 has disconnected from the Java server because of Bedrock client disconnected
+[08:30:22] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .syhana7338 disconnected
+[08:30:22] [Server thread/INFO]: .syhana7338 lost connection: Disconnected
+[08:30:22] [Server thread/INFO]: [93m.syhana7338 left the game[0m

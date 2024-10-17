@@ -782,3 +782,9 @@
 [19:58:53] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .Tyrine74 disconnected
 [19:58:53] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
 [19:58:53] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[20:06:49] [localSession-7-1/INFO]: Tyrine74 (logged in as: Tyrine74) has connected to the Java server
+[20:06:49] [epollEventLoopGroup-4-4/INFO]: Player connected with username Tyrine74
+[20:06:50] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[20:06:51] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[20:06:51] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 86804 at ([world]-1502.7247, 74.0, -991.0907)
+[20:16:32] [Server thread/INFO]: .Tyrine74 was shot by Skeleton using [97m[Bow][0m

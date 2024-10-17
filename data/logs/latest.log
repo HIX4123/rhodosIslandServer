@@ -33,3 +33,5 @@
 [01:38:00] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .wizness823 disconnected
 [01:38:00] [Server thread/INFO]: .wizness823 lost connection: Disconnected
 [01:38:00] [Server thread/INFO]: [93m.wizness823 left the game[0m
+[03:30:01] [localSession-7-2/INFO]: lasayou (logged in as: lasayou) has connected to the Java server
+[03:30:01] [epollEventLoopGroup-4-2/INFO]: Player connected with username lasayou

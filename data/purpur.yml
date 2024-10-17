@@ -96,22 +96,22 @@ settings:
     hide-hidden-players-from-entity-selector: false
     uptime:
       format: <days><hours><minutes><seconds>
-      day: "%02d day, "
-      days: "%02d days, "
-      hour: "%02d hour, "
-      hours: "%02d hours, "
-      minute: "%02d minute, and "
-      minutes: "%02d minutes, and "
-      second: "%02d second"
-      seconds: "%02d seconds"
+      day: "%02d일 "
+      days: "%02d일 "
+      hour: "%02d시간 "
+      hours: "%02d시간 "
+      minute: "%02d분"
+      minutes: "%02d분 "
+      second: "%02d초"
+      seconds: "%02d초"
   blocks:
     barrel:
       rows: 3
     ender_chest:
-      six-rows: false
+      six-rows: true
       use-permissions-for-rows: false
     crying_obsidian:
-      valid-for-portal-frame: false
+      valid-for-portal-frame: true
     beehive:
       max-bees-inside: 3
     anvil:
@@ -207,7 +207,7 @@ world-settings:
           level-2: 30
           level-3: 40
           level-4: 50
-        allow-effects-with-tinted-glass: false
+        allow-effects-with-tinted-glass: true
       bed:
         explode: true
         explode-on-villager-sleep: false
@@ -231,7 +231,7 @@ world-settings:
       chest:
         open-with-solid-block-on-top: false
       composter:
-        sneak-to-bulk-process: false
+        sneak-to-bulk-process: true
       coral:
         die-outside-water: true
       dispenser:
@@ -257,9 +257,9 @@ world-settings:
         bypass-mob-griefing: false
         gets-moist-from-below: false
         use-alpha-farmland: false
-        disable-trampling: false
+        disable-trampling: true
         only-players-trample: false
-        feather-fall-distance-affects-trampling: false
+        feather-fall-distance-affects-trampling: true
         trample-height: -1.0
       flowering_azalea:
         growth-chance: 0.0
@@ -293,29 +293,29 @@ world-settings:
       sign:
         allow-colors: false
       slab:
-        break-individual-slabs-when-sneaking: false
+        break-individual-slabs-when-sneaking: true
       spawner:
         deactivate-by-redstone: false
-        fix-mc-238526: false
+        fix-mc-238526: true
       sponge:
         absorption:
           area: 65
           radius: 6
         absorbs-lava: false
-        absorbs-water-from-mud: false
+        absorbs-water-from-mud: true
       stonecutter:
-        damage: 0.0
+        damage: 1.0
       turtle_egg:
         break-from-exp-orbs: false
         break-from-items: false
         break-from-minecarts: false
         bypass-mob-griefing: false
         random-tick-crack-chance: 500
-        feather-fall-distance-affects-trampling: false
+        feather-fall-distance-affects-trampling: true
       water:
         infinite-required-sources: 2
       enchantment-table:
-        lapis-persists: false
+        lapis-persists: true
       conduit:
         effect-distance: 16
         mob-damage:
@@ -794,7 +794,7 @@ world-settings:
         bypass-mob-griefing: false
         takes-damage-from-water: false
         explode-when-killed: false
-        health-impacts-explosion: false
+        health-impacts-explosion: true  
         always-drop-exp: false
         head-visibility-percent: 0.5
         encircle-target: false
@@ -857,7 +857,7 @@ world-settings:
         ridable-max-y: 320.0
         attributes:
           max_health: 200.0
-        always-drop-full-exp: false
+        always-drop-full-exp: true
         bypass-mob-griefing: false
         takes-damage-from-water: false
         can-ride-vehicles: false
@@ -1026,8 +1026,8 @@ world-settings:
           max_health: 100.0
           scale: 1.0
         takes-damage-from-water: false
-        poppy-calms-anger: false
-        healing-calms-anger: false
+        poppy-calms-anger: true
+        healing-calms-anger: true
         always-drop-exp: false
       llama:
         ridable: false

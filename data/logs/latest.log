@@ -379,3 +379,54 @@
 [13:27:58] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
 [13:27:58] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 30071 at ([world]-1478.8789, 69.0, -1029.7882)
 [13:29:41] [Server thread/INFO]: .wizness823 tried to swim in lava
+[13:30:39] [Async Chat Thread - #26/INFO]: [Not Secure] <.Tyrine74> 나 소리 껏아
+[13:33:01] [Async Chat Thread - #28/INFO]: [Not Secure] <.lasayou> 끄으응
+[13:33:07] [Async Chat Thread - #30/INFO]: [Not Secure] <.lasayou> 수중동굴이 생각보다
+[13:33:10] [Async Chat Thread - #30/INFO]: [Not Secure] <.lasayou> 매우 크군요
+[13:36:58] [Server thread/WARN]: .lasayou moved wrongly!, (0.052530000000000854)
+[13:38:21] [Async Chat Thread - #31/INFO]: [Not Secure] <.wizness823> 오 보인다
+[13:38:26] [Async Chat Thread - #31/INFO]: [Not Secure] <.wizness823> ㅣ네요 저희 ㅋㅋ
+[13:40:16] [Server thread/WARN]: .wizness823 moved wrongly!, (0.0)
+[13:41:23] [Async Chat Thread - #33/INFO]: [Not Secure] <.Tyrine74> 뭐지
+[13:41:36] [Async Chat Thread - #34/INFO]: [Not Secure] <.Tyrine74> 템이 안먹어지네
+[13:42:16] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[13:42:16] [localSession-7-4/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client disconnected
+[13:42:16] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[13:42:16] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[13:42:21] [Async Chat Thread - #34/INFO]: [Not Secure] <.lasayou> 흐엉ㅇㅇ 동굴 너무 무서워요 ㅠㅜㅠㅜㅠㅜ
+[13:43:26] [Server thread/INFO]: .wizness823 drowned
+[13:44:00] [Async Chat Thread - #35/INFO]: [Not Secure] <.wizness823> 혹시
+[13:44:04] [Async Chat Thread - #35/INFO]: [Not Secure] <.wizness823> 같이 캐실래영
+[13:44:18] [Async Chat Thread - #36/INFO]: [Not Secure] <.lasayou> 아 저 캐는게 아니라
+[13:44:24] [Async Chat Thread - #36/INFO]: [Not Secure] <.lasayou> 땅굴 파는데..
+[13:44:30] [Async Chat Thread - #36/INFO]: [Not Secure] <.lasayou> 하..수중 동굴이 겹쳐서..
+[13:44:37] [Async Chat Thread - #36/INFO]: [Not Secure] <.lasayou> 길울 만들어내는 샹고생을..
+[13:44:42] [Async Chat Thread - #36/INFO]: [Not Secure] <.lasayou> 좀비가 너무 많아요.,,
+[13:46:06] [Server thread/WARN]: Oak Boat (vehicle of .wizness823) moved wrongly! 0.3122586542740464
+[13:46:06] [Server thread/WARN]: Oak Boat (vehicle of .wizness823) moved wrongly! 0.3727246420457959
+[13:49:07] [Async Chat Thread - #37/INFO]: [Not Secure] <.lasayou> ...이담님
+[13:49:14] [Async Chat Thread - #37/INFO]: [Not Secure] <.lasayou> 혹시 돌 지원 가능하신가요
+[13:49:22] [Async Chat Thread - #37/INFO]: [Not Secure] <.wizness823> 아
+[13:49:23] [Async Chat Thread - #37/INFO]: [Not Secure] <.lasayou> 아니다 그냥 해결해볼게요...
+[13:53:19] [Server thread/INFO]: .lasayou tried to swim in lava
+[13:54:04] [Server thread/INFO]: .wizness823 tried to swim in lava
+[13:54:32] [Async Chat Thread - #39/INFO]: [Not Secure] <.wizness823> 다시 함 가봐야징
+[13:54:47] [Async Chat Thread - #39/INFO]: [Not Secure] <.wizness823> 수중동굴에 지히덩굴???
+[13:57:03] [Server thread/INFO]: .wizness823 drowned
+[13:57:31] [Geyser Spigot connection thread-6-3/INFO]: Floodgate player logged in as .wizness823 disconnected
+[13:57:31] [localSession-7-2/INFO]: wizness823 has disconnected from the Java server because of Bedrock client disconnected
+[13:57:31] [Server thread/INFO]: .wizness823 lost connection: Disconnected
+[13:57:31] [Server thread/INFO]: [93m.wizness823 left the game[0m
+[13:59:19] [epollEventLoopGroup-4-4/INFO]: Player connected with username Tyrine74
+[13:59:19] [localSession-7-1/INFO]: Tyrine74 (logged in as: Tyrine74) has connected to the Java server
+[13:59:20] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[13:59:20] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[13:59:20] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 38666 at ([world]-1484.3126, 70.0, -1004.8452)
+[13:59:21] [epollEventLoopGroup-4-1/INFO]: Player connected with username wizness823
+[13:59:21] [localSession-7-2/INFO]: wizness823 (logged in as: wizness823) has connected to the Java server
+[13:59:22] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
+[13:59:22] [Server thread/INFO]: [93m.wizness823 joined the game[0m
+[13:59:22] [Server thread/INFO]: .wizness823[/121.173.161.173:0] logged in with entity id 38683 at ([world]-1524.975, 64.0, -862.56604)
+[13:59:47] [Async Chat Thread - #41/INFO]: [Not Secure] <.Tyrine74> 1층에 깔음
+[13:59:56] [Async Chat Thread - #41/INFO]: [Not Secure] <.lasayou> 어
+[14:00:00] [Async Chat Thread - #41/INFO]: [Not Secure] <.lasayou> 저기 약탈자 있어요

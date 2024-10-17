@@ -793,3 +793,12 @@
 [21:17:16] [localSession-7-1/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client disconnected
 [21:17:16] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
 [21:17:16] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[23:08:48] [localSession-7-2/INFO]: syhana7338 (logged in as: syhana7338) has connected to the Java server
+[23:08:48] [epollEventLoopGroup-4-1/INFO]: Player connected with username syhana7338
+[23:08:49] [Server thread/INFO]: Floodgate player logged in as .syhana7338 joined (UUID: 00000000-0000-0000-0009-01fcf632faa0)
+[23:08:49] [Server thread/INFO]: [93m.syhana7338 joined the game[0m
+[23:08:49] [Server thread/INFO]: .syhana7338[/58.122.12.101:0] logged in with entity id 99134 at ([world]340.0464, 77.0, -765.3197)
+[23:09:10] [localSession-7-2/INFO]: syhana7338 has disconnected from the Java server because of Bedrock client disconnected
+[23:09:10] [Geyser Spigot connection thread-6-3/INFO]: Floodgate player logged in as .syhana7338 disconnected
+[23:09:10] [Server thread/INFO]: .syhana7338 lost connection: Disconnected
+[23:09:10] [Server thread/INFO]: [93m.syhana7338 left the game[0m

@@ -53,3 +53,11 @@
 [05:00:12] [Server thread/INFO]: RCON running on 0.0.0.0:25575
 [05:00:12] [Server thread/INFO]: Running delayed init tasks
 [05:00:12] [Server thread/INFO]: Done (33.372s)! For help, type "help"
+[05:00:18] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[05:00:18] [Server thread/INFO]: [3m[37m[Rcon: Gamerule keepInventory is now set to: true][0m
+[05:00:18] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[05:20:55] [epollEventLoopGroup-4-1/INFO]: Player connected with username wizness823
+[05:20:55] [localSession-7-2/INFO]: wizness823 (logged in as: wizness823) has connected to the Java server
+[05:20:56] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
+[05:20:57] [Server thread/INFO]: [93m.wizness823 joined the game[0m
+[05:20:57] [Server thread/INFO]: .wizness823[/211.46.131.103:0] logged in with entity id 111 at ([world]-1366.863037109375, 62.23747863769531, -774.8408203125)

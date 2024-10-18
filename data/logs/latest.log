@@ -29,3 +29,9 @@
 [03:42:40] [localSession-7-1/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client timed out
 [03:42:40] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
 [03:42:40] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[04:44:24] [epollEventLoopGroup-4-1/INFO]: Player connected with username wizness823
+[04:44:24] [localSession-7-2/INFO]: wizness823 (logged in as: wizness823) has connected to the Java server
+[04:44:25] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
+[04:44:25] [Server thread/INFO]: [93m.wizness823 joined the game[0m
+[04:44:25] [Server thread/INFO]: .wizness823[/211.46.131.103:0] logged in with entity id 107896 at ([world]-1553.69999, 64.0, -967.5008)
+[04:56:07] [Server thread/INFO]: .wizness823 drowned

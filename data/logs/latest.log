@@ -8,3 +8,19 @@
 [02:50:19] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .wizness823 disconnected
 [02:50:19] [Server thread/INFO]: .wizness823 lost connection: Disconnected
 [02:50:19] [Server thread/INFO]: [93m.wizness823 left the game[0m
+[03:02:57] [epollEventLoopGroup-4-3/INFO]: Player connected with username Tyrine74
+[03:02:57] [localSession-7-4/INFO]: Tyrine74 (logged in as: Tyrine74) has connected to the Java server
+[03:02:58] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[03:02:58] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[03:02:58] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 101332 at ([world]-1502.275, 74.0, -991.2255)
+[03:03:30] [Server thread/WARN]: .Tyrine74 moved wrongly!, (0.4200000000000017)
+[03:09:34] [Server thread/INFO]: .Tyrine74 lost connection: You have been idle for too long!
+[03:09:34] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[03:09:34] [localSession-7-4/INFO]: Tyrine74 has disconnected from the Java server because of 너무 오랫동안 가만히 있었습니다!
+[03:09:34] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[03:12:13] [localSession-7-1/INFO]: Tyrine74 (logged in as: Tyrine74) has connected to the Java server
+[03:12:13] [epollEventLoopGroup-4-4/INFO]: Player connected with username Tyrine74
+[03:12:14] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[03:12:14] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[03:12:14] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 101949 at ([world]-1491.1512, 71.0, -1003.32733)
+[03:28:36] [Server thread/WARN]: .Tyrine74 moved wrongly!, (0.4200000000000017)

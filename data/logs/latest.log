@@ -201,3 +201,15 @@
 [07:58:09] [Server thread/INFO]: .Tyrine74 tried to swim in lava to escape Piglin
 [07:58:20] [Server thread/INFO]: .Tyrine74 was slain by Zombie
 [07:58:28] [Server thread/INFO]: .Tyrine74 was slain by Zombie
+[08:00:07] [Server thread/INFO]: .Tyrine74 tried to swim in lava
+[08:00:56] [Server thread/INFO]: .lasayou tried to swim in lava
+[08:06:19] [Server thread/INFO]: .lasayou burned to death
+[08:09:34] [Server thread/INFO]: .Tyrine74 tried to swim in lava
+[08:12:59] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[08:12:59] [localSession-7-4/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client disconnected
+[08:12:59] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[08:12:59] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[08:17:43] [Geyser Spigot connection thread-6-3/INFO]: Floodgate player logged in as .lasayou disconnected
+[08:17:43] [localSession-7-2/INFO]: lasayou has disconnected from the Java server because of Bedrock client disconnected
+[08:17:43] [Server thread/INFO]: .lasayou lost connection: Disconnected
+[08:17:44] [Server thread/INFO]: [93m.lasayou left the game[0m

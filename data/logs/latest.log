@@ -302,3 +302,7 @@
 [15:25:51] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
 [15:25:51] [Server thread/INFO]: [93m.lasayou joined the game[0m
 [15:25:51] [Server thread/INFO]: .lasayou[/112.152.226.202:0] logged in with entity id 167678 at ([world]-1476.4711, 64.0, -1108.3138)
+[15:36:10] [Geyser Spigot connection thread-6-3/INFO]: Floodgate player logged in as .lasayou disconnected
+[15:36:10] [localSession-7-2/INFO]: lasayou has disconnected from the Java server because of Bedrock client disconnected
+[15:36:10] [Server thread/INFO]: .lasayou lost connection: Disconnected
+[15:36:10] [Server thread/INFO]: [93m.lasayou left the game[0m

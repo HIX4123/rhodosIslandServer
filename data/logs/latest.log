@@ -24,3 +24,8 @@
 [03:12:14] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
 [03:12:14] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 101949 at ([world]-1491.1512, 71.0, -1003.32733)
 [03:28:36] [Server thread/WARN]: .Tyrine74 moved wrongly!, (0.4200000000000017)
+[03:32:21] [Server thread/INFO]: .Tyrine74 burned to death
+[03:42:40] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[03:42:40] [localSession-7-1/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client timed out
+[03:42:40] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[03:42:40] [Server thread/INFO]: [93m.Tyrine74 left the game[0m

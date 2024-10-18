@@ -246,3 +246,16 @@
 [10:56:32] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
 [10:56:32] [Server thread/INFO]: [93m.lasayou joined the game[0m
 [10:56:32] [Server thread/INFO]: .lasayou[/106.252.222.90:0] logged in with entity id 141211 at ([world]-1467.69999, 69.0, -990.7451)
+[11:06:32] [Geyser Spigot connection thread-6-3/INFO]: Floodgate player logged in as .lasayou disconnected
+[11:06:32] [localSession-7-2/INFO]: lasayou has disconnected from the Java server because of Bedrock client disconnected
+[11:06:32] [Server thread/INFO]: .lasayou lost connection: Disconnected
+[11:06:32] [Server thread/INFO]: [93m.lasayou left the game[0m
+[11:07:17] [epollEventLoopGroup-4-2/INFO]: Player connected with username lasayou
+[11:07:17] [localSession-7-3/INFO]: lasayou (logged in as: lasayou) has connected to the Java server
+[11:07:18] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[11:07:18] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[11:07:19] [Server thread/INFO]: .lasayou[/106.252.222.90:0] logged in with entity id 142461 at ([world]-1463.1964, 63.0, -1119.6174)
+[11:14:06] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .lasayou disconnected
+[11:14:06] [localSession-7-3/INFO]: lasayou has disconnected from the Java server because of Bedrock client disconnected
+[11:14:06] [Server thread/INFO]: .lasayou lost connection: Disconnected
+[11:14:06] [Server thread/INFO]: [93m.lasayou left the game[0m

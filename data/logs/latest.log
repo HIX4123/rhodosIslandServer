@@ -124,3 +124,55 @@
 [06:37:50] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
 [06:37:50] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
 [06:37:50] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 121776 at ([world]-1453.775, 69.5625, -1030.9371)
+[07:14:56] [localSession-7-1/INFO]: lasayou (logged in as: lasayou) has connected to the Java server
+[07:14:56] [epollEventLoopGroup-4-4/INFO]: Player connected with username lasayou
+[07:14:57] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[07:14:57] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[07:14:57] [Server thread/INFO]: .lasayou[/58.150.55.168:0] logged in with entity id 126166 at ([world]-1461.5398, 63.0, -1116.7262)
+[07:17:58] [Async Chat Thread - #109/INFO]: [Not Secure] <.Tyrine74> 샤노상
+[07:18:04] [Async Chat Thread - #109/INFO]: [Not Secure] <.Tyrine74> 음식 필요하신가
+[07:18:11] [Async Chat Thread - #109/INFO]: [Not Secure] <.lasayou> 헐 샤노 라뇨 ㅠㅠ
+[07:18:15] [Async Chat Thread - #109/INFO]: [Not Secure] <.lasayou> 흑흑
+[07:18:29] [Async Chat Thread - #109/INFO]: [Not Secure] <.Tyrine74> 사유
+[07:18:38] [Async Chat Thread - #109/INFO]: [Not Secure] <.Tyrine74> 그럴수도 있죠
+[07:18:41] [Async Chat Thread - #109/INFO]: [Not Secure] <.lasayou> ㅋㅋㅋㅋㅋ
+[07:18:43] [Async Chat Thread - #109/INFO]: [Not Secure] <.lasayou> 빵은
+[07:18:49] [Async Chat Thread - #109/INFO]: [Not Secure] <.lasayou> 어느정도 자급자족 가능햐요
+[07:18:52] [Async Chat Thread - #110/INFO]: [Not Secure] <.Tyrine74> 으헤
+[07:18:59] [Async Chat Thread - #110/INFO]: [Not Secure] <.lasayou> 전 수동이지만..헤헤
+[07:19:05] [Async Chat Thread - #110/INFO]: [Not Secure] <.Tyrine74> 소고기 64개 있는디
+[07:19:10] [Async Chat Thread - #110/INFO]: [Not Secure] <.lasayou> 예?
+[07:19:26] [Async Chat Thread - #110/INFO]: [Not Secure] <.Tyrine74> 필요없음 됐고
+[07:19:37] [Async Chat Thread - #110/INFO]: [Not Secure] <.lasayou> 아뇨 저도 좀..ㅎㅎ
+[07:19:40] [Async Chat Thread - #110/INFO]: [Not Secure] <.lasayou> 거기는 좋죠
+[07:19:42] [Async Chat Thread - #110/INFO]: [Not Secure] <.Tyrine74> 어디신가
+[07:19:42] [Async Chat Thread - #110/INFO]: [Not Secure] <.lasayou> 고기
+[07:20:03] [Async Chat Thread - #109/INFO]: [Not Secure] <.lasayou> ㄷㄷㄷ
+[07:20:12] [Async Chat Thread - #109/INFO]: [Not Secure] <.Tyrine74> 여 밀놀장
+[07:20:20] [Async Chat Thread - #109/INFO]: [Not Secure] <.Tyrine74> 물 설치흐면 아래까지 쭉가니
+[07:20:22] [Async Chat Thread - #109/INFO]: [Not Secure] <.Tyrine74> 편함
+[07:20:26] [Async Chat Thread - #109/INFO]: [Not Secure] <.lasayou> 그쵸
+[07:20:29] [Async Chat Thread - #109/INFO]: [Not Secure] <.Tyrine74> 설치는 수동이지만..
+[07:20:41] [Async Chat Thread - #109/INFO]: [Not Secure] <.Tyrine74> 소 대충 20개정도 먹이줘서 개체수 늘리고
+[07:20:44] [Async Chat Thread - #109/INFO]: [Not Secure] <.Tyrine74> 더축하심됨
+[07:20:48] [Async Chat Thread - #109/INFO]: [Not Secure] <.Tyrine74> 도축
+[07:20:56] [Async Chat Thread - #109/INFO]: [Not Secure] <.lasayou> 흠 농장 좀 딸깍으로 만들어볼까나
+[07:21:10] [Async Chat Thread - #109/INFO]: [Not Secure] <.Tyrine74> 주민 농장 고려하긴 했는데
+[07:21:17] [Async Chat Thread - #109/INFO]: [Not Secure] <.Tyrine74> 주민은 중간에 소실되는게 있으니
+[07:21:42] [Async Chat Thread - #109/INFO]: [Not Secure] <.lasayou> 그나저나 철공장은 폐지된건가요
+[07:21:55] [Async Chat Thread - #109/INFO]: [Not Secure] <.Tyrine74> 좀비는 남아있는걸로 봐선
+[07:22:02] [Async Chat Thread - #109/INFO]: [Not Secure] <.Tyrine74> 가동할려면 언제든지 될걸로 보임
+[07:22:21] [Async Chat Thread - #110/INFO]: [Not Secure] <.Tyrine74> 주민 지하에 가둬놓고 좀비 근처에 둬서 골램 생성 방식이라
+[07:22:55] [Async Chat Thread - #109/INFO]: [Not Secure] <.Tyrine74> 찰 없으신가
+[07:22:59] [Async Chat Thread - #110/INFO]: [Not Secure] <.lasayou> 네..
+[07:23:11] [Async Chat Thread - #110/INFO]: [Not Secure] <.lasayou> 곡괭이랑 삽만 쓴거 같은데
+[07:23:15] [Async Chat Thread - #110/INFO]: [Not Secure] <.Tyrine74> 가동하긴 해야것네
+[07:23:15] [Async Chat Thread - #110/INFO]: [Not Secure] <.lasayou> 살살 녹더라고요..ㅎㅎ
+[07:23:29] [Async Chat Thread - #110/INFO]: [Not Secure] <.Tyrine74> 일단 내가 구해둔거 드릴게
+[07:23:57] [Server thread/WARN]: .Tyrine74 moved wrongly!, (0.4200000000000017)
+[07:24:18] [Async Chat Thread - #110/INFO]: [Not Secure] <.Tyrine74> 어딘가 했네
+[07:24:25] [Async Chat Thread - #110/INFO]: [Not Secure] <.Tyrine74> 우리서버라고 티쟝이 멀하길래
+[07:24:29] [Async Chat Thread - #110/INFO]: [Not Secure] <.Tyrine74> 여기 구만
+[07:24:37] [Async Chat Thread - #110/INFO]: [Not Secure] <.lasayou> 에에
+[07:24:49] [Async Chat Thread - #110/INFO]: [Not Secure] <.lasayou> 감사해요
+[07:25:07] [Async Chat Thread - #110/INFO]: [Not Secure] <.Tyrine74> 근데 철 상자에 있긴할텐디

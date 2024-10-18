@@ -176,3 +176,28 @@
 [07:24:37] [Async Chat Thread - #110/INFO]: [Not Secure] <.lasayou> 에에
 [07:24:49] [Async Chat Thread - #110/INFO]: [Not Secure] <.lasayou> 감사해요
 [07:25:07] [Async Chat Thread - #110/INFO]: [Not Secure] <.Tyrine74> 근데 철 상자에 있긴할텐디
+[07:34:55] [Server thread/INFO]: .Tyrine74 has made the advancement [92m[Hot Stuff][0m
+[07:34:56] [Server thread/INFO]: .Tyrine74 tried to swim in lava
+[07:36:31] [Server thread/INFO]: .Tyrine74 tried to swim in lava
+[07:36:50] [Server thread/INFO]: .Tyrine74 tried to swim in lava
+[07:38:02] [Server thread/INFO]: .lasayou tried to swim in lava
+[07:49:35] [Async Chat Thread - #112/INFO]: [Not Secure] <.lasayou> 음
+[07:49:38] [Async Chat Thread - #112/INFO]: [Not Secure] <.lasayou> 양동이가
+[07:49:44] [Async Chat Thread - #112/INFO]: [Not Secure] <.lasayou> 원하는데 안설차 되는건
+[07:49:50] [Async Chat Thread - #112/INFO]: [Not Secure] <.lasayou> 상당히 화가 나느군요
+[07:51:44] [Server thread/INFO]: .lasayou was slain by Zombified Piglin using [97m[Golden Sword][0m
+[07:52:27] [Server thread/INFO]: .lasayou was slain by Zombified Piglin using [97m[Golden Sword][0m
+[07:52:33] [localSession-7-1/INFO]: lasayou has disconnected from the Java server because of Bedrock client disconnected
+[07:52:33] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .lasayou disconnected
+[07:52:33] [Server thread/INFO]: .lasayou lost connection: Disconnected
+[07:52:33] [Server thread/INFO]: [93m.lasayou left the game[0m
+[07:52:43] [epollEventLoopGroup-4-1/INFO]: Player connected with username lasayou
+[07:52:43] [localSession-7-2/INFO]: lasayou (logged in as: lasayou) has connected to the Java server
+[07:52:44] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[07:52:44] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[07:52:44] [Server thread/INFO]: .lasayou[/58.150.55.168:0] logged in with entity id 133953 at ([world]-1446.5, 61.0, -1100.5)
+[07:54:20] [Server thread/INFO]: .lasayou tried to swim in lava to escape Piglin
+[07:54:44] [Server thread/INFO]: .lasayou tried to swim in lava
+[07:58:09] [Server thread/INFO]: .Tyrine74 tried to swim in lava to escape Piglin
+[07:58:20] [Server thread/INFO]: .Tyrine74 was slain by Zombie
+[07:58:28] [Server thread/INFO]: .Tyrine74 was slain by Zombie

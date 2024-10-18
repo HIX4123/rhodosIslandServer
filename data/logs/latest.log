@@ -285,3 +285,20 @@
 [14:57:14] [User Authenticator #4/INFO]: UUID of player SeworL is a622774f-7d34-432a-9182-348fe6f6f2dc
 [14:57:15] [Server thread/INFO]: [93mSeworL joined the game[0m
 [14:57:15] [Server thread/INFO]: SeworL[/113.131.33.184:49902] logged in with entity id 164686 at ([world]-1471.4940577880377, 70.0, -1010.2679197180618)
+[15:02:57] [Server thread/INFO]: .lasayou was slain by Zombie
+[15:03:12] [Async Chat Thread - #113/INFO]: [Not Secure] <SeworL> 어우 핑 튄다
+[15:03:25] [Server thread/INFO]: SeworL가 자신을 반으로 잘랐습니다.
+[15:03:45] [Async Chat Thread - #113/INFO]: [Not Secure] <.lasayou> 흙은
+[15:03:49] [Server thread/INFO]: SeworL lost connection: Disconnected
+[15:03:49] [Server thread/INFO]: [93mSeworL left the game[0m
+[15:03:51] [Async Chat Thread - #113/INFO]: [Not Secure] <.lasayou> 필요 없겠죠!
+[15:03:53] [Async Chat Thread - #113/INFO]: [Not Secure] <.lasayou> 아
+[15:15:56] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .lasayou disconnected
+[15:15:56] [localSession-7-1/INFO]: lasayou has disconnected from the Java server because of Bedrock client disconnected
+[15:15:56] [Server thread/INFO]: .lasayou lost connection: Disconnected
+[15:15:56] [Server thread/INFO]: [93m.lasayou left the game[0m
+[15:25:50] [epollEventLoopGroup-4-1/INFO]: Player connected with username lasayou
+[15:25:50] [localSession-7-2/INFO]: lasayou (logged in as: lasayou) has connected to the Java server
+[15:25:51] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[15:25:51] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[15:25:51] [Server thread/INFO]: .lasayou[/112.152.226.202:0] logged in with entity id 167678 at ([world]-1476.4711, 64.0, -1108.3138)

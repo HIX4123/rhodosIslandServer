@@ -259,3 +259,11 @@
 [11:14:06] [localSession-7-3/INFO]: lasayou has disconnected from the Java server because of Bedrock client disconnected
 [11:14:06] [Server thread/INFO]: .lasayou lost connection: Disconnected
 [11:14:06] [Server thread/INFO]: [93m.lasayou left the game[0m
+[12:03:26] [epollEventLoopGroup-4-3/INFO]: Player connected with username wizness823
+[12:03:26] [localSession-7-4/INFO]: wizness823 (logged in as: wizness823) has connected to the Java server
+[12:03:27] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
+[12:03:27] [Server thread/INFO]: [93m.wizness823 joined the game[0m
+[12:03:27] [Server thread/INFO]: .wizness823[/121.173.161.173:0] logged in with entity id 143196 at ([world]-1447.859, 70.0, -1027.7477)
+[12:10:36] [Server thread/INFO]: .wizness823 drowned
+[12:17:13] [Server thread/WARN]: .wizness823 moved wrongly!, (-0.004999999999999005)
+[12:20:13] [Server thread/INFO]: .wizness823 fell from a high place

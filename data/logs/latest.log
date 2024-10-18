@@ -268,3 +268,12 @@
 [12:17:13] [Server thread/WARN]: .wizness823 moved wrongly!, (-0.004999999999999005)
 [12:20:13] [Server thread/INFO]: .wizness823 fell from a high place
 [12:48:18] [Server thread/INFO]: .wizness823 was shot by Skeleton using [97m[Bow][0m
+[13:04:23] [localSession-7-4/INFO]: wizness823 has disconnected from the Java server because of Bedrock client disconnected
+[13:04:23] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .wizness823 disconnected
+[13:04:23] [Server thread/INFO]: .wizness823 lost connection: Internal Exception: java.nio.channels.ClosedChannelException
+[13:04:23] [Server thread/INFO]: [93m.wizness823 left the game[0m
+[13:25:11] [localSession-7-1/INFO]: lasayou (logged in as: lasayou) has connected to the Java server
+[13:25:11] [epollEventLoopGroup-4-4/INFO]: Player connected with username lasayou
+[13:25:12] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[13:25:13] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[13:25:13] [Server thread/INFO]: .lasayou[/58.150.55.168:0] logged in with entity id 150312 at ([world]-1462.4507, 63.5625, -1124.6617)

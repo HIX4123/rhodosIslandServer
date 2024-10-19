@@ -7,3 +7,8 @@
 [00:56:23] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .syhana7338 disconnected
 [00:56:23] [Server thread/INFO]: .syhana7338 lost connection: Disconnected
 [00:56:23] [Server thread/INFO]: [93m.syhana7338 left the game[0m
+[01:54:18] [epollEventLoopGroup-4-3/INFO]: Player connected with username lasayou
+[01:54:18] [localSession-7-4/INFO]: lasayou (logged in as: lasayou) has connected to the Java server
+[01:54:19] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[01:54:19] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[01:54:19] [Server thread/INFO]: .lasayou[/58.150.55.168:0] logged in with entity id 170922 at ([world]-1484.30001, 66.0, -1026.5853)

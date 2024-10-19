@@ -205,3 +205,17 @@
 [12:28:27] [localSession-7-3/INFO]: lasayou has disconnected from the Java server because of Bedrock client disconnected
 [12:28:27] [Server thread/INFO]: .lasayou lost connection: Disconnected
 [12:28:27] [Server thread/INFO]: [93m.lasayou left the game[0m
+[14:19:09] [localSession-7-3/INFO]: Tyrine74 (logged in as: Tyrine74) has connected to the Java server
+[14:19:09] [epollEventLoopGroup-4-2/INFO]: Player connected with username Tyrine74
+[14:19:10] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[14:19:10] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[14:19:10] [Server thread/INFO]: .Tyrine74[/221.168.244.12:0] logged in with entity id 223694 at ([world]-1487.3691, 70.0, -999.9559)
+[14:29:04] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[14:29:04] [localSession-7-3/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client timed out
+[14:29:04] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[14:29:04] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[14:29:18] [epollEventLoopGroup-4-3/INFO]: Player connected with username Tyrine74
+[14:29:18] [localSession-7-4/INFO]: Tyrine74 (logged in as: Tyrine74) has connected to the Java server
+[14:29:19] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[14:29:19] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[14:29:19] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 224970 at ([world]-1473.9109, 68.0, -1039.6018)

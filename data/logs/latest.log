@@ -253,3 +253,7 @@
 [15:36:10] [Server thread/INFO]: Villager Villager['Villager'/224777, uuid='5ad58ddc-207b-455d-8fce-7267f146b1e9', l='ServerLevel[world]', x=-1476.50, y=66.00, z=-1010.70, cpos=[-93, -64], tl=80063, v=true] died, message: 'Villager tried to swim in lava'
 [15:40:13] [Server thread/INFO]: .Tyrine74 was blown up by Creeper
 [15:54:30] [Server thread/INFO]: .Tyrine74 tried to swim in lava
+[16:09:11] [localSession-7-3/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client disconnected
+[16:09:11] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[16:09:11] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[16:09:11] [Server thread/INFO]: [93m.Tyrine74 left the game[0m

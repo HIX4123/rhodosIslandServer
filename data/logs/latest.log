@@ -27,3 +27,97 @@
 [05:13:38] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .wizness823 disconnected
 [05:13:38] [Server thread/INFO]: .wizness823 lost connection: Disconnected
 [05:13:38] [Server thread/INFO]: [93m.wizness823 left the game[0m
+[10:30:47] [epollEventLoopGroup-4-1/INFO]: Player connected with username wizness823
+[10:30:47] [localSession-7-2/INFO]: wizness823 (logged in as: wizness823) has connected to the Java server
+[10:30:48] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
+[10:30:48] [Server thread/INFO]: [93m.wizness823 joined the game[0m
+[10:30:48] [Server thread/INFO]: .wizness823[/121.173.161.173:0] logged in with entity id 173604 at ([world]-1495.5503, 69.9375, -988.72736)
+[10:34:12] [epollEventLoopGroup-4-2/INFO]: Player connected with username lasayou
+[10:34:12] [localSession-7-3/INFO]: lasayou (logged in as: lasayou) has connected to the Java server
+[10:34:13] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[10:34:13] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[10:34:13] [Server thread/INFO]: .lasayou[/58.150.55.168:0] logged in with entity id 173954 at ([world]-1449.4368, 62.0, -1103.7036)
+[10:34:25] [Async Chat Thread - #115/INFO]: [Not Secure] <.lasayou> 안녕하세요
+[10:34:33] [Async Chat Thread - #115/INFO]: [Not Secure] <.lasayou> 노동자1입니다
+[10:35:32] [Async Chat Thread - #116/INFO]: [Not Secure] <.wizness823> 납부함
+[10:35:35] [Async Chat Thread - #116/INFO]: [Not Secure] <.wizness823> 캄온!
+[10:35:38] [Async Chat Thread - #116/INFO]: [Not Secure] <.wizness823> 헤헤
+[10:35:43] [Async Chat Thread - #116/INFO]: [Not Secure] <.lasayou> 잠시만요
+[10:36:54] [Async Chat Thread - #117/INFO]: [Not Secure] <.lasayou> 아 잡옷
+[10:36:58] [Async Chat Thread - #117/INFO]: [Not Secure] <.lasayou> 다 깨졌내요
+[10:38:39] [Async Chat Thread - #119/INFO]: [Not Secure] <.wizness823> 자 여기요
+[10:38:48] [Async Chat Thread - #119/INFO]: [Not Secure] <.lasayou> 오우
+[10:39:07] [Async Chat Thread - #119/INFO]: [Not Secure] <.wizness823> 문은 위대합니닷
+[10:39:13] [Async Chat Thread - #119/INFO]: [Not Secure] <.lasayou> 역시 수중을 가는군요...
+[10:39:16] [Async Chat Thread - #119/INFO]: [Not Secure] <.wizness823> ㅋㅋㅋㅋ
+[10:39:20] [Async Chat Thread - #119/INFO]: [Not Secure] <.wizness823> 이거 어때요
+[10:41:19] [Async Chat Thread - #121/INFO]: [Not Secure] <.wizness823> ㅈㅅ
+[10:41:24] [Async Chat Thread - #121/INFO]: [Not Secure] <.wizness823> 석탄이.저희
+[10:41:45] [Async Chat Thread - #122/INFO]: [Not Secure] <.wizness823> 휏불
+[10:43:02] [Async Chat Thread - #123/INFO]: [Not Secure] <.lasayou> 집아래가 이따구인건지...
+[10:44:11] [Server thread/INFO]: .lasayou drowned
+[10:44:17] [Async Chat Thread - #125/INFO]: [Not Secure] <.lasayou> 켘
+[10:44:23] [Async Chat Thread - #125/INFO]: [Not Secure] <.wizness823> 네네
+[10:44:35] [Async Chat Thread - #125/INFO]: [Not Secure] <.wizness823> 왜용?
+[10:44:40] [Async Chat Thread - #125/INFO]: [Not Secure] <.lasayou> 죽었어요
+[10:45:02] [Server thread/INFO]: .wizness823 drowned while trying to escape Zombie Villager
+[10:45:17] [Async Chat Thread - #126/INFO]: [Not Secure] <.wizness823> 좀 마경이네오
+[10:45:20] [Async Chat Thread - #126/INFO]: [Not Secure] <.wizness823> ㅋㅋㅋ
+[10:45:33] [Async Chat Thread - #126/INFO]: [Not Secure] <.lasayou> 저 집 아래오 바로 와서
+[10:45:44] [Async Chat Thread - #126/INFO]: [Not Secure] <.lasayou> 제 땅굴 끝쪽아에요
+[10:46:40] [Async Chat Thread - #126/INFO]: [Not Secure] <.wizness823> 비싱
+[10:46:44] [Async Chat Thread - #125/INFO]: [Not Secure] <.wizness823> 입구 크리퍼터짐
+[10:46:57] [Async Chat Thread - #125/INFO]: [Not Secure] <.lasayou> 아이고야
+[10:47:02] [Async Chat Thread - #125/INFO]: [Not Secure] <.lasayou> 정상화하러 갈게요
+[10:47:10] [Async Chat Thread - #125/INFO]: [Not Secure] <.lasayou> ㄱ,ㄴ데 광질어캬해요 여기서
+[10:47:12] [Async Chat Thread - #125/INFO]: [Not Secure] <.lasayou> ㅋㅋㅋㅋㅋㅋ
+[10:47:37] [Async Chat Thread - #126/INFO]: [Not Secure] <.wizness823> 잘버이고
+[10:47:41] [Async Chat Thread - #125/INFO]: [Not Secure] <.wizness823> 광석이
+[10:47:50] [Async Chat Thread - #125/INFO]: [Not Secure] <.wizness823> 불도 필요업ㄹ고
+[10:47:57] [Async Chat Thread - #126/INFO]: [Not Secure] <.wizness823> 몬스터도 적어서 땅ㄴ데...
+[10:49:03] [Async Chat Thread - #127/INFO]: [Not Secure] <.wizness823> 2~3칸일때
+[10:49:09] [Async Chat Thread - #127/INFO]: [Not Secure] <.wizness823> 빨리 문설치해사
+[10:49:14] [Async Chat Thread - #127/INFO]: [Not Secure] <.wizness823> 숨 정상화하고
+[10:49:20] [Async Chat Thread - #127/INFO]: [Not Secure] <.wizness823> 다시 팀험하느어조 머
+[10:49:27] [Async Chat Thread - #127/INFO]: [Not Secure] <.lasayou> 마린이한테
+[10:49:32] [Async Chat Thread - #128/INFO]: [Not Secure] <.lasayou> 너무 어려운걸 요구하시네요
+[10:49:36] [Async Chat Thread - #128/INFO]: [Not Secure] <.wizness823> 저도 마린인에 ㅋㅋㅋ
+[10:49:44] [localSession-7-2/INFO]: wizness823 has disconnected from the Java server because of Bedrock client disconnected
+[10:49:44] [Geyser Spigot connection thread-6-3/INFO]: Floodgate player logged in as .wizness823 disconnected
+[10:49:44] [Server thread/INFO]: .wizness823 lost connection: Disconnected
+[10:49:44] [Server thread/INFO]: [93m.wizness823 left the game[0m
+[10:50:00] [epollEventLoopGroup-4-3/INFO]: Player connected with username wizness823
+[10:50:00] [localSession-7-4/INFO]: wizness823 (logged in as: wizness823) has connected to the Java server
+[10:50:01] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
+[10:50:01] [Server thread/INFO]: [93m.wizness823 joined the game[0m
+[10:50:01] [Server thread/INFO]: .wizness823[/121.173.161.173:0] logged in with entity id 176462 at ([world]-1447.69999, 21.0, -948.6719)
+[10:50:22] [Async Chat Thread - #128/INFO]: [Not Secure] <.wizness823> 아오 키보드 검색기능
+[10:50:38] [Async Chat Thread - #128/INFO]: [Not Secure] <.wizness823> 그럼 그 뭐냐
+[10:50:43] [Async Chat Thread - #128/INFO]: [Not Secure] <.wizness823> 동굴부터 밝히실래오
+[10:50:49] [Async Chat Thread - #128/INFO]: [Not Secure] <.wizness823> 대광백같은 거기
+[10:50:57] [Async Chat Thread - #128/INFO]: [Not Secure] <.lasayou> 맨끝에요?
+[10:51:05] [Async Chat Thread - #128/INFO]: [Not Secure] <.wizness823> 수중동굴로 통하는 대광맥이 3개던데요
+[10:51:07] [Async Chat Thread - #128/INFO]: [Not Secure] <.wizness823> ㅋㅋㅋㅋㅋㅋ
+[10:51:12] [Async Chat Thread - #128/INFO]: [Not Secure] <.lasayou> 오 ㅋㅋㅋㅋ
+[10:51:15] [Async Chat Thread - #128/INFO]: [Not Secure] <.wizness823> 여기 좀 개쩜
+[10:51:24] [Async Chat Thread - #128/INFO]: [Not Secure] <.wizness823> 대신 지나치에 복잡한...
+[10:51:52] [Async Chat Thread - #128/INFO]: [Not Secure] <.wizness823> 혹시 ㅎ불
+[10:51:56] [Async Chat Thread - #128/INFO]: [Not Secure] <.wizness823> 넉넉하신가
+[10:52:06] [Async Chat Thread - #128/INFO]: [Not Secure] <.wizness823> 불불
+[10:52:07] [Async Chat Thread - #128/INFO]: [Not Secure] <.lasayou> 어,,
+[10:52:15] [Async Chat Thread - #128/INFO]: [Not Secure] <.wizness823> 저는 급해서 라이타로 때우곤 있는데요
+[10:52:20] [Async Chat Thread - #128/INFO]: [Not Secure] <.lasayou> 48개 만들수있으니
+[10:52:23] [Async Chat Thread - #128/INFO]: [Not Secure] <.lasayou> 대략
+[10:52:31] [Async Chat Thread - #128/INFO]: [Not Secure] <.lasayou> 180개정도?
+[10:55:00] [Async Chat Thread - #129/INFO]: [Not Secure] <.wizness823> 제가 도와드릴태니
+[10:55:04] [Async Chat Thread - #129/INFO]: [Not Secure] <.wizness823> 뭔가 하고싶은어 ㄱㄱ
+[10:55:13] [Async Chat Thread - #129/INFO]: [Not Secure] <.lasayou> 에?
+[10:55:22] [Async Chat Thread - #129/INFO]: [Not Secure] <.wizness823> 광질하실래요 아님
+[10:55:33] [Async Chat Thread - #129/INFO]: [Not Secure] <.lasayou> 일자굴만 해서..
+[10:56:42] [Async Chat Thread - #131/INFO]: [Not Secure] <.lasayou> 이담님 회로좀 만지시나요
+[10:56:50] [Async Chat Thread - #131/INFO]: [Not Secure] <.wizness823> 앜
+[10:56:54] [Async Chat Thread - #131/INFO]: [Not Secure] <.wizness823> 너는 회로는 좀
+[10:56:57] [Async Chat Thread - #131/INFO]: [Not Secure] <.wizness823> 저는
+[10:57:11] [Async Chat Thread - #131/INFO]: [Not Secure] <.lasayou> 이런 ㅋㅋ
+[10:57:53] [Async Chat Thread - #131/INFO]: [Not Secure] <.lasayou> 흠
+[10:58:00] [Async Chat Thread - #131/INFO]: [Not Secure] <.lasayou> 관측자 연결을 어찌한담

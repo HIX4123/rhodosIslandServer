@@ -16,3 +16,14 @@
 [02:08:31] [localSession-7-4/INFO]: lasayou has disconnected from the Java server because of Bedrock client disconnected
 [02:08:31] [Server thread/INFO]: .lasayou lost connection: Disconnected
 [02:08:31] [Server thread/INFO]: [93m.lasayou left the game[0m
+[05:05:38] [localSession-7-1/INFO]: wizness823 (logged in as: wizness823) has connected to the Java server
+[05:05:38] [epollEventLoopGroup-4-4/INFO]: Player connected with username wizness823
+[05:05:39] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
+[05:05:39] [Server thread/INFO]: [93m.wizness823 joined the game[0m
+[05:05:39] [Server thread/INFO]: .wizness823[/121.173.161.173:0] logged in with entity id 172568 at ([world]-1481.6434, 65.0, -1047.8619)
+[05:09:18] [Server thread/INFO]: .wizness823 drowned while trying to escape Drowned
+[05:13:17] [Server thread/INFO]: .wizness823 was shot by Skeleton using [97m[Bow][0m
+[05:13:38] [localSession-7-1/INFO]: wizness823 has disconnected from the Java server because of Bedrock client disconnected
+[05:13:38] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .wizness823 disconnected
+[05:13:38] [Server thread/INFO]: .wizness823 lost connection: Disconnected
+[05:13:38] [Server thread/INFO]: [93m.wizness823 left the game[0m

@@ -220,3 +220,32 @@
 [14:29:19] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
 [14:29:19] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 224970 at ([world]-1473.9109, 68.0, -1039.6018)
 [14:31:11] [Server thread/WARN]: .Tyrine74 moved wrongly!, (0.0)
+[15:00:11] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[15:00:11] [localSession-7-4/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client timed out
+[15:00:11] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[15:00:11] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[15:00:24] [epollEventLoopGroup-4-4/INFO]: Player connected with username Tyrine74
+[15:00:24] [localSession-7-1/INFO]: Tyrine74 (logged in as: Tyrine74) has connected to the Java server
+[15:00:25] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[15:00:25] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[15:00:25] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 228527 at ([world]-1508.8363189068937, 64.0, -1014.8076711167395)
+[15:03:03] [Server thread/INFO]: Villager Villager['Villager'/226013, uuid='b57416f8-9c41-436c-88a9-5ef2f5b748d3', l='ServerLevel[world]', x=-1477.67, y=63.00, z=-1003.42, cpos=[-93, -63], tl=27453, v=true] died, message: 'Villager was slain by Zombie'
+[15:16:32] [localSession-7-1/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client timed out
+[15:16:32] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[15:16:32] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[15:16:32] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[15:16:44] [epollEventLoopGroup-4-1/INFO]: Player connected with username Tyrine74
+[15:16:44] [localSession-7-2/INFO]: Tyrine74 (logged in as: Tyrine74) has connected to the Java server
+[15:16:45] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[15:16:45] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[15:16:45] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 230205 at ([world]-1483.8733, 70.0, -998.16785)
+[15:17:33] [Geyser Spigot connection thread-6-3/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[15:17:33] [localSession-7-2/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client timed out
+[15:17:33] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[15:17:33] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[15:17:53] [epollEventLoopGroup-4-2/INFO]: Player connected with username Tyrine74
+[15:17:53] [localSession-7-3/INFO]: Tyrine74 (logged in as: Tyrine74) has connected to the Java server
+[15:17:54] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[15:17:54] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[15:17:54] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 230286 at ([world]-1483.8733, 70.0, -998.16785)
+[15:27:23] [Server thread/INFO]: .Tyrine74 tried to swim in lava to escape Spider

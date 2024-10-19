@@ -249,3 +249,7 @@
 [15:17:54] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
 [15:17:54] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 230286 at ([world]-1483.8733, 70.0, -998.16785)
 [15:27:23] [Server thread/INFO]: .Tyrine74 tried to swim in lava to escape Spider
+[15:36:03] [Server thread/INFO]: Villager Villager['Villager'/137, uuid='e9bf24c5-10f5-400b-9afa-a4fe321fdd25', l='ServerLevel[world]', x=-1476.30, y=66.00, z=-1010.70, cpos=[-93, -64], tl=1383017, v=true] died, message: 'Villager burned to death'
+[15:36:10] [Server thread/INFO]: Villager Villager['Villager'/224777, uuid='5ad58ddc-207b-455d-8fce-7267f146b1e9', l='ServerLevel[world]', x=-1476.50, y=66.00, z=-1010.70, cpos=[-93, -64], tl=80063, v=true] died, message: 'Villager tried to swim in lava'
+[15:40:13] [Server thread/INFO]: .Tyrine74 was blown up by Creeper
+[15:54:30] [Server thread/INFO]: .Tyrine74 tried to swim in lava

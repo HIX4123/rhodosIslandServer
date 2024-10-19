@@ -168,3 +168,40 @@
 [11:51:42] [Async Chat Thread - #144/INFO]: [Not Secure] <.Tyrine74> 됐으
 [11:54:14] [Async Chat Thread - #145/INFO]: [Not Secure] <.syhana7338> 4번째 주민 마을을 찾았어요
 [11:59:48] [Async Chat Thread - #147/INFO]: [Not Secure] <.lasayou> 어.
+[12:00:21] [Server thread/INFO]: .Tyrine74 was shot by Skeleton using [97m[Bow][0m
+[12:02:58] [Server thread/INFO]: .Tyrine74 has made the advancement [92m[What a Deal!][0m
+[12:12:24] [Async Chat Thread - #149/INFO]: [Not Secure] <.Tyrine74> 자도 됨
+[12:12:26] [Async Chat Thread - #149/INFO]: [Not Secure] <.Tyrine74> 해결함
+[12:13:55] [Server thread/INFO]: .syhana7338 drowned
+[12:14:21] [Async Chat Thread - #151/INFO]: [Not Secure] <.lasayou> 농작물사이에
+[12:14:24] [Async Chat Thread - #151/INFO]: [Not Secure] <.lasayou> 크리퍼가..
+[12:14:29] [Async Chat Thread - #151/INFO]: [Not Secure] <.Tyrine74> ㄱㄷ
+[12:14:30] [Async Chat Thread - #151/INFO]: [Not Secure] <.syhana7338> 석탄 한 세트있는데 필요한 분?
+[12:14:44] [Async Chat Thread - #151/INFO]: [Not Secure] <.syhana7338> 필요해요?
+[12:15:04] [Async Chat Thread - #151/INFO]: [Not Secure] <.syhana7338> 그럼 다시 갈게요
+[12:15:07] [Async Chat Thread - #151/INFO]: [Not Secure] <.Tyrine74> 사유님
+[12:15:07] [Async Chat Thread - #152/INFO]: [Not Secure] <.syhana7338> 바이바이
+[12:15:10] [Async Chat Thread - #151/INFO]: [Not Secure] <.Tyrine74> 여기 버튼좀
+[12:15:11] [Async Chat Thread - #151/INFO]: [Not Secure] <.lasayou> 네.
+[12:15:15] [Async Chat Thread - #152/INFO]: [Not Secure] <.lasayou> 자맘시만요 크리퍼가
+[12:15:45] [Async Chat Thread - #153/INFO]: [Not Secure] <.syhana7338> 이것도 드릴게요
+[12:15:49] [Async Chat Thread - #153/INFO]: [Not Secure] <.Tyrine74> 활 만들어 두센
+[12:15:53] [Async Chat Thread - #153/INFO]: [Not Secure] <.Tyrine74> 슬만함
+[12:16:11] [Async Chat Thread - #153/INFO]: [Not Secure] <.lasayou> 멀 도와드리죠?
+[12:16:26] [Async Chat Thread - #153/INFO]: [Not Secure] <.Tyrine74> 이미 탈출함
+[12:16:30] [Async Chat Thread - #153/INFO]: [Not Secure] <.lasayou> 아
+[12:16:34] [Async Chat Thread - #151/INFO]: [Not Secure] <.Tyrine74> 여기 아래에 갇혔는데
+[12:16:40] [Async Chat Thread - #151/INFO]: [Not Secure] <.Tyrine74> 그래서 그런거
+[12:20:06] [Server thread/WARN]: .syhana7338 moved wrongly!, (0.4200000000000017)
+[12:21:02] [localSession-7-1/INFO]: Tyrine74 has disconnected from the Java server because of Bedrock client timed out
+[12:21:02] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[12:21:02] [Server thread/INFO]: .Tyrine74 lost connection: Internal Exception: java.nio.channels.ClosedChannelException
+[12:21:02] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[12:27:21] [Geyser Spigot connection thread-6-3/INFO]: Floodgate player logged in as .syhana7338 disconnected
+[12:27:21] [localSession-7-2/INFO]: syhana7338 has disconnected from the Java server because of Bedrock client disconnected
+[12:27:21] [Server thread/INFO]: .syhana7338 lost connection: Disconnected
+[12:27:21] [Server thread/INFO]: [93m.syhana7338 left the game[0m
+[12:28:27] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .lasayou disconnected
+[12:28:27] [localSession-7-3/INFO]: lasayou has disconnected from the Java server because of Bedrock client disconnected
+[12:28:27] [Server thread/INFO]: .lasayou lost connection: Disconnected
+[12:28:27] [Server thread/INFO]: [93m.lasayou left the game[0m

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 113.131.33.184
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1729447228638
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729447254910
+  login: 1729446215943
+money: '0'
+last-account-name: SeworL
+lastlocation:
+  world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
+  world-name: world
+  x: -797.5
+  y: 40.0
+  z: 242.5
+  yaw: 107.5145263671875
+  pitch: 11.399995803833008
+logoutlocation:
+  world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
+  world-name: world
+  x: -1486.7946603010198
+  y: 69.0
+  z: -1013.5434929660917
+  yaw: 0.5852186679840088
+  pitch: 17.85001564025879

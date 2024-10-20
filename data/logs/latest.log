@@ -224,3 +224,49 @@
 [13:59:46] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
 [13:59:46] [Server thread/INFO]: [3m[37m[Rcon: Gamerule keepInventory is now set to: true][0m
 [13:59:46] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[14:00:20] [epollEventLoopGroup-4-1/INFO]: 플레이어가 사용자명 lasayou(으)로 연결했습니다.
+[14:00:20] [localSession-7-2/INFO]: lasayou (lasayou로 로그인) (이)가 Java 서버에 접속했습니다
+[14:00:21] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[14:00:22] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[14:00:22] [Server thread/INFO]: .lasayou[/112.152.226.202:0] logged in with entity id 209 at ([world]-1457.9952, 64.0, -1100.7811)
+[14:00:23] [User Authenticator #0/INFO]: UUID of player Tyrine84 is f158f938-ce35-4af5-a5bb-15c404358ab4
+[14:00:25] [Server thread/INFO]: [93mTyrine84 joined the game[0m
+[14:00:25] [Server thread/INFO]: Tyrine84[/221.168.244.24:46126] logged in with entity id 550 at ([world]-48.45327699094933, 63.0, -54.339224178361285)
+[14:01:29] [Server thread/INFO]: Tyrine84 issued server command: /tpa .lasayou
+[14:01:54] [Server thread/INFO]: .lasayou issued server command: /tpaccept
+[14:02:36] [Async Chat Thread - #2/INFO]: [Not Secure] <.lasayou> 처참하네요
+[14:02:46] [Async Chat Thread - #1/INFO]: <Tyrine84> ㅋㅋㅋ
+[14:06:45] [Server thread/INFO]: Tyrine84 has made the advancement [92m[Stone Age][0m
+[14:13:01] [Async Chat Thread - #3/INFO]: [Not Secure] <.lasayou> ???.?
+[14:13:12] [Async Chat Thread - #3/INFO]: <Tyrine84> ㅇ?
+[14:13:16] [Async Chat Thread - #3/INFO]: [Not Secure] <.lasayou> 전
+[14:13:22] [Async Chat Thread - #3/INFO]: [Not Secure] <.lasayou> 피글린 때린기억이 없는데
+[14:13:24] [Async Chat Thread - #3/INFO]: [Not Secure] <.lasayou> 어째서
+[14:14:09] [Async Chat Thread - #3/INFO]: [Not Secure] <.lasayou> 활있으면 딱인데..
+[14:14:37] [Server thread/INFO]: .lasayou was slain by Zombified Piglin using [97m[Golden Sword][0m
+[14:14:44] [localSession-7-2/INFO]: lasayou(이)가 Java 서버에서 사유 베드락 클라이언트 연결 끊김로 인하여 접속이 종료되었습니다
+[14:14:44] [Geyser Spigot connection thread-6-3/INFO]: Floodgate player logged in as .lasayou disconnected
+[14:14:44] [Server thread/INFO]: .lasayou lost connection: Disconnected
+[14:14:44] [Server thread/INFO]: [93m.lasayou left the game[0m
+[14:14:51] [epollEventLoopGroup-4-2/INFO]: 플레이어가 사용자명 lasayou(으)로 연결했습니다.
+[14:14:51] [localSession-7-3/INFO]: lasayou (lasayou로 로그인) (이)가 Java 서버에 접속했습니다
+[14:14:51] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[14:14:51] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[14:14:51] [Server thread/INFO]: .lasayou[/112.152.226.202:0] logged in with entity id 3956 at ([world]-1492.5, 70.0, -995.5)
+[14:16:58] [Server thread/INFO]: Tyrine84 has made the advancement [92m[Sweet Dreams][0m
+[14:18:17] [Server thread/INFO]: .lasayou tried to swim in lava
+[14:21:28] [Server thread/INFO]: .lasayou drowned
+[14:22:59] [epollEventLoopGroup-3-2/WARN]: [/112.152.226.202] Blocked because packet limit was reached
+[14:23:09] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .lasayou disconnected
+[14:23:09] [localSession-7-3/INFO]: lasayou(이)가 Java 서버에서 사유 베드락 클라이언트 시간 초과로 인하여 접속이 종료되었습니다
+[14:23:09] [epollEventLoopGroup-3-2/INFO]: Unblocked address /112.152.226.202
+[14:23:09] [Server thread/INFO]: .lasayou lost connection: Disconnected
+[14:23:09] [Server thread/INFO]: [93m.lasayou left the game[0m
+[14:23:21] [epollEventLoopGroup-4-3/INFO]: 플레이어가 사용자명 lasayou(으)로 연결했습니다.
+[14:23:21] [localSession-7-4/INFO]: lasayou (lasayou로 로그인) (이)가 Java 서버에 접속했습니다
+[14:23:22] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[14:23:22] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[14:23:22] [Server thread/INFO]: .lasayou[/112.152.226.202:0] logged in with entity id 5759 at ([world]-1460.4287, 69.0, -979.7874)
+[14:27:25] [Server thread/INFO]: .lasayou drowned
+[14:28:24] [Server thread/INFO]: .lasayou drowned
+[14:29:30] [Server thread/INFO]: .lasayou drowned

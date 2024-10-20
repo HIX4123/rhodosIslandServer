@@ -16,15 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729432713384
-  login: 1729432212293
+  logout: 1729434189932
+  login: 1729434202074
 money: '0'
 last-account-name: .lasayou
 logoutlocation:
   world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
   world-name: world
-  x: -1457.9952
-  y: 64.0
-  z: -1100.7811
-  yaw: -89.45153045654297
-  pitch: 10.02374267578125
+  x: -1460.4287
+  y: 69.0
+  z: -979.7874
+  yaw: 159.76504516601562
+  pitch: 23.787017822265625
+lastlocation:
+  world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
+  world-name: world
+  x: -1443.0452
+  y: 30.79661
+  z: -1104.7501
+  yaw: -13.957000732421875
+  pitch: -89.89998626708984

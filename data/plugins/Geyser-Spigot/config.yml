@@ -128,10 +128,10 @@ disable-bedrock-scaffolding: false
 # disabled - the default/fallback, which doesn't apply this workaround
 # no-emotes - emotes will NOT be sent to other Bedrock clients and offhand will be swapped. This effectively disables all emotes from being seen.
 # emotes-and-offhand - emotes will be sent to Bedrock clients and offhand will be swapped
-emote-offhand-workaround: "disabled"
+emote-offhand-workaround: "no-emotes"
 
 # The default locale if we dont have the one the client requested. Uncomment to not use the default system language.
-# default-locale: en_us
+default-locale: ko_kr
 
 # Specify how many days images will be cached to disk to save downloading them from the internet.
 # A value of 0 is disabled. (Default: 0)
@@ -155,7 +155,7 @@ custom-skull-render-distance: 32
 add-non-bedrock-items: true
 
 # Bedrock prevents building and displaying blocks above Y127 in the Nether.
-# This config option works around that by changing the Nether dimension ID to the End ID. 
+# This config option works around that by changing the Nether dimension ID to the End ID.
 # The main downside to this is that the entire Nether will have the same red fog rather than having different fog for each biome.
 above-bedrock-nether-building: false
 

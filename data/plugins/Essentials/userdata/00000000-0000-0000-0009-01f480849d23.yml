@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729468102761
-  login: 1729467978792
+  logout: 1729482730982
+  login: 1729482470925
 money: '0'
 last-account-name: .wizness823
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
   world-name: world
-  x: -816.469
-  y: 63.94999694824219
-  z: 241.80757
-  yaw: 5.15167236328125
-  pitch: 73.95033264160156
+  x: -894.1878
+  y: 91.0
+  z: -169.52426
+  yaw: -17.39044189453125
+  pitch: 89.89999389648438

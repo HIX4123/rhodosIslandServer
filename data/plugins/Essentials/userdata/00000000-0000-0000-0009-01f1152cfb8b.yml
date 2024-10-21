@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729531185238
+  logout: 1729538064126
   login: 1729532748915
 money: '0'
 last-account-name: .Tyrine74
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
   world-name: world
-  x: -1442.2147
-  y: 64.0
-  z: -1035.9565
-  yaw: 66.18820190429688
-  pitch: 52.51811218261719
+  x: -1488.0382
+  y: 70.0
+  z: -997.2446
+  yaw: 59.6256103515625
+  pitch: 22.864425659179688

@@ -81,3 +81,117 @@
 [02:56:04] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
 [02:57:15] [epollEventLoopGroup-3-2/INFO]: /211.46.131.103:57535에서 정보를 수신했습니다!
 [02:57:16] [epollEventLoopGroup-3-2/INFO]: /211.46.131.103:57535에서 정보를 수신했습니다!
+[03:00:21] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:04:38] [epollEventLoopGroup-3-2/INFO]: /211.46.131.103:57535에서 정보를 수신했습니다!
+[03:04:38] [epollEventLoopGroup-3-2/INFO]: /211.46.131.103:57535에서 정보를 수신했습니다!
+[03:09:41] [epollEventLoopGroup-3-2/INFO]: /211.46.131.103:57535에서 정보를 수신했습니다!
+[03:09:41] [epollEventLoopGroup-3-2/INFO]: /211.46.131.103:57535에서 정보를 수신했습니다!
+[03:22:19] [epollEventLoopGroup-3-1/INFO]: /118.221.147.91:63491에서 정보를 수신했습니다!
+[03:22:25] [epollEventLoopGroup-3-1/INFO]: /118.221.147.91:63491에서 정보를 수신했습니다!
+[03:22:27] [epollEventLoopGroup-3-1/INFO]: /118.221.147.91:63491에서 정보를 수신했습니다!
+[03:22:28] [epollEventLoopGroup-3-1/INFO]: /118.221.147.91:63491에서 정보를 수신했습니다!
+[03:22:34] [epollEventLoopGroup-3-1/INFO]: /118.221.147.91:63491에서 정보를 수신했습니다!
+[03:22:37] [epollEventLoopGroup-3-1/INFO]: /118.221.147.91:63491에서 정보를 수신했습니다!
+[03:24:31] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:27:05] [epollEventLoopGroup-3-1/INFO]: /118.221.147.91:63491에서 정보를 수신했습니다!
+[03:27:10] [epollEventLoopGroup-3-1/INFO]: /118.221.147.91:63491에서 정보를 수신했습니다!
+[03:27:12] [epollEventLoopGroup-3-1/INFO]: /118.221.147.91:63491에서 정보를 수신했습니다!
+[03:27:26] [epollEventLoopGroup-3-1/INFO]: /118.221.147.91:55978에서 접속을 시도했습니다!
+[03:27:26] [epollEventLoopGroup-4-1/INFO]: Is player data signed? true
+[03:27:26] [epollEventLoopGroup-4-1/INFO]: Could not find packet for ClientToServerHandshakePacket
+[03:27:26] [epollEventLoopGroup-4-1/INFO]: Could not find packet for ClientCacheStatusPacket
+[03:27:26] [epollEventLoopGroup-4-1/INFO]: 플레이어가 사용자명 lasayou(으)로 연결했습니다.
+[03:27:26] [localSession-7-2/INFO]: lasayou (lasayou로 로그인) (이)가 Java 서버에 접속했습니다
+[03:27:26] [localSession-7-2/INFO]: Locale already loaded: ko_kr
+[03:27:27] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[03:27:27] [Geyser player thread-5-1/INFO]: .lasayou의 Bedrock 스킨을 등록하는중 (00000000-0000-0000-0009-01f5bcd8c095)
+[03:27:27] [localSession-7-2/INFO]: Could not find packet for ClientboundUpdateEnabledFeaturesPacket
+[03:27:27] [Geyser player thread-5-1/INFO]: Ignoring registry of type minecraft:damage_type
+[03:27:27] [Geyser player thread-5-1/INFO]: Emulating post 1.18 block predication logic for lasayou? true
+[03:27:27] [Geyser player thread-5-1/INFO]: Emulating post 1.13 villager logic for lasayou? true
+[03:27:27] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_special
+[03:27:27] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_common
+[03:27:27] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_common
+[03:27:27] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/snow_common
+[03:27:27] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/snow_special
+[03:27:27] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_special
+[03:27:27] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/desert_common
+[03:27:27] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_common
+[03:27:27] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_special
+[03:27:27] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_common
+[03:27:27] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_special
+[03:27:27] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/plains_common
+[03:27:27] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/plains_special
+[03:27:27] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/desert_special
+[03:27:27] [Geyser player thread-5-1/INFO]: Extending overworld dimension to -64 - 384
+[03:27:27] [localSession-7-2/INFO]: Could not find packet for ClientboundServerDataPacket
+[03:27:27] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[03:27:27] [localSession-7-2/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[03:27:27] [localSession-7-2/INFO]: Could not find packet for ClientboundTickingStatePacket
+[03:27:27] [localSession-7-2/INFO]: Could not find packet for ClientboundTickingStepPacket
+[03:27:27] [Server thread/INFO]: .lasayou[/118.221.147.91:0] logged in with entity id 43671 at ([world]-816.5, 63.875, 242.5)
+[03:27:27] [Geyser player thread-5-1/INFO]: Spawned player at -816.5 63.875 242.5
+[03:27:27] [Geyser player thread-5-1/INFO]: Ignoring player info update for 00000000-0000-0000-0009-01f5bcd8c095
+[03:27:27] [ForkJoinPool.commonPool-worker-67/INFO]: Loaded Local Bedrock Java Skin Data for lasayou
+[03:27:27] [Geyser player thread-5-1/INFO]: Redirecting command tm to teammsg
+[03:27:27] [Geyser player thread-5-1/INFO]: Redirecting command minecraft:teammsg to teammsg
+[03:27:27] [Geyser player thread-5-1/INFO]: Redirecting command minecraft:tm to teammsg
+[03:27:27] [Geyser player thread-5-1/INFO]: Redirecting command minecraft:trigger to trigger
+[03:27:27] [Geyser player thread-5-1/INFO]: Sending command packet of 26 commands
+[03:27:46] [Geyser player thread-5-1/INFO]: Teleport (2) from -815.6061 63.098267 238.11127
+[03:27:46] [Geyser player thread-5-1/INFO]: to -815.51074 62.110764 236.99925
+[03:28:08] [Geyser Spigot connection thread-6-3/INFO]: Floodgate player logged in as .lasayou disconnected
+[03:28:08] [localSession-7-2/INFO]: lasayou(이)가 Java 서버에서 사유 베드락 클라이언트 연결 끊김로 인하여 접속이 종료되었습니다
+[03:28:08] [Server thread/INFO]: .lasayou lost connection: Disconnected
+[03:28:08] [Server thread/INFO]: [93m.lasayou left the game[0m
+[03:28:38] [epollEventLoopGroup-3-1/INFO]: /118.221.147.91:63491에서 정보를 수신했습니다!
+[03:28:41] [epollEventLoopGroup-3-1/INFO]: /118.221.147.91:63491에서 정보를 수신했습니다!
+[03:28:43] [epollEventLoopGroup-3-1/INFO]: /118.221.147.91:63491에서 정보를 수신했습니다!
+[03:28:56] [epollEventLoopGroup-3-1/INFO]: /118.221.147.91:55978에서 접속을 시도했습니다!
+[03:28:57] [epollEventLoopGroup-4-2/INFO]: Is player data signed? true
+[03:28:57] [epollEventLoopGroup-4-2/INFO]: Could not find packet for ClientToServerHandshakePacket
+[03:28:57] [epollEventLoopGroup-4-2/INFO]: Could not find packet for ClientCacheStatusPacket
+[03:28:57] [epollEventLoopGroup-4-2/INFO]: 플레이어가 사용자명 lasayou(으)로 연결했습니다.
+[03:28:57] [localSession-7-3/INFO]: lasayou (lasayou로 로그인) (이)가 Java 서버에 접속했습니다
+[03:28:57] [localSession-7-3/INFO]: Locale already loaded: ko_kr
+[03:28:58] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
+[03:28:58] [Geyser player thread-5-2/INFO]: .lasayou의 Bedrock 스킨을 등록하는중 (00000000-0000-0000-0009-01f5bcd8c095)
+[03:28:58] [localSession-7-3/INFO]: Could not find packet for ClientboundUpdateEnabledFeaturesPacket
+[03:28:58] [Geyser player thread-5-2/INFO]: Ignoring registry of type minecraft:damage_type
+[03:28:58] [Geyser player thread-5-2/INFO]: Emulating post 1.18 block predication logic for lasayou? true
+[03:28:58] [Geyser player thread-5-2/INFO]: Emulating post 1.13 villager logic for lasayou? true
+[03:28:58] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_special
+[03:28:58] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_common
+[03:28:58] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_common
+[03:28:58] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/snow_common
+[03:28:58] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/snow_special
+[03:28:58] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_special
+[03:28:58] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/desert_common
+[03:28:58] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_common
+[03:28:58] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_special
+[03:28:58] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_common
+[03:28:58] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_special
+[03:28:58] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/plains_common
+[03:28:58] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/plains_special
+[03:28:58] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/desert_special
+[03:28:58] [Geyser player thread-5-2/INFO]: Extending overworld dimension to -64 - 384
+[03:28:58] [Server thread/INFO]: [93m.lasayou joined the game[0m
+[03:28:58] [Server thread/INFO]: .lasayou[/118.221.147.91:0] logged in with entity id 44289 at ([world]-793.780029296875, 62.23747863769531, 325.6219177246094)
+[03:28:58] [localSession-7-3/INFO]: Could not find packet for ClientboundServerDataPacket
+[03:28:58] [localSession-7-3/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[03:28:58] [localSession-7-3/INFO]: Could not find packet for ClientboundTickingStatePacket
+[03:28:58] [localSession-7-3/INFO]: Could not find packet for ClientboundTickingStepPacket
+[03:28:58] [Geyser player thread-5-2/INFO]: Spawned player at -793.780029296875 62.23747863769531 325.6219177246094
+[03:28:58] [Geyser player thread-5-2/INFO]: Teleport (2) from -793.78 62.23748 325.62192
+[03:28:58] [Geyser player thread-5-2/INFO]: to -793.78 62.23748 325.62192
+[03:28:58] [ForkJoinPool.commonPool-worker-68/INFO]: Loaded Local Bedrock Java Skin Data for lasayou
+[03:28:58] [Geyser player thread-5-2/INFO]: Ignoring player info update for 00000000-0000-0000-0009-01f5bcd8c095
+[03:28:58] [Geyser player thread-5-2/INFO]: Redirecting command tm to teammsg
+[03:28:58] [Geyser player thread-5-2/INFO]: Redirecting command minecraft:teammsg to teammsg
+[03:28:58] [Geyser player thread-5-2/INFO]: Redirecting command minecraft:tm to teammsg
+[03:28:58] [Geyser player thread-5-2/INFO]: Redirecting command minecraft:trigger to trigger
+[03:28:58] [Geyser player thread-5-2/INFO]: Sending command packet of 26 commands
+[03:28:59] [Geyser player thread-5-2/INFO]: §clasayou moved too quickly. current position: (-793.78, 63.85749, 325.62192), new position: (0.0, 69.0, 0.0)
+[03:28:59] [Geyser player thread-5-2/INFO]: Recalculating position...
+[03:28:59] [Geyser player thread-5-2/INFO]: §clasayou moved too quickly. current position: (-793.78, 63.85749, 325.62192), new position: (0.0, 69.0, 0.0)
+[03:28:59] [Geyser player thread-5-2/INFO]: Recalculating position...

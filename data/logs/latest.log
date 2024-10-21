@@ -16797,3 +16797,183 @@
 [23:24:16] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
 [23:24:29] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
 [23:26:54] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[23:30:56] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[23:32:50] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[23:33:23] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[23:33:25] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[23:33:53] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[23:33:55] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[23:34:24] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[23:39:01] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[23:40:10] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[23:41:00] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[23:42:45] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[23:46:03] [epollEventLoopGroup-3-2/INFO]: /211.46.131.103:59691에서 정보를 수신했습니다!
+[23:46:08] [epollEventLoopGroup-3-2/INFO]: /211.46.131.103:59691에서 정보를 수신했습니다!
+[23:46:09] [epollEventLoopGroup-3-2/INFO]: /211.46.131.103:59691에서 정보를 수신했습니다!
+[23:46:09] [epollEventLoopGroup-3-2/INFO]: /211.46.131.103:59691에서 정보를 수신했습니다!
+[23:46:09] [epollEventLoopGroup-3-2/INFO]: /211.46.131.103:59691에서 정보를 수신했습니다!
+[23:46:14] [epollEventLoopGroup-3-2/INFO]: /211.46.131.103:59691에서 정보를 수신했습니다!
+[23:46:16] [epollEventLoopGroup-3-1/INFO]: /211.46.131.103:61811에서 접속을 시도했습니다!
+[23:46:17] [epollEventLoopGroup-4-4/INFO]: Is player data signed? true
+[23:46:17] [epollEventLoopGroup-4-4/INFO]: Could not find packet for ClientToServerHandshakePacket
+[23:46:17] [epollEventLoopGroup-4-4/INFO]: Could not find packet for ClientCacheStatusPacket
+[23:46:17] [epollEventLoopGroup-4-4/INFO]: 플레이어가 사용자명 wizness823(으)로 연결했습니다.
+[23:46:17] [localSession-7-1/INFO]: wizness823 (wizness823로 로그인) (이)가 Java 서버에 접속했습니다
+[23:46:17] [localSession-7-1/INFO]: Locale already loaded: ko_kr
+[23:46:18] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
+[23:46:18] [Geyser player thread-5-4/INFO]: .wizness823의 Bedrock 스킨을 등록하는중 (00000000-0000-0000-0009-01f480849d23)
+[23:46:18] [localSession-7-1/INFO]: Could not find packet for ClientboundUpdateEnabledFeaturesPacket
+[23:46:18] [Geyser player thread-5-4/INFO]: Ignoring registry of type minecraft:damage_type
+[23:46:18] [Geyser player thread-5-4/INFO]: Emulating post 1.18 block predication logic for wizness823? true
+[23:46:18] [Geyser player thread-5-4/INFO]: Emulating post 1.13 villager logic for wizness823? true
+[23:46:18] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_special
+[23:46:18] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_common
+[23:46:18] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_common
+[23:46:18] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/snow_common
+[23:46:18] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/snow_special
+[23:46:18] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_special
+[23:46:18] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/desert_common
+[23:46:18] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_common
+[23:46:18] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_special
+[23:46:18] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_common
+[23:46:18] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_special
+[23:46:18] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/plains_common
+[23:46:18] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/plains_special
+[23:46:18] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/desert_special
+[23:46:18] [Geyser player thread-5-4/INFO]: Extending overworld dimension to -64 - 384
+[23:46:18] [localSession-7-1/INFO]: Could not find packet for ClientboundServerDataPacket
+[23:46:18] [Server thread/INFO]: [93m.wizness823 joined the game[0m
+[23:46:18] [localSession-7-1/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[23:46:18] [localSession-7-1/INFO]: Could not find packet for ClientboundTickingStatePacket
+[23:46:18] [localSession-7-1/INFO]: Could not find packet for ClientboundTickingStepPacket
+[23:46:18] [Server thread/INFO]: .wizness823[/211.46.131.103:0] logged in with entity id 43057 at ([world]-799.8637084960938, 62.23747863769531, 268.6332092285156)
+[23:46:18] [Geyser player thread-5-4/INFO]: Spawned player at -799.8637084960938 62.23747863769531 268.6332092285156
+[23:46:18] [Geyser player thread-5-4/INFO]: Teleport (2) from -799.8637 62.23748 268.6332
+[23:46:18] [Geyser player thread-5-4/INFO]: to -799.8637 62.23748 268.6332
+[23:46:18] [Geyser player thread-5-4/INFO]: Ignoring player info update for 00000000-0000-0000-0009-01f480849d23
+[23:46:18] [ForkJoinPool.commonPool-worker-66/INFO]: Loaded Local Bedrock Java Skin Data for wizness823
+[23:46:18] [Geyser player thread-5-4/INFO]: Redirecting command tm to teammsg
+[23:46:18] [Geyser player thread-5-4/INFO]: Redirecting command minecraft:teammsg to teammsg
+[23:46:18] [Geyser player thread-5-4/INFO]: Redirecting command minecraft:tm to teammsg
+[23:46:18] [Geyser player thread-5-4/INFO]: Redirecting command minecraft:trigger to trigger
+[23:46:18] [Geyser player thread-5-4/INFO]: Sending command packet of 26 commands
+[23:46:58] [localSession-7-1/INFO]: Could not find packet for ClientboundPlayerCombatEnterPacket
+[23:46:58] [localSession-7-1/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[23:47:02] [localSession-7-1/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[23:47:02] [Geyser player thread-5-4/INFO]: Teleport (3) from -817.76605 61.099 239.75212
+[23:47:02] [Geyser player thread-5-4/INFO]: to -817.75287 61.036 239.7205
+[23:47:05] [localSession-7-1/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[23:47:11] [localSession-7-1/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[23:47:15] [Server thread/INFO]: .wizness823 was killed by Guardian using magic
+[23:47:15] [localSession-7-1/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[23:47:15] [localSession-7-1/INFO]: Could not find packet for ClientboundPlayerCombatEndPacket
+[23:47:16] [localSession-7-1/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[23:47:16] [Geyser player thread-5-4/INFO]: Spawned player at -816.5 63.0 240.5
+[23:47:16] [localSession-7-1/INFO]: Could not find packet for ClientboundTickingStatePacket
+[23:47:16] [localSession-7-1/INFO]: Could not find packet for ClientboundTickingStepPacket
+[23:47:16] [localSession-7-1/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[23:47:16] [Geyser player thread-5-4/INFO]: Redirecting command tm to teammsg
+[23:47:16] [Geyser player thread-5-4/INFO]: Redirecting command minecraft:teammsg to teammsg
+[23:47:16] [Geyser player thread-5-4/INFO]: Redirecting command minecraft:tm to teammsg
+[23:47:16] [Geyser player thread-5-4/INFO]: Redirecting command minecraft:trigger to trigger
+[23:47:16] [Geyser player thread-5-4/INFO]: Sending command packet of 26 commands
+[23:47:16] [Geyser player thread-5-4/INFO]: Teleport (5) from -816.5 62.231525 240.5
+[23:47:16] [Geyser player thread-5-4/INFO]: to -816.5 63.0 240.5
+[23:47:21] [localSession-7-1/INFO]: Could not find packet for ClientboundPlayerCombatEnterPacket
+[23:47:21] [localSession-7-1/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[23:47:30] [localSession-7-1/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[23:47:31] [localSession-7-1/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[23:47:32] [localSession-7-1/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[23:47:37] [Geyser player thread-5-4/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "Damage": 169i,
+  "GeyserHash": 1004302737i,
+  "display": {
+    "Name": "§r§d삼지창"
+  },
+  "ench": [
+    {
+      "id": 30s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[23:47:39] [localSession-7-1/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[23:47:40] [localSession-7-1/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[23:47:41] [Geyser player thread-5-4/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "Damage": 172i,
+  "GeyserHash": 1004302736i,
+  "display": {
+    "Name": "§r§d삼지창"
+  },
+  "ench": [
+    {
+      "id": 30s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[23:47:42] [Server thread/INFO]: .wizness823 drowned while trying to escape Guardian
+[23:47:42] [localSession-7-1/INFO]: Could not find packet for ClientboundPlayerCombatEndPacket
+[23:47:44] [localSession-7-1/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[23:47:44] [Geyser player thread-5-4/INFO]: Spawned player at -816.5 63.0 240.5
+[23:47:44] [localSession-7-1/INFO]: Could not find packet for ClientboundTickingStatePacket
+[23:47:44] [localSession-7-1/INFO]: Could not find packet for ClientboundTickingStepPacket
+[23:47:44] [localSession-7-1/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[23:47:44] [Geyser player thread-5-4/INFO]: Redirecting command tm to teammsg
+[23:47:44] [Geyser player thread-5-4/INFO]: Redirecting command minecraft:teammsg to teammsg
+[23:47:44] [Geyser player thread-5-4/INFO]: Redirecting command minecraft:tm to teammsg
+[23:47:44] [Geyser player thread-5-4/INFO]: Redirecting command minecraft:trigger to trigger
+[23:47:44] [Geyser player thread-5-4/INFO]: Sending command packet of 26 commands
+[23:47:44] [Geyser player thread-5-4/INFO]: Teleport (7) from -816.5 62.231525 240.5
+[23:47:44] [Geyser player thread-5-4/INFO]: to -816.5 63.0 240.5
+[23:47:48] [Geyser player thread-5-4/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "Damage": 172i,
+  "GeyserHash": 1004302736i,
+  "display": {
+    "Name": "§r§d삼지창"
+  },
+  "ench": [
+    {
+      "id": 30s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[23:47:51] [Geyser player thread-5-4/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "Damage": 172i,
+  "GeyserHash": 1004302736i,
+  "display": {
+    "Name": "§r§d삼지창"
+  },
+  "ench": [
+    {
+      "id": 30s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[23:48:06] [Geyser player thread-5-4/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "Damage": 172i,
+  "GeyserHash": 1004302736i,
+  "display": {
+    "Name": "§r§d삼지창"
+  },
+  "ench": [
+    {
+      "id": 30s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[23:48:22] [localSession-7-1/INFO]: wizness823(이)가 Java 서버에서 사유 베드락 클라이언트 연결 끊김로 인하여 접속이 종료되었습니다
+[23:48:22] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .wizness823 disconnected
+[23:48:22] [Server thread/INFO]: .wizness823 lost connection: Disconnected
+[23:48:22] [Server thread/INFO]: [93m.wizness823 left the game[0m
+[23:48:23] [epollEventLoopGroup-3-2/INFO]: /211.46.131.103:59691에서 정보를 수신했습니다!
+[23:48:28] [epollEventLoopGroup-3-2/INFO]: /211.46.131.103:59691에서 정보를 수신했습니다!
+[23:48:28] [epollEventLoopGroup-3-2/INFO]: /211.46.131.103:59691에서 정보를 수신했습니다!
+[23:50:18] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[23:50:57] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[23:53:58] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[23:56:50] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players

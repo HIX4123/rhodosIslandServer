@@ -4077,3 +4077,439 @@
 [03:49:25] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
 [03:52:18] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
 [03:59:44] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[04:01:05] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[04:04:25] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[04:05:21] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[04:15:00] [epollEventLoopGroup-3-1/INFO]: /211.46.131.103:50772에서 정보를 수신했습니다!
+[04:16:03] [epollEventLoopGroup-3-1/INFO]: /211.46.131.103:50772에서 정보를 수신했습니다!
+[04:16:08] [epollEventLoopGroup-3-1/INFO]: /211.46.131.103:50772에서 정보를 수신했습니다!
+[04:16:14] [epollEventLoopGroup-3-1/INFO]: /211.46.131.103:50772에서 정보를 수신했습니다!
+[04:16:14] [epollEventLoopGroup-3-1/INFO]: /211.46.131.103:50772에서 정보를 수신했습니다!
+[04:16:16] [epollEventLoopGroup-3-2/INFO]: /211.46.131.103:61717에서 접속을 시도했습니다!
+[04:16:16] [epollEventLoopGroup-4-3/INFO]: Is player data signed? true
+[04:16:16] [epollEventLoopGroup-4-3/INFO]: Could not find packet for ClientToServerHandshakePacket
+[04:16:16] [epollEventLoopGroup-4-3/INFO]: Could not find packet for ClientCacheStatusPacket
+[04:16:16] [epollEventLoopGroup-4-3/INFO]: 플레이어가 사용자명 wizness823(으)로 연결했습니다.
+[04:16:17] [localSession-7-4/INFO]: wizness823 (wizness823로 로그인) (이)가 Java 서버에 접속했습니다
+[04:16:17] [localSession-7-4/INFO]: Locale already loaded: ko_kr
+[04:16:18] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
+[04:16:18] [Geyser player thread-5-3/INFO]: .wizness823의 Bedrock 스킨을 등록하는중 (00000000-0000-0000-0009-01f480849d23)
+[04:16:18] [localSession-7-4/INFO]: Could not find packet for ClientboundUpdateEnabledFeaturesPacket
+[04:16:18] [Geyser player thread-5-3/INFO]: Ignoring registry of type minecraft:damage_type
+[04:16:18] [Geyser player thread-5-3/INFO]: Emulating post 1.18 block predication logic for wizness823? true
+[04:16:18] [Geyser player thread-5-3/INFO]: Emulating post 1.13 villager logic for wizness823? true
+[04:16:18] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_special
+[04:16:18] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_common
+[04:16:18] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_common
+[04:16:18] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/snow_common
+[04:16:18] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/snow_special
+[04:16:18] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_special
+[04:16:18] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/desert_common
+[04:16:18] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_common
+[04:16:18] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_special
+[04:16:18] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_common
+[04:16:18] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_special
+[04:16:18] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/plains_common
+[04:16:18] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/plains_special
+[04:16:18] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/desert_special
+[04:16:18] [Geyser player thread-5-3/INFO]: Extending overworld dimension to -64 - 384
+[04:16:18] [localSession-7-4/INFO]: Could not find packet for ClientboundServerDataPacket
+[04:16:18] [Server thread/INFO]: [93m.wizness823 joined the game[0m
+[04:16:18] [localSession-7-4/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[04:16:18] [localSession-7-4/INFO]: Could not find packet for ClientboundTickingStatePacket
+[04:16:18] [localSession-7-4/INFO]: Could not find packet for ClientboundTickingStepPacket
+[04:16:18] [Server thread/INFO]: .wizness823[/211.46.131.103:0] logged in with entity id 202525 at ([world]-1475.9652, 70.0, -1002.9634)
+[04:16:18] [Geyser player thread-5-3/INFO]: Spawned player at -1475.9652 70.0 -1002.9634
+[04:16:18] [Geyser player thread-5-3/INFO]: Ignoring player info update for 00000000-0000-0000-0009-01f480849d23
+[04:16:18] [ForkJoinPool.commonPool-worker-232/INFO]: Loaded Local Bedrock Java Skin Data for wizness823
+[04:16:18] [Geyser player thread-5-3/INFO]: Redirecting command tm to teammsg
+[04:16:18] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:teammsg to teammsg
+[04:16:18] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:tm to teammsg
+[04:16:18] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:trigger to trigger
+[04:16:18] [Geyser player thread-5-3/INFO]: Sending command packet of 26 commands
+[04:16:40] [Geyser player thread-5-3/INFO]: Teleport (2) from -1491.0 70.0 -997.0
+[04:16:40] [Geyser player thread-5-3/INFO]: to -1490.5 70.0 -997.5
+[04:17:07] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:bread, runtimeId=266, componentBased=false), damage=0, count=32, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:17:08] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:bread, runtimeId=266, componentBased=false), damage=0, count=32, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:17:09] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:bread, runtimeId=266, componentBased=false), damage=0, count=31, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:17:19] [Geyser player thread-5-3/INFO]: Teleport (3) from -1551.7466 66.5 -1004.3
+[04:17:19] [Geyser player thread-5-3/INFO]: to -1551.7388 66.5 -1004.3172
+[04:17:20] [Geyser player thread-5-3/INFO]: Teleport (4) from -1551.7548 66.5 -1004.3
+[04:17:20] [Geyser player thread-5-3/INFO]: to -1551.7388 66.5 -1004.3172
+[04:17:20] [Geyser player thread-5-3/INFO]: Teleport (5) from -1551.7429 66.5 -1004.3
+[04:17:20] [Geyser player thread-5-3/INFO]: to -1551.7388 66.5 -1004.3172
+[04:17:20] [Geyser player thread-5-3/INFO]: Teleport (6) from -1551.7432 66.5 -1004.3
+[04:17:20] [Geyser player thread-5-3/INFO]: to -1551.7388 66.5 -1004.3172
+[04:17:20] [Geyser player thread-5-3/INFO]: Teleport (7) from -1551.7433 66.5 -1004.3
+[04:17:20] [Geyser player thread-5-3/INFO]: to -1551.7388 66.5 -1004.3172
+[04:17:33] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[04:18:21] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[04:20:59] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cherry_door, runtimeId=-531, componentBased=false), damage=0, count=2, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:20:59] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cherry_door, runtimeId=-531, componentBased=false), damage=0, count=1, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:21:01] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cherry_door, runtimeId=-531, componentBased=false), damage=0, count=1, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:21:04] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cherry_door, runtimeId=-531, componentBased=false), damage=0, count=1, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:22:11] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[04:22:56] [Server thread/INFO]: .wizness823 fell from a high place
+[04:22:57] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[04:22:58] [localSession-7-4/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[04:22:58] [Geyser player thread-5-3/INFO]: Spawned player at -1490.5 70.0 -997.5
+[04:22:58] [localSession-7-4/INFO]: Could not find packet for ClientboundTickingStatePacket
+[04:22:58] [localSession-7-4/INFO]: Could not find packet for ClientboundTickingStepPacket
+[04:22:58] [localSession-7-4/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[04:22:58] [Geyser player thread-5-3/INFO]: Redirecting command tm to teammsg
+[04:22:58] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:teammsg to teammsg
+[04:22:58] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:tm to teammsg
+[04:22:58] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:trigger to trigger
+[04:22:58] [Geyser player thread-5-3/INFO]: Sending command packet of 26 commands
+[04:22:58] [Geyser player thread-5-3/INFO]: Teleport (9) from -1490.5 69.23152 -997.5
+[04:22:58] [Geyser player thread-5-3/INFO]: to -1490.5 70.0 -997.5
+[04:23:18] [localSession-7-4/INFO]: Could not find packet for ClientboundPlayerCombatEnterPacket
+[04:23:18] [localSession-7-4/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[04:23:20] [localSession-7-4/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[04:23:22] [localSession-7-4/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[04:23:28] [localSession-7-4/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[04:23:30] [localSession-7-4/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[04:23:32] [localSession-7-4/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[04:23:34] [localSession-7-4/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[04:23:49] [localSession-7-4/INFO]: Could not find packet for ClientboundPlayerCombatEndPacket
+[04:24:02] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 379i,
+  "GeyserHash": 1004302692i,
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:24:02] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 379i,
+  "GeyserHash": 1004302692i,
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:24:02] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 379i,
+  "GeyserHash": 1004302692i,
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:24:02] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 379i,
+  "GeyserHash": 1004302692i,
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:24:02] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 379i,
+  "GeyserHash": 1004302692i,
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:24:03] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 379i,
+  "GeyserHash": 1004302692i,
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:24:03] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 379i,
+  "GeyserHash": 1004302692i,
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:24:03] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 379i,
+  "GeyserHash": 1004302692i,
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:24:03] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 379i,
+  "GeyserHash": 1004302692i,
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:24:03] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 379i,
+  "GeyserHash": 1004302692i,
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:24:03] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 379i,
+  "GeyserHash": 1004302692i,
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:24:03] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 379i,
+  "GeyserHash": 1004302692i,
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:24:03] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 379i,
+  "GeyserHash": 1004302692i,
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:24:05] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[04:24:06] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 379i,
+  "GeyserHash": 1004302692i,
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:24:12] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 379i,
+  "GeyserHash": 1004302692i,
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:24:34] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 379i,
+  "GeyserHash": 1004302692i,
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:24:51] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 3i,
+  "GeyserHash": 1527978283i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:25:31] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 3i,
+  "GeyserHash": 1527978283i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[04:26:00] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[04:26:39] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[04:27:03] [Geyser player thread-5-3/WARN]: DEBUG: About to reject TAKE/PLACE request made by wizness823
+[04:27:03] [Geyser player thread-5-3/WARN]: Source: ItemStackRequestSlotData(container=CRAFTING_INPUT, slot=34, stackNetworkId=469, containerName=FullContainerName(container=CRAFTING_INPUT, dynamicId=null)) Result: false
+[04:27:03] [Geyser player thread-5-3/WARN]: Destination: ItemStackRequestSlotData(container=INVENTORY, slot=29, stackNetworkId=345, containerName=FullContainerName(container=INVENTORY, dynamicId=null)) Result: true
+[04:27:03] [Geyser player thread-5-3/WARN]: Geyser's record of source slot: GeyserItemStack(javaId=848, amount=1, components=null, netId=489, item=Item{javaIdentifier='minecraft:stick', javaId=848})
+[04:27:03] [Geyser player thread-5-3/WARN]: Geyser's record of destination slot: GeyserItemStack(javaId=848, amount=44, components=null, netId=345, item=Item{javaIdentifier='minecraft:stick', javaId=848})
+[04:27:03] [Geyser player thread-5-3/WARN]: java.lang.Throwable: DEBUGGING: ItemStackRequest rejected ItemStackRequest(requestId=-235, actions=[PlaceAction(count=3, source=ItemStackRequestSlotData(container=CRAFTING_INPUT, slot=34, stackNetworkId=469, containerName=FullContainerName(container=CRAFTING_INPUT, dynamicId=null)), destination=ItemStackRequestSlotData(container=INVENTORY, slot=29, stackNetworkId=345, containerName=FullContainerName(container=INVENTORY, dynamicId=null)))], filterStrings=[], textProcessingEventOrigin=null)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.rejectRequest(InventoryTranslator.java:879)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.rejectRequest(InventoryTranslator.java:868)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.translateRequest(InventoryTranslator.java:218)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.translateRequests(InventoryTranslator.java:176)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockItemStackRequestTranslator.translate(BedrockItemStackRequestTranslator.java:48)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockItemStackRequestTranslator.translate(BedrockItemStackRequestTranslator.java:38)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.translate0(PacketTranslatorRegistry.java:90)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.lambda$translate$0(PacketTranslatorRegistry.java:70)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:54)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[04:27:03] [Geyser player thread-5-3/WARN]: DEBUG: About to reject TAKE/PLACE request made by wizness823
+[04:27:03] [Geyser player thread-5-3/WARN]: Source: ItemStackRequestSlotData(container=CRAFTING_INPUT, slot=35, stackNetworkId=470, containerName=FullContainerName(container=CRAFTING_INPUT, dynamicId=null)) Result: false
+[04:27:03] [Geyser player thread-5-3/WARN]: Destination: ItemStackRequestSlotData(container=INVENTORY, slot=29, stackNetworkId=-235, containerName=FullContainerName(container=INVENTORY, dynamicId=null)) Result: true
+[04:27:03] [Geyser player thread-5-3/WARN]: Geyser's record of source slot: GeyserItemStack(javaId=848, amount=1, components=null, netId=491, item=Item{javaIdentifier='minecraft:stick', javaId=848})
+[04:27:03] [Geyser player thread-5-3/WARN]: Geyser's record of destination slot: GeyserItemStack(javaId=848, amount=44, components=null, netId=345, item=Item{javaIdentifier='minecraft:stick', javaId=848})
+[04:27:03] [Geyser player thread-5-3/WARN]: java.lang.Throwable: DEBUGGING: ItemStackRequest rejected ItemStackRequest(requestId=-237, actions=[PlaceAction(count=3, source=ItemStackRequestSlotData(container=CRAFTING_INPUT, slot=35, stackNetworkId=470, containerName=FullContainerName(container=CRAFTING_INPUT, dynamicId=null)), destination=ItemStackRequestSlotData(container=INVENTORY, slot=29, stackNetworkId=-235, containerName=FullContainerName(container=INVENTORY, dynamicId=null)))], filterStrings=[], textProcessingEventOrigin=null)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.rejectRequest(InventoryTranslator.java:879)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.rejectRequest(InventoryTranslator.java:868)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.translateRequest(InventoryTranslator.java:218)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.translateRequests(InventoryTranslator.java:176)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockItemStackRequestTranslator.translate(BedrockItemStackRequestTranslator.java:48)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockItemStackRequestTranslator.translate(BedrockItemStackRequestTranslator.java:38)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.translate0(PacketTranslatorRegistry.java:90)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.lambda$translate$0(PacketTranslatorRegistry.java:70)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:54)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[04:27:03] [Geyser player thread-5-3/WARN]: DEBUG: About to reject TAKE/PLACE request made by wizness823
+[04:27:03] [Geyser player thread-5-3/WARN]: Source: ItemStackRequestSlotData(container=CRAFTING_INPUT, slot=36, stackNetworkId=473, containerName=FullContainerName(container=CRAFTING_INPUT, dynamicId=null)) Result: false
+[04:27:03] [Geyser player thread-5-3/WARN]: Destination: ItemStackRequestSlotData(container=INVENTORY, slot=23, stackNetworkId=0, containerName=FullContainerName(container=INVENTORY, dynamicId=null)) Result: false
+[04:27:03] [Geyser player thread-5-3/WARN]: Geyser's record of source slot: GeyserItemStack(javaId=0, amount=0, components=null, netId=0, item=Item{javaIdentifier='minecraft:air', javaId=0})
+[04:27:03] [Geyser player thread-5-3/WARN]: Geyser's record of destination slot: GeyserItemStack(javaId=202, amount=3, components=null, netId=481, item=Item{javaIdentifier='minecraft:white_wool', javaId=202})
+[04:27:03] [Geyser player thread-5-3/WARN]: java.lang.Throwable: DEBUGGING: ItemStackRequest rejected ItemStackRequest(requestId=-239, actions=[PlaceAction(count=3, source=ItemStackRequestSlotData(container=CRAFTING_INPUT, slot=36, stackNetworkId=473, containerName=FullContainerName(container=CRAFTING_INPUT, dynamicId=null)), destination=ItemStackRequestSlotData(container=INVENTORY, slot=23, stackNetworkId=0, containerName=FullContainerName(container=INVENTORY, dynamicId=null)))], filterStrings=[], textProcessingEventOrigin=null)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.rejectRequest(InventoryTranslator.java:879)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.rejectRequest(InventoryTranslator.java:868)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.translateRequest(InventoryTranslator.java:218)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.translateRequests(InventoryTranslator.java:176)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockItemStackRequestTranslator.translate(BedrockItemStackRequestTranslator.java:48)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockItemStackRequestTranslator.translate(BedrockItemStackRequestTranslator.java:38)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.translate0(PacketTranslatorRegistry.java:90)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.lambda$translate$0(PacketTranslatorRegistry.java:70)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:54)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[04:27:03] [Geyser player thread-5-3/WARN]: DEBUG: About to reject TAKE/PLACE request made by wizness823
+[04:27:03] [Geyser player thread-5-3/WARN]: Source: ItemStackRequestSlotData(container=CRAFTING_INPUT, slot=37, stackNetworkId=471, containerName=FullContainerName(container=CRAFTING_INPUT, dynamicId=null)) Result: false
+[04:27:03] [Geyser player thread-5-3/WARN]: Destination: ItemStackRequestSlotData(container=INVENTORY, slot=29, stackNetworkId=-237, containerName=FullContainerName(container=INVENTORY, dynamicId=null)) Result: true
+[04:27:03] [Geyser player thread-5-3/WARN]: Geyser's record of source slot: GeyserItemStack(javaId=848, amount=1, components=null, netId=493, item=Item{javaIdentifier='minecraft:stick', javaId=848})
+[04:27:03] [Geyser player thread-5-3/WARN]: Geyser's record of destination slot: GeyserItemStack(javaId=848, amount=44, components=null, netId=345, item=Item{javaIdentifier='minecraft:stick', javaId=848})
+[04:27:03] [Geyser player thread-5-3/WARN]: java.lang.Throwable: DEBUGGING: ItemStackRequest rejected ItemStackRequest(requestId=-241, actions=[PlaceAction(count=3, source=ItemStackRequestSlotData(container=CRAFTING_INPUT, slot=37, stackNetworkId=471, containerName=FullContainerName(container=CRAFTING_INPUT, dynamicId=null)), destination=ItemStackRequestSlotData(container=INVENTORY, slot=29, stackNetworkId=-237, containerName=FullContainerName(container=INVENTORY, dynamicId=null)))], filterStrings=[], textProcessingEventOrigin=null)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.rejectRequest(InventoryTranslator.java:879)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.rejectRequest(InventoryTranslator.java:868)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.translateRequest(InventoryTranslator.java:218)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.translateRequests(InventoryTranslator.java:176)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockItemStackRequestTranslator.translate(BedrockItemStackRequestTranslator.java:48)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockItemStackRequestTranslator.translate(BedrockItemStackRequestTranslator.java:38)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.translate0(PacketTranslatorRegistry.java:90)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.lambda$translate$0(PacketTranslatorRegistry.java:70)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:54)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[04:27:03] [Geyser player thread-5-3/WARN]: DEBUG: About to reject TAKE/PLACE request made by wizness823
+[04:27:03] [Geyser player thread-5-3/WARN]: Source: ItemStackRequestSlotData(container=CRAFTING_INPUT, slot=38, stackNetworkId=474, containerName=FullContainerName(container=CRAFTING_INPUT, dynamicId=null)) Result: false
+[04:27:03] [Geyser player thread-5-3/WARN]: Destination: ItemStackRequestSlotData(container=INVENTORY, slot=29, stackNetworkId=-241, containerName=FullContainerName(container=INVENTORY, dynamicId=null)) Result: true
+[04:27:03] [Geyser player thread-5-3/WARN]: Geyser's record of source slot: GeyserItemStack(javaId=0, amount=0, components=null, netId=0, item=Item{javaIdentifier='minecraft:air', javaId=0})
+[04:27:03] [Geyser player thread-5-3/WARN]: Geyser's record of destination slot: GeyserItemStack(javaId=848, amount=44, components=null, netId=345, item=Item{javaIdentifier='minecraft:stick', javaId=848})
+[04:27:03] [Geyser player thread-5-3/WARN]: java.lang.Throwable: DEBUGGING: ItemStackRequest rejected ItemStackRequest(requestId=-243, actions=[PlaceAction(count=3, source=ItemStackRequestSlotData(container=CRAFTING_INPUT, slot=38, stackNetworkId=474, containerName=FullContainerName(container=CRAFTING_INPUT, dynamicId=null)), destination=ItemStackRequestSlotData(container=INVENTORY, slot=29, stackNetworkId=-241, containerName=FullContainerName(container=INVENTORY, dynamicId=null)))], filterStrings=[], textProcessingEventOrigin=null)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.rejectRequest(InventoryTranslator.java:879)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.rejectRequest(InventoryTranslator.java:868)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.translateRequest(InventoryTranslator.java:218)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.translateRequests(InventoryTranslator.java:176)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockItemStackRequestTranslator.translate(BedrockItemStackRequestTranslator.java:48)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockItemStackRequestTranslator.translate(BedrockItemStackRequestTranslator.java:38)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.translate0(PacketTranslatorRegistry.java:90)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.lambda$translate$0(PacketTranslatorRegistry.java:70)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:54)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[04:27:03] [Geyser player thread-5-3/WARN]: DEBUG: About to reject TAKE/PLACE request made by wizness823
+[04:27:03] [Geyser player thread-5-3/WARN]: Source: ItemStackRequestSlotData(container=CRAFTING_INPUT, slot=39, stackNetworkId=475, containerName=FullContainerName(container=CRAFTING_INPUT, dynamicId=null)) Result: false
+[04:27:03] [Geyser player thread-5-3/WARN]: Destination: ItemStackRequestSlotData(container=INVENTORY, slot=29, stackNetworkId=-243, containerName=FullContainerName(container=INVENTORY, dynamicId=null)) Result: true
+[04:27:03] [Geyser player thread-5-3/WARN]: Geyser's record of source slot: GeyserItemStack(javaId=0, amount=0, components=null, netId=0, item=Item{javaIdentifier='minecraft:air', javaId=0})
+[04:27:03] [Geyser player thread-5-3/WARN]: Geyser's record of destination slot: GeyserItemStack(javaId=848, amount=44, components=null, netId=345, item=Item{javaIdentifier='minecraft:stick', javaId=848})
+[04:27:03] [Geyser player thread-5-3/WARN]: java.lang.Throwable: DEBUGGING: ItemStackRequest rejected ItemStackRequest(requestId=-245, actions=[PlaceAction(count=3, source=ItemStackRequestSlotData(container=CRAFTING_INPUT, slot=39, stackNetworkId=475, containerName=FullContainerName(container=CRAFTING_INPUT, dynamicId=null)), destination=ItemStackRequestSlotData(container=INVENTORY, slot=29, stackNetworkId=-243, containerName=FullContainerName(container=INVENTORY, dynamicId=null)))], filterStrings=[], textProcessingEventOrigin=null)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.rejectRequest(InventoryTranslator.java:879)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.rejectRequest(InventoryTranslator.java:868)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.translateRequest(InventoryTranslator.java:218)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.translateRequests(InventoryTranslator.java:176)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockItemStackRequestTranslator.translate(BedrockItemStackRequestTranslator.java:48)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockItemStackRequestTranslator.translate(BedrockItemStackRequestTranslator.java:38)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.translate0(PacketTranslatorRegistry.java:90)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.lambda$translate$0(PacketTranslatorRegistry.java:70)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:54)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[04:27:03] [Geyser player thread-5-3/WARN]: DEBUG: About to reject TAKE/PLACE request made by wizness823
+[04:27:03] [Geyser player thread-5-3/WARN]: Source: ItemStackRequestSlotData(container=CRAFTING_INPUT, slot=40, stackNetworkId=476, containerName=FullContainerName(container=CRAFTING_INPUT, dynamicId=null)) Result: false
+[04:27:03] [Geyser player thread-5-3/WARN]: Destination: ItemStackRequestSlotData(container=INVENTORY, slot=29, stackNetworkId=-245, containerName=FullContainerName(container=INVENTORY, dynamicId=null)) Result: true
+[04:27:03] [Geyser player thread-5-3/WARN]: Geyser's record of source slot: GeyserItemStack(javaId=0, amount=0, components=null, netId=0, item=Item{javaIdentifier='minecraft:air', javaId=0})
+[04:27:03] [Geyser player thread-5-3/WARN]: Geyser's record of destination slot: GeyserItemStack(javaId=848, amount=44, components=null, netId=345, item=Item{javaIdentifier='minecraft:stick', javaId=848})
+[04:27:03] [Geyser player thread-5-3/WARN]: java.lang.Throwable: DEBUGGING: ItemStackRequest rejected ItemStackRequest(requestId=-247, actions=[PlaceAction(count=3, source=ItemStackRequestSlotData(container=CRAFTING_INPUT, slot=40, stackNetworkId=476, containerName=FullContainerName(container=CRAFTING_INPUT, dynamicId=null)), destination=ItemStackRequestSlotData(container=INVENTORY, slot=29, stackNetworkId=-245, containerName=FullContainerName(container=INVENTORY, dynamicId=null)))], filterStrings=[], textProcessingEventOrigin=null)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.rejectRequest(InventoryTranslator.java:879)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.rejectRequest(InventoryTranslator.java:868)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.translateRequest(InventoryTranslator.java:218)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.translateRequests(InventoryTranslator.java:176)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockItemStackRequestTranslator.translate(BedrockItemStackRequestTranslator.java:48)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockItemStackRequestTranslator.translate(BedrockItemStackRequestTranslator.java:38)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.translate0(PacketTranslatorRegistry.java:90)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.lambda$translate$0(PacketTranslatorRegistry.java:70)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:54)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[04:27:03] [Geyser player thread-5-3/WARN]: DEBUG: About to reject TAKE/PLACE request made by wizness823
+[04:27:03] [Geyser player thread-5-3/WARN]: Source: ItemStackRequestSlotData(container=HOTBAR_AND_INVENTORY, slot=29, stackNetworkId=-247, containerName=FullContainerName(container=HOTBAR_AND_INVENTORY, dynamicId=null)) Result: true
+[04:27:03] [Geyser player thread-5-3/WARN]: Destination: ItemStackRequestSlotData(container=CRAFTING_INPUT, slot=32, stackNetworkId=0, containerName=FullContainerName(container=CRAFTING_INPUT, dynamicId=null)) Result: false
+[04:27:03] [Geyser player thread-5-3/WARN]: Geyser's record of source slot: GeyserItemStack(javaId=848, amount=44, components=null, netId=345, item=Item{javaIdentifier='minecraft:stick', javaId=848})
+[04:27:03] [Geyser player thread-5-3/WARN]: Geyser's record of destination slot: GeyserItemStack(javaId=848, amount=1, components=null, netId=487, item=Item{javaIdentifier='minecraft:stick', javaId=848})
+[04:27:03] [Geyser player thread-5-3/WARN]: java.lang.Throwable: DEBUGGING: ItemStackRequest rejected ItemStackRequest(requestId=-249, actions=[PlaceAction(count=6, source=ItemStackRequestSlotData(container=HOTBAR_AND_INVENTORY, slot=29, stackNetworkId=-247, containerName=FullContainerName(container=HOTBAR_AND_INVENTORY, dynamicId=null)), destination=ItemStackRequestSlotData(container=CRAFTING_INPUT, slot=32, stackNetworkId=0, containerName=FullContainerName(container=CRAFTING_INPUT, dynamicId=null)))], filterStrings=[], textProcessingEventOrigin=null)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.rejectRequest(InventoryTranslator.java:879)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.rejectRequest(InventoryTranslator.java:868)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.translateRequest(InventoryTranslator.java:218)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.inventory.InventoryTranslator.translateRequests(InventoryTranslator.java:176)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockItemStackRequestTranslator.translate(BedrockItemStackRequestTranslator.java:48)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockItemStackRequestTranslator.translate(BedrockItemStackRequestTranslator.java:38)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.translate0(PacketTranslatorRegistry.java:90)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.lambda$translate$0(PacketTranslatorRegistry.java:70)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:54)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+[04:27:03] [Geyser player thread-5-3/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[04:28:24] [Geyser player thread-5-3/INFO]: Teleport (10) from -1540.0 69.0 -965.0
+[04:28:24] [Geyser player thread-5-3/INFO]: to -1539.5 69.0 -965.5
+[04:28:27] [Geyser player thread-5-3/INFO]: Teleport (11) from -1537.1165 69.0 -965.7
+[04:28:27] [Geyser player thread-5-3/INFO]: to -1537.323 70.0 -965.7
+[04:28:27] [Geyser player thread-5-3/INFO]: Teleport (12) from -1537.2806 69.0 -965.7
+[04:28:27] [Geyser player thread-5-3/INFO]: to -1537.3 70.0 -965.7
+[04:28:33] [Geyser player thread-5-3/INFO]: Teleport (13) from -1527.8112 68.0 -984.08295
+[04:28:33] [Geyser player thread-5-3/INFO]: to -1527.6096 68.0 -983.90283
+[04:28:33] [Geyser player thread-5-3/INFO]: Teleport (14) from -1527.8822 68.0 -983.9618
+[04:28:33] [Geyser player thread-5-3/INFO]: to -1527.7029 68.0 -983.9329

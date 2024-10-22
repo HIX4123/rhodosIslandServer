@@ -25180,3 +25180,57 @@ java.lang.NullPointerException: Cannot invoke "org.cloudburstmc.netty.channel.ra
 [13:11:43] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
 [13:17:31] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
 [13:29:41] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[13:31:19] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[13:32:11] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[13:32:59] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[13:35:55] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[13:40:50] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[13:43:57] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[13:46:46] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[13:48:54] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[13:58:40] [epollEventLoopGroup-3-2/INFO]: /221.168.244.24:53404에서 정보를 수신했습니다!
+[13:58:50] [epollEventLoopGroup-3-2/INFO]: /221.168.244.24:53404에서 정보를 수신했습니다!
+[13:58:53] [epollEventLoopGroup-3-2/INFO]: /221.168.244.24:53404에서 정보를 수신했습니다!
+[13:58:54] [epollEventLoopGroup-3-2/INFO]: /221.168.244.24:56168에서 접속을 시도했습니다!
+[13:58:55] [epollEventLoopGroup-4-1/INFO]: Is player data signed? true
+[13:58:55] [epollEventLoopGroup-4-1/INFO]: Could not find packet for ClientToServerHandshakePacket
+[13:58:55] [epollEventLoopGroup-4-1/INFO]: Could not find packet for ClientCacheStatusPacket
+[13:58:55] [epollEventLoopGroup-4-1/INFO]: 플레이어가 사용자명 Tyrine74(으)로 연결했습니다.
+[13:58:55] [localSession-7-2/INFO]: Tyrine74 (Tyrine74로 로그인) (이)가 Java 서버에 접속했습니다
+[13:58:55] [localSession-7-2/INFO]: Locale already loaded: ko_kr
+[13:58:56] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[13:58:56] [Geyser player thread-5-1/INFO]: .Tyrine74의 Bedrock 스킨을 등록하는중 (00000000-0000-0000-0009-01f1152cfb8b)
+[13:58:56] [localSession-7-2/INFO]: Could not find packet for ClientboundUpdateEnabledFeaturesPacket
+[13:58:56] [Geyser player thread-5-1/INFO]: Ignoring registry of type minecraft:damage_type
+[13:58:56] [Geyser player thread-5-1/INFO]: Emulating post 1.18 block predication logic for Tyrine74? true
+[13:58:56] [Geyser player thread-5-1/INFO]: Emulating post 1.13 villager logic for Tyrine74? true
+[13:58:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_special
+[13:58:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_common
+[13:58:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_common
+[13:58:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/snow_common
+[13:58:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/snow_special
+[13:58:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_special
+[13:58:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/desert_common
+[13:58:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_common
+[13:58:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_special
+[13:58:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_common
+[13:58:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_special
+[13:58:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/plains_common
+[13:58:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/plains_special
+[13:58:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/desert_special
+[13:58:56] [Geyser player thread-5-1/INFO]: Extending overworld dimension to -64 - 384
+[13:58:56] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[13:58:56] [localSession-7-2/INFO]: Could not find packet for ClientboundServerDataPacket
+[13:58:56] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 264124 at ([world]-1475.4031, 69.0, -1028.2472)
+[13:58:56] [localSession-7-2/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[13:58:56] [localSession-7-2/INFO]: Could not find packet for ClientboundTickingStatePacket
+[13:58:56] [localSession-7-2/INFO]: Could not find packet for ClientboundTickingStepPacket
+[13:58:56] [Geyser player thread-5-1/INFO]: Spawned player at -1475.4031 69.0 -1028.2472
+[13:58:56] [ForkJoinPool.commonPool-worker-321/INFO]: Loaded Local Bedrock Java Skin Data for Tyrine74
+[13:58:56] [Geyser player thread-5-1/INFO]: Ignoring player info update for 00000000-0000-0000-0009-01f1152cfb8b
+[13:58:56] [Geyser player thread-5-1/INFO]: Redirecting command tm to teammsg
+[13:58:56] [Geyser player thread-5-1/INFO]: Redirecting command minecraft:teammsg to teammsg
+[13:58:56] [Geyser player thread-5-1/INFO]: Redirecting command minecraft:tm to teammsg
+[13:58:56] [Geyser player thread-5-1/INFO]: Redirecting command minecraft:trigger to trigger
+[13:58:56] [Geyser player thread-5-1/INFO]: Sending command packet of 26 commands
+[13:59:22] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players

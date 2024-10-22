@@ -28158,3 +28158,9 @@ java.lang.NullPointerException: Cannot invoke "org.cloudburstmc.netty.channel.ra
 [20:22:01] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
 [20:26:01] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
 [20:29:59] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[20:41:34] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[20:41:36] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[20:42:43] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[20:44:30] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[20:51:34] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[20:57:52] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players

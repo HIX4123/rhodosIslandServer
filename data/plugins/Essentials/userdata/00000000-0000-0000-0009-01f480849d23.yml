@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1729508686703
+  lastteleport: 1729576557754
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729557134667
-  login: 1729570578262
+  logout: 1729575381268
+  login: 1729575396973
 money: '0'
 last-account-name: .wizness823
 lastlocation:
   world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
   world-name: world
-  x: -1551.69999
-  y: 96.0
-  z: -1001.3018
-  yaw: -98.51944732666016
+  x: -1551.8903
+  y: 95.5
+  z: -998.8794
+  yaw: -44.653961181640625
   pitch: 89.89999389648438
 logoutlocation:
   world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
   world-name: world
-  x: -1475.9652
-  y: 70.0
-  z: -1002.9634
-  yaw: -34.61457824707031
-  pitch: 44.59568786621094
+  x: -1550.9861
+  y: 144.0
+  z: -1002.50366
+  yaw: -101.02152252197266
+  pitch: -57.453643798828125

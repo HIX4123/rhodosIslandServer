@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 222.121.201.91
+ip-address: 121.173.161.173
 afk: false
 socialspy: false
 npc: false
@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1729593079104
+  lastteleport: 1729597870304
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1729593597569
-  login: 1729593197904
+  login: 1729597652537
 money: '0'
 last-account-name: .wizness823
 lastlocation:
   world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
   world-name: world
-  x: -1540.2634
+  x: -1469.605
   y: 68.0
-  z: -942.0619
-  yaw: 148.4161376953125
-  pitch: 19.667953491210938
+  z: -1003.8515
+  yaw: 115.55303955078125
+  pitch: 55.902099609375
 logoutlocation:
   world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
   world-name: world

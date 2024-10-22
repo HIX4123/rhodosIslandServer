@@ -26969,3 +26969,1127 @@ java.lang.NullPointerException: Cannot invoke "org.cloudburstmc.netty.channel.ra
 }, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
 [14:57:18] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
 [14:58:09] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:02:12] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:03:08] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:04:12] [Geyser player thread-5-2/INFO]: Teleport (25) from -1478.0 70.0 -1038.0
+[15:04:12] [Geyser player thread-5-2/INFO]: to -1478.5 70.0 -1037.5
+[15:06:13] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:06:39] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:08:53] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 119i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:09:04] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:09:07] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:11:13] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:13:32] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:13:48] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:13:57] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:14:09] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:14:12] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:14:39] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:15:12] [Server thread/INFO]: .Tyrine74 issued server command: /home
+[15:15:14] [Geyser player thread-5-2/INFO]: Teleport (26) from -1475.3759 64.0 -998.4497
+[15:15:14] [Geyser player thread-5-2/INFO]: to -1478.5 70.0 -1037.5
+[15:15:14] [Server thread/WARN]: .Tyrine74 moved too quickly! -3.1240999999999985,6.0,-39.05029999999999
+[15:15:14] [Geyser player thread-5-2/INFO]: Teleport (27) from -1478.5 70.0 -1037.5
+[15:15:14] [Geyser player thread-5-2/INFO]: to -1478.5 70.0 -1037.5
+[15:15:14] [Server thread/WARN]: .Tyrine74 moved too quickly! -3.1240999999999985,6.0,-39.05029999999999
+[15:15:14] [Geyser player thread-5-2/INFO]: Teleport (28) from -1478.5 70.0 -1037.5
+[15:15:14] [Geyser player thread-5-2/INFO]: to -1478.5 70.0 -1037.5
+[15:15:14] [Server thread/WARN]: .Tyrine74 moved too quickly! -3.1240999999999985,6.0,-39.05029999999999
+[15:15:14] [Geyser player thread-5-2/INFO]: Teleport (29) from -1478.5 70.0 -1037.5
+[15:15:14] [Geyser player thread-5-2/INFO]: to -1478.5 70.0 -1037.5
+[15:15:15] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:15:20] [Geyser player thread-5-2/INFO]: Teleport (30) from -1478.0 70.0 -1038.0
+[15:15:20] [Geyser player thread-5-2/INFO]: to -1478.5 70.0 -1037.5
+[15:15:34] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:15:38] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:15:39] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:15:48] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:15:50] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:15:50] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:15:50] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:16:02] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:minecart, runtimeId=378, componentBased=false), damage=0, count=1, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:16:12] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:16:54] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:16:59] [Server thread/INFO]: Villager Villager['Farmer'/83, uuid='8bc9dd81-898f-4a11-9c86-c43d00cfb585', l='ServerLevel[world]', x=-1476.50, y=63.56, z=-1001.50, cpos=[-93, -63], tl=3747012, v=true] died, message: 'Farmer was slain by .Tyrine74 using [리네의 검★]'
+[15:17:18] [Server thread/INFO]: .Tyrine74 issued server command: /home
+[15:17:21] [Geyser player thread-5-2/INFO]: Teleport (31) from -1475.3 64.0 -998.3
+[15:17:21] [Geyser player thread-5-2/INFO]: to -1478.5 70.0 -1037.5
+[15:17:21] [Server thread/WARN]: .Tyrine74 moved too quickly! -3.1999900000000707,6.0,-39.19998999999996
+[15:17:21] [Geyser player thread-5-2/INFO]: Teleport (32) from -1478.5 70.0 -1037.5
+[15:17:21] [Geyser player thread-5-2/INFO]: to -1478.5 70.0 -1037.5
+[15:17:21] [Server thread/WARN]: .Tyrine74 moved too quickly! -3.1999900000000707,6.0,-39.19998999999996
+[15:17:21] [Geyser player thread-5-2/INFO]: Teleport (33) from -1478.5 70.0 -1037.5
+[15:17:21] [Geyser player thread-5-2/INFO]: to -1478.5 70.0 -1037.5
+[15:17:21] [Server thread/WARN]: .Tyrine74 moved too quickly! -3.1999900000000707,6.0,-39.19998999999996
+[15:17:21] [Geyser player thread-5-2/INFO]: Teleport (34) from -1478.5 70.0 -1037.5
+[15:17:21] [Geyser player thread-5-2/INFO]: to -1478.5 70.0 -1037.5
+[15:17:26] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 118i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:17:32] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 110i,
+  "GeyserHash": 1527978154i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:17:45] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:18:11] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=39, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:18:12] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=39, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:18:12] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=38, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:18:55] [localSession-7-3/INFO]: Tyrine74(이)가 Java 서버에서 사유 베드락 클라이언트 시간 초과로 인하여 접속이 종료되었습니다
+[15:18:55] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[15:18:55] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[15:18:55] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[15:18:57] [epollEventLoopGroup-3-1/INFO]: /221.168.244.24:61379에서 정보를 수신했습니다!
+[15:19:04] [epollEventLoopGroup-3-1/INFO]: /221.168.244.24:61379에서 정보를 수신했습니다!
+[15:19:09] [epollEventLoopGroup-3-1/INFO]: /221.168.244.24:61379에서 정보를 수신했습니다!
+[15:19:12] [epollEventLoopGroup-3-1/INFO]: /221.168.244.24:61379에서 정보를 수신했습니다!
+[15:19:13] [epollEventLoopGroup-3-1/INFO]: /221.168.244.24:4024에서 접속을 시도했습니다!
+[15:19:13] [epollEventLoopGroup-4-3/INFO]: Is player data signed? true
+[15:19:13] [epollEventLoopGroup-4-3/INFO]: Could not find packet for ClientToServerHandshakePacket
+[15:19:13] [epollEventLoopGroup-4-3/INFO]: Could not find packet for ClientCacheStatusPacket
+[15:19:13] [epollEventLoopGroup-4-3/INFO]: 플레이어가 사용자명 Tyrine74(으)로 연결했습니다.
+[15:19:13] [localSession-7-4/INFO]: Tyrine74 (Tyrine74로 로그인) (이)가 Java 서버에 접속했습니다
+[15:19:13] [localSession-7-4/INFO]: Locale already loaded: ko_kr
+[15:19:14] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[15:19:14] [Geyser player thread-5-3/INFO]: .Tyrine74의 Bedrock 스킨을 등록하는중 (00000000-0000-0000-0009-01f1152cfb8b)
+[15:19:14] [localSession-7-4/INFO]: Could not find packet for ClientboundUpdateEnabledFeaturesPacket
+[15:19:14] [Geyser player thread-5-3/INFO]: Ignoring registry of type minecraft:damage_type
+[15:19:14] [Geyser player thread-5-3/INFO]: Emulating post 1.18 block predication logic for Tyrine74? true
+[15:19:14] [Geyser player thread-5-3/INFO]: Emulating post 1.13 villager logic for Tyrine74? true
+[15:19:14] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_special
+[15:19:14] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_common
+[15:19:14] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_common
+[15:19:14] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/snow_common
+[15:19:14] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/snow_special
+[15:19:14] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_special
+[15:19:14] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/desert_common
+[15:19:14] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_common
+[15:19:14] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_special
+[15:19:14] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_common
+[15:19:14] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_special
+[15:19:14] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/plains_common
+[15:19:14] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/plains_special
+[15:19:14] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/desert_special
+[15:19:14] [Geyser player thread-5-3/INFO]: Extending overworld dimension to -64 - 384
+[15:19:14] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[15:19:15] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 272482 at ([world]-1477.9711, 70.5625, -1037.1351)
+[15:19:15] [localSession-7-4/INFO]: Could not find packet for ClientboundServerDataPacket
+[15:19:15] [localSession-7-4/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[15:19:15] [localSession-7-4/INFO]: Could not find packet for ClientboundTickingStatePacket
+[15:19:15] [localSession-7-4/INFO]: Could not find packet for ClientboundTickingStepPacket
+[15:19:15] [Geyser player thread-5-3/INFO]: Spawned player at -1477.9711 70.5625 -1037.1351
+[15:19:15] [Geyser player thread-5-3/INFO]: Ignoring player info update for 00000000-0000-0000-0009-01f1152cfb8b
+[15:19:15] [ForkJoinPool.commonPool-worker-323/INFO]: Loaded Local Bedrock Java Skin Data for Tyrine74
+[15:19:15] [Geyser player thread-5-3/INFO]: Redirecting command tm to teammsg
+[15:19:15] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:teammsg to teammsg
+[15:19:15] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:tm to teammsg
+[15:19:15] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:trigger to trigger
+[15:19:15] [Geyser player thread-5-3/INFO]: Sending command packet of 26 commands
+[15:19:27] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:19:30] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=38, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:20:52] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:21:02] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:21:20] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:21:52] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=38, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:21:52] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=38, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:24:37] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:26:52] [Server thread/INFO]: .Tyrine74 lost connection: You have been idle for too long!
+[15:26:52] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[15:26:52] [localSession-7-4/INFO]: Tyrine74(이)가 Java 서버에서 사유 너무 오랫동안 가만히 있었습니다!로 인하여 접속이 종료되었습니다
+[15:26:53] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[15:28:52] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[15:30:00] [epollEventLoopGroup-3-2/INFO]: /221.168.244.24:53404에서 정보를 수신했습니다!
+[15:30:04] [epollEventLoopGroup-3-2/INFO]: /221.168.244.24:53404에서 정보를 수신했습니다!
+[15:30:07] [epollEventLoopGroup-3-2/INFO]: /221.168.244.24:53404에서 정보를 수신했습니다!
+[15:30:08] [epollEventLoopGroup-3-2/INFO]: /221.168.244.24:56168에서 접속을 시도했습니다!
+[15:30:09] [epollEventLoopGroup-4-4/INFO]: Is player data signed? true
+[15:30:09] [epollEventLoopGroup-4-4/INFO]: Could not find packet for ClientToServerHandshakePacket
+[15:30:09] [epollEventLoopGroup-4-4/INFO]: Could not find packet for ClientCacheStatusPacket
+[15:30:09] [epollEventLoopGroup-4-4/INFO]: 플레이어가 사용자명 Tyrine74(으)로 연결했습니다.
+[15:30:09] [localSession-7-1/INFO]: Tyrine74 (Tyrine74로 로그인) (이)가 Java 서버에 접속했습니다
+[15:30:09] [localSession-7-1/INFO]: Locale already loaded: ko_kr
+[15:30:10] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[15:30:10] [Geyser player thread-5-4/INFO]: .Tyrine74의 Bedrock 스킨을 등록하는중 (00000000-0000-0000-0009-01f1152cfb8b)
+[15:30:10] [localSession-7-1/INFO]: Could not find packet for ClientboundUpdateEnabledFeaturesPacket
+[15:30:10] [Geyser player thread-5-4/INFO]: Ignoring registry of type minecraft:damage_type
+[15:30:10] [Geyser player thread-5-4/INFO]: Emulating post 1.18 block predication logic for Tyrine74? true
+[15:30:10] [Geyser player thread-5-4/INFO]: Emulating post 1.13 villager logic for Tyrine74? true
+[15:30:10] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_special
+[15:30:10] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_common
+[15:30:10] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_common
+[15:30:10] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/snow_common
+[15:30:10] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/snow_special
+[15:30:10] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_special
+[15:30:10] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/desert_common
+[15:30:10] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_common
+[15:30:10] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_special
+[15:30:10] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_common
+[15:30:10] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_special
+[15:30:10] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/plains_common
+[15:30:10] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/plains_special
+[15:30:10] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/desert_special
+[15:30:10] [Geyser player thread-5-4/INFO]: Extending overworld dimension to -64 - 384
+[15:30:10] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[15:30:10] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 273303 at ([world]-1477.9711, 70.5625, -1037.1351)
+[15:30:10] [localSession-7-1/INFO]: Could not find packet for ClientboundServerDataPacket
+[15:30:10] [localSession-7-1/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[15:30:10] [localSession-7-1/INFO]: Could not find packet for ClientboundTickingStatePacket
+[15:30:10] [localSession-7-1/INFO]: Could not find packet for ClientboundTickingStepPacket
+[15:30:10] [Geyser player thread-5-4/INFO]: Spawned player at -1477.9711 70.5625 -1037.1351
+[15:30:10] [ForkJoinPool.commonPool-worker-324/INFO]: Loaded Local Bedrock Java Skin Data for Tyrine74
+[15:30:10] [Geyser player thread-5-4/INFO]: Ignoring player info update for 00000000-0000-0000-0009-01f1152cfb8b
+[15:30:10] [Geyser player thread-5-4/INFO]: Redirecting command tm to teammsg
+[15:30:10] [Geyser player thread-5-4/INFO]: Redirecting command minecraft:teammsg to teammsg
+[15:30:10] [Geyser player thread-5-4/INFO]: Redirecting command minecraft:tm to teammsg
+[15:30:10] [Geyser player thread-5-4/INFO]: Redirecting command minecraft:trigger to trigger
+[15:30:10] [Geyser player thread-5-4/INFO]: Sending command packet of 26 commands
+[15:30:24] [Geyser player thread-5-4/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=38, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:30:29] [Geyser player thread-5-4/INFO]: Teleport (2) from -1478.0 70.0 -1038.0
+[15:30:29] [Geyser player thread-5-4/INFO]: to -1476.5 70.0 -1037.5
+[15:32:21] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:33:45] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:35:29] [Server thread/INFO]: .Tyrine74 lost connection: You have been idle for too long!
+[15:35:29] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[15:35:29] [localSession-7-1/INFO]: Tyrine74(이)가 Java 서버에서 사유 너무 오랫동안 가만히 있었습니다!로 인하여 접속이 종료되었습니다
+[15:35:30] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[15:36:47] [epollEventLoopGroup-3-2/INFO]: /221.168.244.24:53404에서 정보를 수신했습니다!
+[15:36:51] [epollEventLoopGroup-3-2/INFO]: /221.168.244.24:53404에서 정보를 수신했습니다!
+[15:36:54] [epollEventLoopGroup-3-2/INFO]: /221.168.244.24:53404에서 정보를 수신했습니다!
+[15:36:55] [epollEventLoopGroup-3-2/INFO]: /221.168.244.24:56168에서 접속을 시도했습니다!
+[15:36:55] [epollEventLoopGroup-4-1/INFO]: Is player data signed? true
+[15:36:55] [epollEventLoopGroup-4-1/INFO]: Could not find packet for ClientToServerHandshakePacket
+[15:36:55] [epollEventLoopGroup-4-1/INFO]: Could not find packet for ClientCacheStatusPacket
+[15:36:56] [epollEventLoopGroup-4-1/INFO]: 플레이어가 사용자명 Tyrine74(으)로 연결했습니다.
+[15:36:56] [localSession-7-2/INFO]: Tyrine74 (Tyrine74로 로그인) (이)가 Java 서버에 접속했습니다
+[15:36:56] [localSession-7-2/INFO]: Locale already loaded: ko_kr
+[15:36:56] [Server thread/INFO]: Floodgate player logged in as .Tyrine74 joined (UUID: 00000000-0000-0000-0009-01f1152cfb8b)
+[15:36:56] [Geyser player thread-5-1/INFO]: .Tyrine74의 Bedrock 스킨을 등록하는중 (00000000-0000-0000-0009-01f1152cfb8b)
+[15:36:56] [localSession-7-2/INFO]: Could not find packet for ClientboundUpdateEnabledFeaturesPacket
+[15:36:56] [Geyser player thread-5-1/INFO]: Ignoring registry of type minecraft:damage_type
+[15:36:56] [Geyser player thread-5-1/INFO]: Emulating post 1.18 block predication logic for Tyrine74? true
+[15:36:56] [Geyser player thread-5-1/INFO]: Emulating post 1.13 villager logic for Tyrine74? true
+[15:36:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_special
+[15:36:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_common
+[15:36:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_common
+[15:36:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/snow_common
+[15:36:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/snow_special
+[15:36:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_special
+[15:36:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/desert_common
+[15:36:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_common
+[15:36:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_special
+[15:36:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_common
+[15:36:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_special
+[15:36:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/plains_common
+[15:36:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/plains_special
+[15:36:56] [Geyser player thread-5-1/INFO]: Enchantment tag not found from server: minecraft:trades/desert_special
+[15:36:56] [Geyser player thread-5-1/INFO]: Extending overworld dimension to -64 - 384
+[15:36:56] [Server thread/INFO]: [93m.Tyrine74 joined the game[0m
+[15:36:57] [Server thread/INFO]: .Tyrine74[/221.168.244.24:0] logged in with entity id 273911 at ([world]-1476.5, 70.0, -1037.5)
+[15:36:57] [localSession-7-2/INFO]: Could not find packet for ClientboundServerDataPacket
+[15:36:57] [localSession-7-2/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[15:36:57] [localSession-7-2/INFO]: Could not find packet for ClientboundTickingStatePacket
+[15:36:57] [localSession-7-2/INFO]: Could not find packet for ClientboundTickingStepPacket
+[15:36:57] [Geyser player thread-5-1/INFO]: Spawned player at -1476.5 70.0 -1037.5
+[15:36:57] [Geyser player thread-5-1/INFO]: Ignoring player info update for 00000000-0000-0000-0009-01f1152cfb8b
+[15:36:57] [ForkJoinPool.commonPool-worker-325/INFO]: Loaded Local Bedrock Java Skin Data for Tyrine74
+[15:36:57] [Geyser player thread-5-1/INFO]: Redirecting command tm to teammsg
+[15:36:57] [Geyser player thread-5-1/INFO]: Redirecting command minecraft:teammsg to teammsg
+[15:36:57] [Geyser player thread-5-1/INFO]: Redirecting command minecraft:tm to teammsg
+[15:36:57] [Geyser player thread-5-1/INFO]: Redirecting command minecraft:trigger to trigger
+[15:36:57] [Geyser player thread-5-1/INFO]: Sending command packet of 26 commands
+[15:37:10] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=38, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:37:24] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=38, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:37:40] [Server thread/INFO]: .Tyrine74 issued server command: /home
+[15:37:42] [Geyser player thread-5-1/INFO]: Teleport (2) from -1475.3 64.0 -998.6359
+[15:37:42] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:37:42] [Server thread/WARN]: .Tyrine74 moved too quickly! -1.1999900000000707,6.0,-38.86410000000001
+[15:37:42] [Geyser player thread-5-1/INFO]: Teleport (3) from -1476.5 70.0 -1037.5
+[15:37:42] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:37:42] [Server thread/WARN]: .Tyrine74 moved too quickly! -1.1999900000000707,6.0,-38.86410000000001
+[15:37:42] [Geyser player thread-5-1/INFO]: Teleport (4) from -1476.5 70.0 -1037.5
+[15:37:42] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:37:42] [Server thread/WARN]: .Tyrine74 moved too quickly! -1.1999900000000707,6.0,-38.86410000000001
+[15:37:42] [Geyser player thread-5-1/INFO]: Teleport (5) from -1476.5 70.0 -1037.5
+[15:37:42] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:37:51] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:38:19] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 112i,
+  "GeyserHash": 1527978154i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:38:39] [Server thread/INFO]: .Tyrine74 issued server command: /home
+[15:38:42] [Geyser player thread-5-1/INFO]: Teleport (6) from -1475.3 65.0 -998.3
+[15:38:42] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:38:42] [Server thread/WARN]: .Tyrine74 moved too quickly! -1.1999900000000707,5.0,-39.19998999999996
+[15:38:42] [Geyser player thread-5-1/INFO]: Teleport (7) from -1476.5 70.0 -1037.5
+[15:38:42] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:38:42] [Server thread/WARN]: .Tyrine74 moved too quickly! -1.1999900000000707,5.0,-39.19998999999996
+[15:38:42] [Geyser player thread-5-1/INFO]: Teleport (8) from -1476.5 70.0 -1037.5
+[15:38:42] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:38:42] [Server thread/WARN]: .Tyrine74 moved too quickly! -1.1999900000000707,5.0,-39.19998999999996
+[15:38:42] [Geyser player thread-5-1/INFO]: Teleport (9) from -1476.5 70.0 -1037.5
+[15:38:42] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:38:53] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=38, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:38:55] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=38, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:38:55] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=37, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:38:55] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=37, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:39:10] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=37, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:39:12] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=37, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:39:13] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=37, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:39:20] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=37, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:39:24] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:39:34] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=37, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:39:42] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=37, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:39:46] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=37, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:40:50] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:41:28] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=37, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:41:29] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=37, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:41:36] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_pickaxe, runtimeId=325, componentBased=false), damage=0, count=1, tag={
+  "Damage": 104i,
+  "GeyserHash": 1004302319i,
+  "ench": [
+    {
+      "id": 16s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 15s,
+      "lvl": 4s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:41:37] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_pickaxe, runtimeId=325, componentBased=false), damage=0, count=1, tag={
+  "Damage": 104i,
+  "GeyserHash": 1004302319i,
+  "ench": [
+    {
+      "id": 16s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 15s,
+      "lvl": 4s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:41:52] [Server thread/INFO]: .Tyrine74 issued server command: /home
+[15:41:55] [Geyser player thread-5-1/INFO]: Teleport (10) from -1475.5734 65.0 -998.3
+[15:41:55] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:41:55] [Server thread/WARN]: .Tyrine74 moved too quickly! -0.9266000000000076,5.0,-39.19998999999996
+[15:41:55] [Geyser player thread-5-1/INFO]: Teleport (11) from -1476.5 70.0 -1037.5
+[15:41:55] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:41:55] [Server thread/WARN]: .Tyrine74 moved too quickly! -0.9266000000000076,5.0,-39.19998999999996
+[15:41:55] [Geyser player thread-5-1/INFO]: Teleport (12) from -1476.5 70.0 -1037.5
+[15:41:55] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:41:55] [Server thread/WARN]: .Tyrine74 moved too quickly! -0.9266000000000076,5.0,-39.19998999999996
+[15:41:55] [Geyser player thread-5-1/INFO]: Teleport (13) from -1476.5 70.0 -1037.5
+[15:41:55] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:42:03] [Geyser player thread-5-1/INFO]: Teleport (14) from -1478.0 70.0 -1038.0
+[15:42:03] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:42:30] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:bow, runtimeId=307, componentBased=false), damage=0, count=1, tag={
+  "Damage": 83i,
+  "GeyserHash": 1004302328i,
+  "ench": [
+    {
+      "id": 22s,
+      "lvl": 1s
+    },
+    {
+      "id": 19s,
+      "lvl": 4s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:42:33] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:bow, runtimeId=307, componentBased=false), damage=0, count=1, tag={
+  "Damage": 84i,
+  "GeyserHash": 1004302329i,
+  "ench": [
+    {
+      "id": 22s,
+      "lvl": 1s
+    },
+    {
+      "id": 19s,
+      "lvl": 4s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:42:35] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:bow, runtimeId=307, componentBased=false), damage=0, count=1, tag={
+  "Damage": 85i,
+  "GeyserHash": 1004302334i,
+  "ench": [
+    {
+      "id": 22s,
+      "lvl": 1s
+    },
+    {
+      "id": 19s,
+      "lvl": 4s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:42:37] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:bow, runtimeId=307, componentBased=false), damage=0, count=1, tag={
+  "Damage": 86i,
+  "GeyserHash": 1004302335i,
+  "ench": [
+    {
+      "id": 22s,
+      "lvl": 1s
+    },
+    {
+      "id": 19s,
+      "lvl": 4s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:19] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:21] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:23] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:54] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:54] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:55] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:55] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:55] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:55] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:55] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:55] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:55] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:56] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:56] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:56] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:56] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:56] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:43:57] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:44:00] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:44:15] [Geyser player thread-5-1/INFO]: Teleport (15) from -1550.7 66.5 -1002.81055
+[15:44:15] [Geyser player thread-5-1/INFO]: to -1550.6532 66.5 -1002.7936
+[15:44:30] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:44:44] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:44:45] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:44:49] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:44:55] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=37, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:44:57] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=37, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:44:57] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:44:57] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:46:00] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:46:10] [Geyser player thread-5-1/INFO]: Teleport (16) from -1552.0759 66.5 -1001.7
+[15:46:10] [Geyser player thread-5-1/INFO]: to -1552.0841 66.5 -1001.6944
+[15:46:10] [Geyser player thread-5-1/INFO]: Teleport (17) from -1552.0581 66.5 -1001.7
+[15:46:10] [Geyser player thread-5-1/INFO]: to -1552.0841 66.5 -1001.6944
+[15:46:39] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 118i,
+  "GeyserHash": -1144826621i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:47:07] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 118i,
+  "GeyserHash": -1144826621i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:47:16] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:47:28] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:47:29] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:47:30] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:47:31] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:47:43] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:48:23] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:48:24] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:48:46] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:48:48] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:48:48] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:48:49] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:48:49] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:49:02] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:49:15] [Geyser player thread-5-1/INFO]: Teleport (18) from -1483.5125 69.373505 -1008.7001
+[15:49:15] [Geyser player thread-5-1/INFO]: to -1483.5125 69.17351 -1008.63007
+[15:49:22] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:49:50] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:49:55] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:51:03] [Geyser player thread-5-1/INFO]: Teleport (19) from -1476.3069 66.23152 -1010.2999
+[15:51:03] [Geyser player thread-5-1/INFO]: to -1476.3083 66.53584 -1010.31555
+[15:51:24] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:51:49] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:18] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:20] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:21] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:22] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:22] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:23] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:23] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:23] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:23] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:24] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:24] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:24] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:25] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:25] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:25] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:29] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:33] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:52:38] [Geyser player thread-5-1/INFO]: Teleport (20) from -1478.0 70.0 -1038.0
+[15:52:38] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:53:39] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:55:05] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:09] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:11] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:21] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=36, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:31] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 111i,
+  "GeyserHash": 1527978151i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:33] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 112i,
+  "GeyserHash": 1527978152i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:34] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 113i,
+  "GeyserHash": 1527978141i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:34] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 113i,
+  "GeyserHash": 1527978141i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:35] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 113i,
+  "GeyserHash": 1527978141i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:35] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 113i,
+  "GeyserHash": 1527978141i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:35] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 113i,
+  "GeyserHash": 1527978141i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:35] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 113i,
+  "GeyserHash": 1527978141i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:35] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 113i,
+  "GeyserHash": 1527978141i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:36] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 113i,
+  "GeyserHash": 1527978141i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:36] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 113i,
+  "GeyserHash": 1527978141i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:36] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 113i,
+  "GeyserHash": 1527978141i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:36] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 113i,
+  "GeyserHash": 1527978141i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:36] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 113i,
+  "GeyserHash": 1527978141i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:37] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 113i,
+  "GeyserHash": 1527978141i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:37] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 113i,
+  "GeyserHash": 1527978141i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:37] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 113i,
+  "GeyserHash": 1527978141i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:37] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 113i,
+  "GeyserHash": 1527978141i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:38] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=305, componentBased=false), damage=0, count=1, tag={
+  "Damage": 113i,
+  "GeyserHash": 1527978141i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:41] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_pickaxe, runtimeId=325, componentBased=false), damage=0, count=1, tag={
+  "Damage": 104i,
+  "GeyserHash": 1004302319i,
+  "ench": [
+    {
+      "id": 16s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 15s,
+      "lvl": 4s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:41] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_pickaxe, runtimeId=325, componentBased=false), damage=0, count=1, tag={
+  "Damage": 104i,
+  "GeyserHash": 1004302319i,
+  "ench": [
+    {
+      "id": 16s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 15s,
+      "lvl": 4s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:55:56] [Server thread/INFO]: .Tyrine74 issued server command: /home
+[15:55:58] [Geyser player thread-5-1/INFO]: Teleport (21) from -1475.3 64.0 -998.3
+[15:55:58] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:55:58] [Server thread/WARN]: .Tyrine74 moved too quickly! -1.1999900000000707,6.0,-39.19998999999996
+[15:55:58] [Geyser player thread-5-1/INFO]: Teleport (22) from -1476.5 70.0 -1037.5
+[15:55:58] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:55:58] [Server thread/WARN]: .Tyrine74 moved too quickly! -1.1999900000000707,6.0,-39.19998999999996
+[15:55:58] [Geyser player thread-5-1/INFO]: Teleport (23) from -1476.5 70.0 -1037.5
+[15:55:58] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:55:58] [Server thread/WARN]: .Tyrine74 moved too quickly! -1.1999900000000707,6.0,-39.19998999999996
+[15:55:58] [Geyser player thread-5-1/INFO]: Teleport (24) from -1476.5 70.0 -1037.5
+[15:55:58] [Geyser player thread-5-1/INFO]: to -1476.5 70.0 -1037.5
+[15:55:58] [Geyser player thread-5-1/INFO]: §cTyrine74 moved too quickly. current position: (-1476.5, 71.62001, -1037.5), new position: (-1475.3, 65.62001, -998.3)
+[15:55:58] [Geyser player thread-5-1/INFO]: Recalculating position...
+[15:57:27] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:58:01] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:58:46] [localSession-7-2/INFO]: Tyrine74(이)가 Java 서버에서 사유 베드락 클라이언트 연결 끊김로 인하여 접속이 종료되었습니다
+[15:58:46] [Geyser Spigot connection thread-6-3/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[15:58:46] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[15:58:46] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[16:00:03] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[16:04:32] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[16:07:29] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[16:10:18] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[16:11:08] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[16:12:39] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[16:16:36] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[16:17:34] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[16:18:33] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[16:20:15] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players

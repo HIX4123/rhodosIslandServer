@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1729608476354
+  lastteleport: 1729612558403
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729607086794
-  login: 1729607151750
+  logout: 1729612726422
+  login: 1729611417005
 money: '0'
 last-account-name: .Tyrine74
 lastlocation:
   world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
   world-name: world
-  x: -1477.69999
+  x: -1475.30001
   y: 64.0
-  z: -1000.75494
-  yaw: -139.30345153808594
-  pitch: 21.606231689453125
+  z: -998.30001
+  yaw: 120.998046875
+  pitch: 9.990966796875
 logoutlocation:
   world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
   world-name: world
-  x: -1477.3547
-  y: 70.5625
-  z: -1036.5303
-  yaw: 56.3868408203125
-  pitch: 32.249176025390625
+  x: -1481.4581
+  y: 70.0
+  z: -997.11865
+  yaw: -88.3375244140625
+  pitch: 33.339324951171875

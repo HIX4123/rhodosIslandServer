@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1729515274753
+  lastteleport: 1729589555453
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729577284061
+  logout: 1729589744965
   login: 1729586501716
 money: '0'
 last-account-name: .lasayou
 logoutlocation:
   world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
   world-name: world
-  x: -1505.0408
-  y: 66.0
-  z: -1023.9004
-  yaw: -95.9986572265625
-  pitch: -89.89999389648438
+  x: -1484.53
+  y: 63.0
+  z: -1044.4287
+  yaw: -132.7101593017578
+  pitch: 89.89999389648438
 lastlocation:
   world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
   world-name: world
-  x: -1494.5089
-  y: 66.0
-  z: -1026.8711
-  yaw: 158.329345703125
-  pitch: 21.703887939453125
+  x: -1476.5759
+  y: 64.0
+  z: -1108.8685
+  yaw: -128.5610809326172
+  pitch: 22.166732788085938

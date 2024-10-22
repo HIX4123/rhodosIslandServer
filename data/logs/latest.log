@@ -17069,3 +17069,103 @@ java.lang.NullPointerException: Cannot invoke "org.cloudburstmc.netty.channel.ra
     }
   ]
 }, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[11:01:22] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[11:01:29] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[11:01:31] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[11:03:40] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 117i,
+  "GeyserHash": -1144826622i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[11:03:42] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[11:04:02] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[11:04:02] [localSession-7-3/INFO]: Tyrine74(이)가 Java 서버에서 사유 베드락 클라이언트 시간 초과로 인하여 접속이 종료되었습니다
+[11:04:02] [Server thread/INFO]: .Tyrine74 lost connection: Disconnected
+[11:04:02] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[11:08:43] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[11:13:38] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[11:18:46] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[11:21:53] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[11:25:15] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[11:25:45] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[11:28:41] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players

@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1729658652061
+  lastteleport: 1729660940562
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729657856919
-  login: 1729657949975
+  logout: 1729660974918
+  login: 1729660985831
 money: '0'
 last-account-name: .wizness823
 lastlocation:
-  world: bf4e11d3-58eb-4528-832b-d372b7630791
-  world-name: world_nether
-  x: -65.32321
-  y: 15.0
-  z: 8.30001
-  yaw: 86.77099609375
-  pitch: 40.81913757324219
+  world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
+  world-name: world
+  x: -1548.8525
+  y: 65.0
+  z: -988.31903
+  yaw: -27.234390258789062
+  pitch: 67.68937683105469
 logoutlocation:
   world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
   world-name: world
-  x: -1555.1187
-  y: 96.17180633544922
-  z: -994.7857
-  yaw: 78.63198852539062
-  pitch: 61.144073486328125
+  x: -1550.5
+  y: 144.0
+  z: -1003.5
+  yaw: 16.7364501953125
+  pitch: 27.927871704101562
 homes:
   home:
     world: bf4e11d3-58eb-4528-832b-d372b7630791

@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 121.173.161.173
+ip-address: 222.121.201.91
 afk: false
 socialspy: false
 npc: false
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729694872183
-  login: 1729690958380
+  logout: 1729722210224
+  login: 1729721872250
 money: '0'
 last-account-name: .wizness823
 lastlocation:
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
   world-name: world
-  x: -1555.3843
-  y: 66.5
-  z: -1002.64484
-  yaw: -115.09960174560547
-  pitch: 36.32234191894531
+  x: -1552.2714
+  y: 145.0
+  z: -1004.69999
+  yaw: -16.927581787109375
+  pitch: 17.800567626953125
 homes:
   home:
     world: 35e51f71-2762-4a97-867c-3dcaf3af7bee

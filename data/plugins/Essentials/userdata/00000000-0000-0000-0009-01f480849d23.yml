@@ -17,7 +17,7 @@ timestamps:
   jail: 0
   onlinejail: 0
   logout: 1729652370818
-  login: 1729652077054
+  login: 1729657598029
 money: '0'
 last-account-name: .wizness823
 lastlocation:
@@ -36,3 +36,12 @@ logoutlocation:
   z: -534.6469
   yaw: 38.30043029785156
   pitch: 29.786270141601562
+homes:
+  home:
+    world: bf4e11d3-58eb-4528-832b-d372b7630791
+    world-name: world_nether
+    x: 68.79936
+    y: 128.0
+    z: -547.334
+    yaw: -90.77021789550781
+    pitch: -18.588424682617188

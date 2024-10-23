@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 222.121.201.91
+ip-address: 121.173.161.173
 afk: false
 socialspy: false
 npc: false
@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1729681135911
+  lastteleport: 1729682547861
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729676302420
-  login: 1729680965516
+  logout: 1729682764574
+  login: 1729682781975
 money: '0'
 last-account-name: .wizness823
 lastlocation:
@@ -26,22 +26,22 @@ lastlocation:
   x: -1550.5
   y: 144.0
   z: -1003.5
-  yaw: 124.4129638671875
-  pitch: 14.111160278320312
+  yaw: -180.0
+  pitch: 0.0
 logoutlocation:
   world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
   world-name: world
-  x: -1552.0192
-  y: 144.0
-  z: -1003.3483
-  yaw: -142.56280517578125
-  pitch: 44.2974853515625
+  x: -1316.996
+  y: 14.0
+  z: 632.3981
+  yaw: -54.31828308105469
+  pitch: -21.077667236328125
 homes:
   home:
-    world: bf4e11d3-58eb-4528-832b-d372b7630791
-    world-name: world_nether
-    x: -620.5
-    y: 48.0
-    z: 1012.5
-    yaw: 142.00848388671875
-    pitch: 59.97819519042969
+    world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
+    world-name: world
+    x: -5042.764
+    y: 69.0
+    z: 8474.905
+    yaw: 68.98587036132812
+    pitch: 34.81201171875

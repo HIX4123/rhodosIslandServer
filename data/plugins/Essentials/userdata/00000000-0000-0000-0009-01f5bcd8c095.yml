@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 118.221.147.91
+ip-address: 58.150.55.168
 afk: false
 socialspy: false
 npc: false
@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1729652337054
+  lastteleport: 1729686412862
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1729656693372
-  login: 1729656580752
+  login: 1729684976692
 money: '0'
 last-account-name: .lasayou
 logoutlocation:
@@ -29,10 +29,10 @@ logoutlocation:
   yaw: 49.774169921875
   pitch: 13.553314208984375
 lastlocation:
-  world: bf4e11d3-58eb-4528-832b-d372b7630791
-  world-name: world_nether
-  x: 66.5963
-  y: 128.0
-  z: -539.7582
-  yaw: -125.60606384277344
-  pitch: 15.0804443359375
+  world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
+  world-name: world
+  x: -1492.5
+  y: 70.0
+  z: -997.5
+  yaw: 0.0
+  pitch: 0.0

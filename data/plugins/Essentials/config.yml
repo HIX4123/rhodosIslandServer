@@ -246,6 +246,7 @@ mute-commands:
 player-commands:
   - back
   - back.ondeath
+  - back.onteleport
   - delhome
   - home
   - home.others

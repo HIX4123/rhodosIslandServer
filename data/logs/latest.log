@@ -1,706 +1,910 @@
-[00:00:45] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
-[00:01:54] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
-[00:04:20] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
-[00:04:33] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
-[00:15:51] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
-[00:20:50] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
-[00:21:07] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:51046에서 정보를 수신했습니다!
-[00:22:14] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:51781에서 정보를 수신했습니다!
-[00:22:30] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:51781에서 정보를 수신했습니다!
-[00:22:35] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:51781에서 정보를 수신했습니다!
-[00:22:40] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:51781에서 정보를 수신했습니다!
-[00:22:46] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:51781에서 정보를 수신했습니다!
-[00:23:25] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
-[00:25:09] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:51781에서 정보를 수신했습니다!
-[00:25:10] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:51781에서 정보를 수신했습니다!
-[00:25:16] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:51781에서 정보를 수신했습니다!
-[00:26:19] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:51781에서 정보를 수신했습니다!
-[00:26:20] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:51781에서 정보를 수신했습니다!
-[00:26:36] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:51781에서 정보를 수신했습니다!
-[00:26:37] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:51781에서 정보를 수신했습니다!
-[00:31:07] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
-[00:34:28] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
-[00:34:41] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
-[00:38:53] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
-[00:39:29] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
-[00:40:58] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
-[00:43:57] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
-[00:44:27] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:51781에서 정보를 수신했습니다!
-[00:44:32] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:51781에서 정보를 수신했습니다!
-[00:44:37] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:51781에서 정보를 수신했습니다!
-[00:44:38] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:51781에서 정보를 수신했습니다!
-[00:44:40] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:37899에서 접속을 시도했습니다!
-[00:44:40] [epollEventLoopGroup-4-2/INFO]: Is player data signed? true
-[00:44:40] [epollEventLoopGroup-4-2/INFO]: Could not find packet for ClientToServerHandshakePacket
-[00:44:41] [epollEventLoopGroup-4-2/INFO]: Could not find packet for ClientCacheStatusPacket
-[00:44:41] [epollEventLoopGroup-4-2/INFO]: 플레이어가 사용자명 WaitedHen773548(으)로 연결했습니다.
-[00:44:41] [localSession-7-3/INFO]: WaitedHen773548 (WaitedHen773548로 로그인) (이)가 Java 서버에 접속했습니다
-[00:44:41] [localSession-7-3/INFO]: Locale already loaded: ko_kr
-[00:44:42] [Server thread/INFO]: Floodgate player logged in as .WaitedHen773548 joined (UUID: 00000000-0000-0000-0009-01f6fbe966a2)
-[00:44:42] [Geyser player thread-5-2/INFO]: .WaitedHen773548의 Bedrock 스킨을 등록하는중 (00000000-0000-0000-0009-01f6fbe966a2)
-[00:44:42] [localSession-7-3/INFO]: Could not find packet for ClientboundUpdateEnabledFeaturesPacket
-[00:44:42] [Geyser player thread-5-2/INFO]: Ignoring registry of type minecraft:damage_type
-[00:44:42] [Geyser player thread-5-2/INFO]: Emulating post 1.18 block predication logic for WaitedHen773548? true
-[00:44:42] [Geyser player thread-5-2/INFO]: Emulating post 1.13 villager logic for WaitedHen773548? true
-[00:44:42] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_special
-[00:44:42] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_common
-[00:44:42] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_common
-[00:44:42] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/snow_common
-[00:44:42] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/snow_special
-[00:44:42] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_special
-[00:44:42] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/desert_common
-[00:44:42] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_common
-[00:44:42] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_special
-[00:44:42] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_common
-[00:44:42] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_special
-[00:44:42] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/plains_common
-[00:44:42] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/plains_special
-[00:44:42] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/desert_special
-[00:44:42] [Geyser player thread-5-2/INFO]: Extending overworld dimension to -64 - 384
-[00:44:42] [localSession-7-3/INFO]: Could not find packet for ClientboundServerDataPacket
-[00:44:42] [Server thread/INFO]: [93m.WaitedHen773548 joined the game[0m
-[00:44:42] [localSession-7-3/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
-[00:44:42] [Server thread/INFO]: .WaitedHen773548[/121.173.161.173:0] logged in with entity id 276287 at ([world]-1503.5, 75.0, -994.5)
-[00:44:42] [localSession-7-3/INFO]: Could not find packet for ClientboundTickingStatePacket
-[00:44:42] [localSession-7-3/INFO]: Could not find packet for ClientboundTickingStepPacket
-[00:44:42] [Geyser player thread-5-2/INFO]: Spawned player at -1503.5 75.0 -994.5
-[00:44:42] [Geyser player thread-5-2/INFO]: Ignoring player info update for 00000000-0000-0000-0009-01f6fbe966a2
-[00:44:42] [ForkJoinPool.commonPool-worker-326/INFO]: Loaded Local Bedrock Java Skin Data for WaitedHen773548
-[00:44:42] [Geyser player thread-5-2/INFO]: Redirecting command tm to teammsg
-[00:44:42] [Geyser player thread-5-2/INFO]: Redirecting command minecraft:teammsg to teammsg
-[00:44:42] [Geyser player thread-5-2/INFO]: Redirecting command minecraft:tm to teammsg
-[00:44:42] [Geyser player thread-5-2/INFO]: Redirecting command minecraft:trigger to trigger
-[00:44:42] [Geyser player thread-5-2/INFO]: Sending command packet of 26 commands
-[00:45:13] [Server thread/INFO]: Villager Villager['Villager'/271755, uuid='32096bb5-cf8d-4d88-a70c-2dac6388c042', l='ServerLevel[world]', x=-1476.70, y=63.00, z=-1003.03, cpos=[-93, -63], tl=51824, v=true] died, message: 'Villager was slain by Zombie'
-[00:45:13] [Geyser player thread-5-2/INFO]: Unhandled level event: SOUND_ZOMBIE_INFECTED
-[00:45:18] [Server thread/INFO]: .WaitedHen773548 has made the advancement [92m[Sweet Dreams][0m
-[00:45:19] [Server thread/INFO]: Villager Villager['Villager'/270583, uuid='91c04eec-d6e1-4ede-bee3-89020e2524ba', l='ServerLevel[world]', x=-1476.40, y=63.00, z=-1003.03, cpos=[-93, -63], tl=65335, v=true] died, message: 'Villager was slain by Zombie'
-[00:45:19] [Geyser player thread-5-2/INFO]: Unhandled level event: SOUND_ZOMBIE_INFECTED
-[00:45:23] [Geyser player thread-5-2/INFO]: Teleport (2) from -1491.0 70.0 -997.0
-[00:45:23] [Geyser player thread-5-2/INFO]: to -1490.5 70.0 -997.5
-[00:46:09] [Server thread/INFO]: Villager Villager['Villager'/273461, uuid='1b77f336-c919-4a2c-8406-76b820b29646', l='ServerLevel[world]', x=-1476.52, y=63.56, z=-1001.70, cpos=[-93, -63], tl=32971, v=true] died, message: 'Villager was slain by Zombie Villager'
-[00:46:31] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
-[00:46:39] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:52331에서 정보를 수신했습니다!
-[00:46:42] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:52331에서 정보를 수신했습니다!
-[00:46:52] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:52331에서 정보를 수신했습니다!
-[00:46:55] [epollEventLoopGroup-3-1/INFO]: /121.173.161.173:52331에서 정보를 수신했습니다!
-[00:46:57] [epollEventLoopGroup-3-2/INFO]: /121.173.161.173:51513에서 접속을 시도했습니다!
-[00:46:58] [epollEventLoopGroup-4-3/INFO]: Is player data signed? true
-[00:46:58] [epollEventLoopGroup-4-3/INFO]: Could not find packet for ClientToServerHandshakePacket
-[00:46:58] [epollEventLoopGroup-4-3/INFO]: Could not find packet for ClientCacheStatusPacket
-[00:46:58] [epollEventLoopGroup-4-3/INFO]: 플레이어가 사용자명 wizness823(으)로 연결했습니다.
-[00:46:58] [localSession-7-4/INFO]: wizness823 (wizness823로 로그인) (이)가 Java 서버에 접속했습니다
-[00:46:58] [localSession-7-4/INFO]: Locale already loaded: ko_kr
-[00:46:59] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
-[00:46:59] [Geyser player thread-5-3/INFO]: .wizness823의 Bedrock 스킨을 등록하는중 (00000000-0000-0000-0009-01f480849d23)
-[00:46:59] [localSession-7-4/INFO]: Could not find packet for ClientboundUpdateEnabledFeaturesPacket
-[00:46:59] [Geyser player thread-5-3/INFO]: Ignoring registry of type minecraft:damage_type
-[00:46:59] [Geyser player thread-5-3/INFO]: Emulating post 1.18 block predication logic for wizness823? true
-[00:46:59] [Geyser player thread-5-3/INFO]: Emulating post 1.13 villager logic for wizness823? true
-[00:46:59] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_special
-[00:46:59] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_common
-[00:46:59] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_common
-[00:46:59] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/snow_common
-[00:46:59] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/snow_special
-[00:46:59] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_special
-[00:46:59] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/desert_common
-[00:46:59] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_common
-[00:46:59] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_special
-[00:46:59] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_common
-[00:46:59] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_special
-[00:46:59] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/plains_common
-[00:46:59] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/plains_special
-[00:46:59] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/desert_special
-[00:46:59] [Geyser player thread-5-3/INFO]: Extending overworld dimension to -64 - 384
-[00:46:59] [Server thread/INFO]: [93m.wizness823 joined the game[0m
-[00:46:59] [Server thread/INFO]: .wizness823[/121.173.161.173:0] logged in with entity id 276547 at ([world]-1554.5554, 96.9868981564901, -1003.30001)
-[00:46:59] [localSession-7-4/INFO]: Could not find packet for ClientboundServerDataPacket
-[00:46:59] [localSession-7-4/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
-[00:46:59] [localSession-7-4/INFO]: Could not find packet for ClientboundTickingStatePacket
-[00:46:59] [localSession-7-4/INFO]: Could not find packet for ClientboundTickingStepPacket
-[00:46:59] [Geyser player thread-5-3/INFO]: Spawned player at -1554.5554 96.9868981564901 -1003.30001
-[00:46:59] [Geyser player thread-5-3/INFO]: Ignoring player info update for 00000000-0000-0000-0009-01f480849d23
-[00:46:59] [ForkJoinPool.commonPool-worker-327/INFO]: Loaded Local Bedrock Java Skin Data for wizness823
-[00:46:59] [Geyser player thread-5-3/INFO]: Redirecting command tm to teammsg
-[00:46:59] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:teammsg to teammsg
-[00:46:59] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:tm to teammsg
-[00:46:59] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:trigger to trigger
-[00:46:59] [Geyser player thread-5-3/INFO]: Sending command packet of 26 commands
-[00:46:59] [pool-34-thread-12/INFO]: Downloaded https://textures.minecraft.net/texture/9cb2e64a6ad44c84c804eb86627cb2088f673d906f5d945a4ef0d0d1e7ce5546
-[00:46:59] [pool-34-thread-12/INFO]: Took 54ms for 00000000-0000-0000-0009-01f480849d23
-[00:47:08] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
-  "GeyserHash": -616389022i,
-  "RepairCost": 1i,
-  "display": {
-    "Name": "록신니의 아츠스태프"
-  },
-  "ench": [
-    {
-      "id": 26s,
-      "lvl": 1s
-    },
-    {
-      "id": 17s,
-      "lvl": 3s
-    },
-    {
-      "id": 29s,
-      "lvl": 5s
-    },
-    {
-      "id": 30s,
-      "lvl": 3s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:47:12] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
-  "GeyserHash": -616389022i,
-  "RepairCost": 1i,
-  "display": {
-    "Name": "록신니의 아츠스태프"
-  },
-  "ench": [
-    {
-      "id": 26s,
-      "lvl": 1s
-    },
-    {
-      "id": 17s,
-      "lvl": 3s
-    },
-    {
-      "id": 29s,
-      "lvl": 5s
-    },
-    {
-      "id": 30s,
-      "lvl": 3s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:47:17] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
-  "GeyserHash": -616389022i,
-  "RepairCost": 1i,
-  "display": {
-    "Name": "록신니의 아츠스태프"
-  },
-  "ench": [
-    {
-      "id": 26s,
-      "lvl": 1s
-    },
-    {
-      "id": 17s,
-      "lvl": 3s
-    },
-    {
-      "id": 29s,
-      "lvl": 5s
-    },
-    {
-      "id": 30s,
-      "lvl": 3s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:47:26] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
-  "GeyserHash": -616389022i,
-  "RepairCost": 1i,
-  "display": {
-    "Name": "록신니의 아츠스태프"
-  },
-  "ench": [
-    {
-      "id": 26s,
-      "lvl": 1s
-    },
-    {
-      "id": 17s,
-      "lvl": 3s
-    },
-    {
-      "id": 29s,
-      "lvl": 5s
-    },
-    {
-      "id": 30s,
-      "lvl": 3s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:47:26] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
-  "GeyserHash": -616389022i,
-  "RepairCost": 1i,
-  "display": {
-    "Name": "록신니의 아츠스태프"
-  },
-  "ench": [
-    {
-      "id": 26s,
-      "lvl": 1s
-    },
-    {
-      "id": 17s,
-      "lvl": 3s
-    },
-    {
-      "id": 29s,
-      "lvl": 5s
-    },
-    {
-      "id": 30s,
-      "lvl": 3s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:47:28] [Server thread/INFO]: .wizness823 fell from a high place
-[00:47:29] [localSession-7-4/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
-[00:47:29] [localSession-7-4/INFO]: Could not find packet for ClientboundTickingStatePacket
-[00:47:29] [localSession-7-4/INFO]: Could not find packet for ClientboundTickingStepPacket
-[00:47:29] [Geyser player thread-5-3/INFO]: Spawned player at -1550.5 144.0 -1003.5
-[00:47:29] [localSession-7-4/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
-[00:47:29] [pool-34-thread-10/INFO]: Took 0ms for 00000000-0000-0000-0009-01f480849d23
-[00:47:29] [Geyser player thread-5-3/INFO]: Redirecting command tm to teammsg
-[00:47:29] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:teammsg to teammsg
-[00:47:29] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:tm to teammsg
-[00:47:29] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:trigger to trigger
-[00:47:29] [Geyser player thread-5-3/INFO]: Sending command packet of 26 commands
-[00:47:30] [Geyser player thread-5-3/INFO]: Teleport (3) from -1550.5 143.23152 -1003.5
-[00:47:30] [Geyser player thread-5-3/INFO]: to -1550.5 144.0 -1003.5
-[00:48:25] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 532i,
-  "GeyserHash": 1527978748i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:48:28] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 532i,
-  "GeyserHash": 1527978748i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:48:36] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 532i,
-  "GeyserHash": 1527978748i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:48:39] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 532i,
-  "GeyserHash": 1527978748i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:48:47] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 2 players
-[00:49:19] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 532i,
-  "GeyserHash": 1527978748i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:49:51] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 532i,
-  "GeyserHash": 1527978748i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:50:09] [Geyser player thread-5-3/INFO]: Teleport (4) from -1531.7258 67.0 -976.65137
-[00:50:09] [Geyser player thread-5-3/INFO]: to -1531.7141 67.0 -976.9261
-[00:50:09] [Geyser player thread-5-3/INFO]: Teleport (5) from -1532.0961 67.0 -976.51807
-[00:50:09] [Geyser player thread-5-3/INFO]: to -1531.9401 67.0 -976.6934
-[00:50:09] [Geyser player thread-5-3/INFO]: Teleport (6) from -1531.9944 67.0 -976.5782
-[00:50:09] [Geyser player thread-5-3/INFO]: to -1531.9401 67.0 -976.6934
-[00:50:09] [Geyser player thread-5-3/INFO]: Teleport (7) from -1531.9972 67.0 -976.5795
-[00:50:09] [Geyser player thread-5-3/INFO]: to -1531.9401 67.0 -976.6934
-[00:50:09] [Geyser player thread-5-3/INFO]: Teleport (8) from -1531.9873 67.0 -976.6076
-[00:50:09] [Geyser player thread-5-3/INFO]: to -1531.9401 67.0 -976.6934
-[00:50:10] [Geyser player thread-5-3/INFO]: Teleport (9) from -1532.017 67.0 -976.6327
-[00:50:10] [Geyser player thread-5-3/INFO]: to -1531.9401 67.0 -976.6934
-[00:50:14] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 532i,
-  "GeyserHash": 1527978748i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:50:17] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 532i,
-  "GeyserHash": 1527978748i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:50:41] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 532i,
-  "GeyserHash": 1527978748i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:50:51] [Geyser player thread-5-3/INFO]: Teleport (10) from -1531.974 68.10361 -981.03613
-[00:50:51] [Geyser player thread-5-3/INFO]: to -1532.0817 67.93884 -980.7149
-[00:50:51] [Geyser player thread-5-3/INFO]: Teleport (11) from -1532.0737 67.9375 -981.03815
-[00:50:51] [Geyser player thread-5-3/INFO]: to -1532.0704 67.93884 -980.8418
-[00:50:51] [Geyser player thread-5-3/INFO]: Teleport (12) from -1532.1102 67.93884 -980.9628
-[00:50:51] [Geyser player thread-5-3/INFO]: to -1532.0704 67.93884 -980.8418
-[00:50:51] [Geyser player thread-5-3/INFO]: Teleport (13) from -1532.018 67.93884 -980.92456
-[00:50:51] [Geyser player thread-5-3/INFO]: to -1532.0704 67.93884 -980.8418
-[00:50:52] [Geyser player thread-5-3/INFO]: Teleport (14) from -1531.9912 67.93884 -980.89954
-[00:50:52] [Geyser player thread-5-3/INFO]: to -1532.0704 67.93884 -980.8418
-[00:50:52] [Geyser player thread-5-3/INFO]: Teleport (15) from -1531.9912 67.93884 -980.89954
-[00:50:52] [Geyser player thread-5-3/INFO]: to -1532.0704 67.93884 -980.8418
-[00:50:52] [Geyser player thread-5-3/INFO]: Teleport (16) from -1531.9917 67.93884 -980.9001
-[00:50:52] [Geyser player thread-5-3/INFO]: to -1532.0704 67.93884 -980.8418
-[00:50:52] [Server thread/INFO]: .WaitedHen773548 lost connection: You have been idle for too long!
-[00:50:52] [localSession-7-3/INFO]: WaitedHen773548(이)가 Java 서버에서 사유 너무 오랫동안 가만히 있었습니다!로 인하여 접속이 종료되었습니다
-[00:50:52] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .WaitedHen773548 disconnected
-[00:50:52] [Server thread/INFO]: [93m.WaitedHen773548 left the game[0m
-[00:51:09] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
-[00:51:09] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
-[00:51:18] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 533i,
-  "GeyserHash": 1527978753i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:51:24] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
-[00:51:29] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 533i,
-  "GeyserHash": 1527978753i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:51:33] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 533i,
-  "GeyserHash": 1527978753i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:52:06] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 533i,
-  "GeyserHash": 1527978753i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:52:38] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 533i,
-  "GeyserHash": 1527978753i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:52:46] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
-[00:52:57] [epollEventLoopGroup-3-2/INFO]: /118.221.147.91:57299에서 정보를 수신했습니다!
-[00:53:04] [epollEventLoopGroup-3-2/INFO]: /118.221.147.91:57299에서 정보를 수신했습니다!
-[00:53:05] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 533i,
-  "GeyserHash": 1527978753i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:53:09] [epollEventLoopGroup-3-2/INFO]: /118.221.147.91:57299에서 정보를 수신했습니다!
-[00:53:09] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 533i,
-  "GeyserHash": 1527978753i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:53:13] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
-[00:53:14] [epollEventLoopGroup-3-2/INFO]: /118.221.147.91:57299에서 정보를 수신했습니다!
-[00:53:19] [epollEventLoopGroup-3-2/INFO]: /118.221.147.91:57299에서 정보를 수신했습니다!
-[00:53:22] [epollEventLoopGroup-3-2/INFO]: /118.221.147.91:57299에서 정보를 수신했습니다!
-[00:53:24] [epollEventLoopGroup-3-1/INFO]: /118.221.147.91:50976에서 접속을 시도했습니다!
-[00:53:24] [epollEventLoopGroup-4-4/INFO]: Is player data signed? true
-[00:53:24] [epollEventLoopGroup-4-4/INFO]: Could not find packet for ClientToServerHandshakePacket
-[00:53:24] [epollEventLoopGroup-4-4/INFO]: Could not find packet for ClientCacheStatusPacket
-[00:53:24] [epollEventLoopGroup-4-4/INFO]: 플레이어가 사용자명 lasayou(으)로 연결했습니다.
-[00:53:24] [localSession-7-1/INFO]: lasayou (lasayou로 로그인) (이)가 Java 서버에 접속했습니다
-[00:53:24] [localSession-7-1/INFO]: Locale already loaded: ko_kr
-[00:53:25] [Server thread/INFO]: Floodgate player logged in as .lasayou joined (UUID: 00000000-0000-0000-0009-01f5bcd8c095)
-[00:53:25] [Geyser player thread-5-4/INFO]: .lasayou의 Bedrock 스킨을 등록하는중 (00000000-0000-0000-0009-01f5bcd8c095)
-[00:53:25] [localSession-7-1/INFO]: Could not find packet for ClientboundUpdateEnabledFeaturesPacket
-[00:53:25] [Geyser player thread-5-4/INFO]: Ignoring registry of type minecraft:damage_type
-[00:53:25] [Geyser player thread-5-4/INFO]: Emulating post 1.18 block predication logic for lasayou? true
-[00:53:25] [Geyser player thread-5-4/INFO]: Emulating post 1.13 villager logic for lasayou? true
-[00:53:25] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_special
-[00:53:25] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_common
-[00:53:25] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_common
-[00:53:25] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/snow_common
-[00:53:25] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/snow_special
-[00:53:25] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_special
-[00:53:25] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/desert_common
-[00:53:25] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_common
-[00:53:25] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_special
-[00:53:25] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_common
-[00:53:25] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_special
-[00:53:25] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/plains_common
-[00:53:25] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/plains_special
-[00:53:25] [Geyser player thread-5-4/INFO]: Enchantment tag not found from server: minecraft:trades/desert_special
-[00:53:25] [Geyser player thread-5-4/INFO]: Extending overworld dimension to -64 - 384
-[00:53:25] [Server thread/INFO]: [93m.lasayou joined the game[0m
-[00:53:25] [Server thread/INFO]: .lasayou[/118.221.147.91:0] logged in with entity id 277337 at ([world]-1484.53, 63.0, -1044.4287)
-[00:53:25] [localSession-7-1/INFO]: Could not find packet for ClientboundServerDataPacket
-[00:53:25] [localSession-7-1/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
-[00:53:25] [localSession-7-1/INFO]: Could not find packet for ClientboundTickingStatePacket
-[00:53:25] [localSession-7-1/INFO]: Could not find packet for ClientboundTickingStepPacket
-[00:53:25] [Geyser player thread-5-4/INFO]: Spawned player at -1484.53 63.0 -1044.4287
-[00:53:25] [ForkJoinPool.commonPool-worker-329/INFO]: Loaded Local Bedrock Java Skin Data for lasayou
-[00:53:25] [Geyser player thread-5-4/INFO]: Ignoring player info update for 00000000-0000-0000-0009-01f5bcd8c095
-[00:53:25] [Geyser player thread-5-4/INFO]: Redirecting command tm to teammsg
-[00:53:25] [Geyser player thread-5-4/INFO]: Redirecting command minecraft:teammsg to teammsg
-[00:53:25] [Geyser player thread-5-4/INFO]: Redirecting command minecraft:tm to teammsg
-[00:53:25] [Geyser player thread-5-4/INFO]: Redirecting command minecraft:trigger to trigger
-[00:53:25] [Geyser player thread-5-4/INFO]: Sending command packet of 26 commands
-[00:53:26] [pool-34-thread-1/INFO]: Downloaded https://textures.minecraft.net/texture/6c160fbd16adbc4bff2409e70180d911002aebcfa811eb6ec3d1040761aea6dd
-[00:53:26] [pool-34-thread-1/INFO]: Took 198ms for 00000000-0000-0000-0009-01f5bcd8c095
-[00:53:26] [pool-34-thread-4/INFO]: Took 0ms for 00000000-0000-0000-0009-01f480849d23
-[00:54:11] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 533i,
-  "GeyserHash": 1527978753i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:54:37] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
-  "Damage": 533i,
-  "GeyserHash": 1527978753i
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:54:46] [Server thread/WARN]: .wizness823 moved wrongly!, (0.4200000000000017)
-[00:54:46] [Geyser player thread-5-3/INFO]: Teleport (17) from -1441.4646 67.42 -1036.9792
-[00:54:46] [Geyser player thread-5-3/INFO]: to -1441.2632 67.0 -1036.7
-[00:55:02] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 2 players
-[00:56:00] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_axe, runtimeId=326, componentBased=false), damage=0, count=1, tag={
-  "Damage": 7i,
-  "GeyserHash": 1004302472i,
-  "ench": [
-    {
-      "id": 15s,
-      "lvl": 2s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:56:18] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_axe, runtimeId=326, componentBased=false), damage=0, count=1, tag={
-  "Damage": 7i,
-  "GeyserHash": 1004302472i,
-  "ench": [
-    {
-      "id": 15s,
-      "lvl": 2s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:56:20] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_axe, runtimeId=326, componentBased=false), damage=0, count=1, tag={
-  "Damage": 7i,
-  "GeyserHash": 1004302472i,
-  "ench": [
-    {
-      "id": 15s,
-      "lvl": 2s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:56:21] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_axe, runtimeId=326, componentBased=false), damage=0, count=1, tag={
-  "Damage": 7i,
-  "GeyserHash": 1004302472i,
-  "ench": [
-    {
-      "id": 15s,
-      "lvl": 2s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:56:22] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_axe, runtimeId=326, componentBased=false), damage=0, count=1, tag={
-  "Damage": 7i,
-  "GeyserHash": 1004302472i,
-  "ench": [
-    {
-      "id": 15s,
-      "lvl": 2s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:56:23] [Geyser player thread-5-4/INFO]: Teleport (2) from -1491.0 70.0 -997.0
-[00:56:23] [Geyser player thread-5-4/INFO]: to -1490.5 70.0 -995.5
-[00:56:24] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_axe, runtimeId=326, componentBased=false), damage=0, count=1, tag={
-  "Damage": 7i,
-  "GeyserHash": 1004302472i,
-  "ench": [
-    {
-      "id": 15s,
-      "lvl": 2s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:56:27] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_axe, runtimeId=326, componentBased=false), damage=0, count=1, tag={
-  "Damage": 7i,
-  "GeyserHash": 1004302472i,
-  "ench": [
-    {
-      "id": 15s,
-      "lvl": 2s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:56:33] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
-  "GeyserHash": -616389022i,
-  "RepairCost": 1i,
-  "display": {
-    "Name": "록신니의 아츠스태프"
-  },
-  "ench": [
-    {
-      "id": 26s,
-      "lvl": 1s
-    },
-    {
-      "id": 17s,
-      "lvl": 3s
-    },
-    {
-      "id": 29s,
-      "lvl": 5s
-    },
-    {
-      "id": 30s,
-      "lvl": 3s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:56:43] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 2 players
-[00:57:02] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
-  "GeyserHash": -616389022i,
-  "RepairCost": 1i,
-  "display": {
-    "Name": "록신니의 아츠스태프"
-  },
-  "ench": [
-    {
-      "id": 26s,
-      "lvl": 1s
-    },
-    {
-      "id": 17s,
-      "lvl": 3s
-    },
-    {
-      "id": 29s,
-      "lvl": 5s
-    },
-    {
-      "id": 30s,
-      "lvl": 3s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:57:06] [Server thread/INFO]: .wizness823 fell from a high place
-[00:57:08] [localSession-7-4/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
-[00:57:08] [Geyser player thread-5-3/INFO]: Spawned player at -1550.5 144.0 -1003.5
-[00:57:08] [localSession-7-4/INFO]: Could not find packet for ClientboundTickingStatePacket
-[00:57:08] [localSession-7-4/INFO]: Could not find packet for ClientboundTickingStepPacket
-[00:57:08] [localSession-7-4/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
-[00:57:08] [pool-34-thread-3/INFO]: Took 0ms for 00000000-0000-0000-0009-01f480849d23
-[00:57:08] [Geyser player thread-5-3/INFO]: Redirecting command tm to teammsg
-[00:57:08] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:teammsg to teammsg
-[00:57:08] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:tm to teammsg
-[00:57:08] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:trigger to trigger
-[00:57:08] [Geyser player thread-5-3/INFO]: Sending command packet of 26 commands
-[00:57:08] [Geyser player thread-5-3/INFO]: Teleport (19) from -1550.5 143.23152 -1003.5
-[00:57:08] [Geyser player thread-5-3/INFO]: to -1550.5 144.0 -1003.5
-[00:57:09] [pool-34-thread-6/INFO]: Took 0ms for 00000000-0000-0000-0009-01f5bcd8c095
-[00:57:11] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
-  "GeyserHash": -616389022i,
-  "RepairCost": 1i,
-  "display": {
-    "Name": "록신니의 아츠스태프"
-  },
-  "ench": [
-    {
-      "id": 26s,
-      "lvl": 1s
-    },
-    {
-      "id": 17s,
-      "lvl": 3s
-    },
-    {
-      "id": 29s,
-      "lvl": 5s
-    },
-    {
-      "id": 30s,
-      "lvl": 3s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:57:11] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
-  "GeyserHash": -616389022i,
-  "RepairCost": 1i,
-  "display": {
-    "Name": "록신니의 아츠스태프"
-  },
-  "ench": [
-    {
-      "id": 26s,
-      "lvl": 1s
-    },
-    {
-      "id": 17s,
-      "lvl": 3s
-    },
-    {
-      "id": 29s,
-      "lvl": 5s
-    },
-    {
-      "id": 30s,
-      "lvl": 3s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:57:12] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
-  "GeyserHash": -616389022i,
-  "RepairCost": 1i,
-  "display": {
-    "Name": "록신니의 아츠스태프"
-  },
-  "ench": [
-    {
-      "id": 26s,
-      "lvl": 1s
-    },
-    {
-      "id": 17s,
-      "lvl": 3s
-    },
-    {
-      "id": 29s,
-      "lvl": 5s
-    },
-    {
-      "id": 30s,
-      "lvl": 3s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:57:13] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
-  "GeyserHash": -616389022i,
-  "RepairCost": 1i,
-  "display": {
-    "Name": "록신니의 아츠스태프"
-  },
-  "ench": [
-    {
-      "id": 26s,
-      "lvl": 1s
-    },
-    {
-      "id": 17s,
-      "lvl": 3s
-    },
-    {
-      "id": 29s,
-      "lvl": 5s
-    },
-    {
-      "id": 30s,
-      "lvl": 3s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:57:14] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
-  "GeyserHash": -616389022i,
-  "RepairCost": 1i,
-  "display": {
-    "Name": "록신니의 아츠스태프"
-  },
-  "ench": [
-    {
-      "id": 26s,
-      "lvl": 1s
-    },
-    {
-      "id": 17s,
-      "lvl": 3s
-    },
-    {
-      "id": 29s,
-      "lvl": 5s
-    },
-    {
-      "id": 30s,
-      "lvl": 3s
-    }
-  ]
-}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:57:27] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 2 players
-[00:57:53] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:lead, runtimeId=564, componentBased=false), damage=0, count=2, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:57:54] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:lead, runtimeId=564, componentBased=false), damage=0, count=2, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:57:59] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:lead, runtimeId=564, componentBased=false), damage=0, count=2, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:58:36] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:lead, runtimeId=564, componentBased=false), damage=0, count=2, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:58:36] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:lead, runtimeId=564, componentBased=false), damage=0, count=2, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:58:37] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:lead, runtimeId=564, componentBased=false), damage=0, count=2, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:58:37] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:lead, runtimeId=564, componentBased=false), damage=0, count=2, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:58:38] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:lead, runtimeId=564, componentBased=false), damage=0, count=2, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:58:38] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:lead, runtimeId=564, componentBased=false), damage=0, count=2, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
-[00:59:43] [Geyser player thread-5-4/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=48, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[03:22:29] [ServerMain/INFO]: Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Eclipse Adoptium Temurin-21.0.4+7) on Linux 6.5.0-1024-oracle (aarch64)
+[03:22:29] [ServerMain/INFO]: Loading Purpur 1.21.1-2327-ver/1.21.1@4b57bed (2024-10-21T00:28:02Z) for Minecraft 1.21.1
+[03:22:30] [ServerMain/INFO]: Initializing plugins...
+[03:22:31] [Paper Plugin Remapper Thread - 0/INFO]: Remapping server...
+[03:22:36] [Paper Plugin Remapper Thread - 0/INFO]: Done remapping server in 5580ms.
+[03:22:36] [Paper Plugin Remapper Thread - 2/INFO]: Remapping plugin 'plugins/EssentialsX-2.20.1.jar'...
+[03:22:36] [Paper Plugin Remapper Thread - 3/INFO]: Remapping plugin 'plugins/floodgate-spigot.jar'...
+[03:22:37] [Paper Plugin Remapper Thread - 2/INFO]: Done remapping plugin 'plugins/EssentialsX-2.20.1.jar' in 911ms.
+[03:22:39] [Paper Plugin Remapper Thread - 3/INFO]: Done remapping plugin 'plugins/floodgate-spigot.jar' in 2712ms.
+[03:22:39] [ServerMain/INFO]: Initialized 3 plugins
+[03:22:39] [ServerMain/INFO]: Bukkit plugins (3):
+ - Essentials (2.20.1), Geyser-Spigot (2.4.4-SNAPSHOT), floodgate (2.2.3-SNAPSHOT (b112-0360721))
+[03:22:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:22:45] [ServerMain/INFO]: Loaded 1290 recipes
+[03:22:46] [ServerMain/INFO]: Loaded 1399 advancements
+[03:22:46] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[03:22:46] [Server thread/INFO]: Loading properties
+[03:22:46] [Server thread/INFO]: This server is running Purpur version 1.21.1-2327-ver/1.21.1@4b57bed (2024-10-21T00:28:02Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[03:22:47] [Server thread/INFO]: This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:22:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:22:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:22:48] [Server thread/INFO]: Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[03:22:48] [Server thread/WARN]: SIMD operations are available for your server, but are not configured!
+[03:22:48] [Server thread/WARN]: To enable additional optimizations, add "--add-modules=jdk.incubator.vector" to your startup flags, BEFORE the "-jar".
+[03:22:48] [Server thread/WARN]: If you have already added this flag, then SIMD operations are not supported on your JVM or CPU.
+[03:22:48] [Server thread/WARN]: Debug: Java: 21.0.4, test run: true
+[03:22:48] [Server thread/INFO]: Default game type: SURVIVAL
+[03:22:48] [Server thread/INFO]: Generating keypair
+[03:22:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:22:48] [Server thread/INFO]: Using epoll channel type
+[03:22:48] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[03:22:48] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux aarch64) cipher from Velocity.
+[03:22:49] [Server thread/INFO]: Loading server plugin floodgate v2.2.3-SNAPSHOT (b112-0360721)
+[03:22:50] [Server thread/INFO]: Took 1,439ms to boot Floodgate
+[03:22:50] [Server thread/INFO]: Loading server plugin Essentials v2.20.1
+[03:22:50] [Server thread/INFO]: Loading server plugin Geyser-Spigot v2.4.4-SNAPSHOT
+[03:22:51] [Server thread/INFO]: 확장을 불러오는 중...
+[03:22:51] [Server thread/INFO]: 확장 0개를 불러옴
+[03:22:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:22:51] [Server thread/INFO]: Preparing level "world"
+[03:22:51] [Server thread/INFO]: -------- World Settings For [world] --------
+[03:22:51] [Server thread/INFO]: View Distance: 7
+[03:22:51] [Server thread/INFO]: Simulation Distance: 4
+[03:22:51] [Server thread/INFO]: Item Merge Radius: 0.5
+[03:22:51] [Server thread/INFO]: Experience Merge Radius: -1.0
+[03:22:51] [Server thread/INFO]: Mob Spawn Range: 8
+[03:22:51] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:22:51] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:22:51] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:22:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:22:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:22:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 64 / Mi 16 / Tiv true / Isa false
+[03:22:51] [Server thread/INFO]: Entity Tracking Range: Pl 128 / An 96 / Mo 96 / Mi 96 / Di 128 / Other 64
+[03:22:51] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[03:22:51] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[03:22:51] [Server thread/INFO]: Max TNT Explosions: 100
+[03:22:51] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:22:51] [Server thread/INFO]: -------- World Settings For [world] --------
+[03:22:51] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[03:22:51] [Server thread/INFO]: View Distance: 7
+[03:22:51] [Server thread/INFO]: Simulation Distance: 4
+[03:22:51] [Server thread/INFO]: Item Merge Radius: 0.5
+[03:22:51] [Server thread/INFO]: Experience Merge Radius: -1.0
+[03:22:51] [Server thread/INFO]: Mob Spawn Range: 8
+[03:22:51] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:22:51] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:22:51] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:22:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:22:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:22:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
+[03:22:51] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 64 / Mi 16 / Tiv true / Isa false
+[03:22:51] [Server thread/INFO]: Entity Tracking Range: Pl 128 / An 96 / Mo 96 / Mi 96 / Di 128 / Other 64
+[03:22:51] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[03:22:51] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[03:22:51] [Server thread/INFO]: Max TNT Explosions: 100
+[03:22:51] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:22:52] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[03:22:52] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[03:22:52] [Server thread/INFO]: View Distance: 7
+[03:22:52] [Server thread/INFO]: Simulation Distance: 4
+[03:22:52] [Server thread/INFO]: Item Merge Radius: 0.5
+[03:22:52] [Server thread/INFO]: Experience Merge Radius: -1.0
+[03:22:52] [Server thread/INFO]: Mob Spawn Range: 8
+[03:22:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:22:52] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:22:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:22:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:22:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:22:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
+[03:22:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 64 / Mi 16 / Tiv true / Isa false
+[03:22:52] [Server thread/INFO]: Entity Tracking Range: Pl 128 / An 96 / Mo 96 / Mi 96 / Di 128 / Other 64
+[03:22:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[03:22:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[03:22:52] [Server thread/INFO]: Max TNT Explosions: 100
+[03:22:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:22:52] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[03:22:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:22:53] [Server thread/INFO]: Time elapsed: 1569 ms
+[03:22:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:22:54] [Server thread/INFO]: Time elapsed: 295 ms
+[03:22:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:22:54] [Server thread/INFO]: Time elapsed: 126 ms
+[03:22:54] [Server thread/INFO]: Enabling floodgate v2.2.3-SNAPSHOT (b112-0360721)
+[03:22:54] [Server thread/INFO]: Enabling Essentials v2.20.1
+[03:22:54] [Server thread/ERROR]: You are running an unsupported server version!
+[03:22:55] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[03:22:55] [Server thread/INFO]: No kits found to migrate.
+[03:22:55] [Server thread/INFO]: Loaded 39094 items from items.json.
+[03:22:55] [Server thread/INFO]: Using locale ko
+[03:22:55] [Server thread/INFO]: ServerListPingEvent: Spigot iterator API
+[03:22:55] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[03:22:55] [Server thread/INFO]: Using config file enhanced permissions.
+[03:22:55] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[03:22:55] [Server thread/INFO]: Enabling Geyser-Spigot v2.4.4-SNAPSHOT
+[03:22:56] [Server thread/INFO]: 명령어 geyser help(을)를 등록함
+[03:22:56] [Server thread/INFO]: 명령어 geyser list(을)를 등록함
+[03:22:56] [Server thread/INFO]: 명령어 geyser reload(을)를 등록함
+[03:22:56] [Server thread/INFO]: 명령어 geyser offhand(을)를 등록함
+[03:22:56] [Server thread/INFO]: 명령어 geyser dump(을)를 등록함
+[03:22:56] [Server thread/INFO]: 명령어 geyser version(을)를 등록함
+[03:22:56] [Server thread/INFO]: 명령어 geyser settings(을)를 등록함
+[03:22:56] [Server thread/INFO]: 명령어 geyser statistics(을)를 등록함
+[03:22:56] [Server thread/INFO]: 명령어 geyser advancements(을)를 등록함
+[03:22:56] [Server thread/INFO]: 명령어 geyser tooltips(을)를 등록함
+[03:22:56] [Server thread/INFO]: 명령어 geyser connectiontest(을)를 등록함
+[03:22:56] [Server thread/INFO]: 명령어 geyser ping(을)를 등록함
+[03:22:56] [Server thread/INFO]: Starting background profiler...
+[03:22:56] [Server thread/INFO]: ******************************************
+[03:22:56] [Server thread/INFO]: 
+[03:22:56] [Server thread/INFO]: Geyser 버전 2.4.4-b694 (git-master-e7ecb55)(을)를 불러오는 중...
+[03:22:56] [Server thread/INFO]: 
+[03:22:56] [Server thread/INFO]: ******************************************
+[03:22:56] [Server thread/INFO]: Skipping particle mapping BLOCK_MARKER because no Bedrock equivalent exists.
+[03:22:56] [Server thread/INFO]: Skipping particle mapping DUST_PILLAR because no Bedrock equivalent exists.
+[03:22:56] [Server thread/INFO]: Skipping particle mapping GUST because no Bedrock equivalent exists.
+[03:22:56] [Server thread/INFO]: Skipping particle mapping GUST_EMITTER_LARGE because no Bedrock equivalent exists.
+[03:22:56] [Server thread/INFO]: Skipping particle mapping INFESTED because no Bedrock equivalent exists.
+[03:22:56] [Server thread/INFO]: Skipping particle mapping ITEM_COBWEB because no Bedrock equivalent exists.
+[03:22:56] [Server thread/INFO]: Skipping particle mapping OMINOUS_SPAWNING because no Bedrock equivalent exists.
+[03:22:56] [Server thread/INFO]: Skipping particle mapping RAID_OMEN because no Bedrock equivalent exists.
+[03:22:56] [Server thread/INFO]: Skipping particle mapping SMALL_GUST because no Bedrock equivalent exists.
+[03:22:56] [Server thread/INFO]: Skipping particle mapping TRIAL_OMEN because no Bedrock equivalent exists.
+[03:22:56] [Server thread/INFO]: Skipping particle mapping TRIAL_SPAWNER_DETECTION because no Bedrock equivalent exists.
+[03:22:56] [Server thread/INFO]: Skipping particle mapping TRIAL_SPAWNER_DETECTION_OMINOUS because no Bedrock equivalent exists.
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaRemoveEntitiesTranslator : ClientboundRemoveEntitiesPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.inventory.JavaOpenScreenTranslator : ClientboundOpenScreenPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaSelectAdvancementsTabTranslator : ClientboundSelectAdvancementsTabPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaSoundTranslator : ClientboundSoundPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockRespawnTranslator : RespawnPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaCustomQueryTranslator : ClientboundCustomQueryPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.border.JavaSetBorderCenterTranslator : ClientboundSetBorderCenterPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaTeleportEntityTranslator : ClientboundTeleportEntityPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.entity.player.BedrockInteractTranslator : InteractPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockStructureBlockUpdateTranslator : StructureBlockUpdatePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockInventoryTransactionTranslator : InventoryTransactionPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.inventory.JavaContainerCloseTranslator : ClientboundContainerClosePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.border.JavaSetBorderWarningDistanceTranslator : ClientboundSetBorderWarningDistancePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.inventory.JavaMerchantOffersTranslator : ClientboundMerchantOffersPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaRegistryDataTranslator : ClientboundRegistryDataPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.inventory.JavaOpenBookTranslator : ClientboundOpenBookPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaCooldownTranslator : ClientboundCooldownPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockTextTranslator : TextPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaPingTranslator : ClientboundPingPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaPlayerChatTranslator : ClientboundPlayerChatPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaTakeItemEntityTranslator : ClientboundTakeItemEntityPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.entity.player.BedrockRequestPermissionsPacket : RequestPermissionsPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.inventory.JavaContainerSetContentTranslator : ClientboundContainerSetContentPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.scoreboard.JavaSetObjectiveTranslator : ClientboundSetObjectivePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.border.JavaSetBorderWarningDelayTranslator : ClientboundSetBorderWarningDelayPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.entity.player.BedrockSetDifficultyTranslator : SetDifficultyPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockShowCreditsTranslator : ShowCreditsPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaSystemChatTranslator : ClientboundSystemChatPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.title.JavaSetTitlesAnimationTranslator : ClientboundSetTitlesAnimationPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaForgetLevelChunkTranslator : ClientboundForgetLevelChunkPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaMoveVehicleTranslator : ClientboundMoveVehiclePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.scoreboard.JavaResetScorePacket : ClientboundResetScorePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.player.JavaBlockChangedAckTranslator : ClientboundBlockChangedAckPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaBlockEventTranslator : ClientboundBlockEventPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaMapItemDataTranslator : ClientboundMapItemDataPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.entity.player.BedrockSetPlayerInventoryOptionsTranslator : SetPlayerInventoryOptionsPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockPlayerInputTranslator : PlayerInputPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockBlockEntityDataTranslator : BlockEntityDataPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaGameProfileTranslator : ClientboundGameProfilePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.player.JavaPlayerPositionTranslator : ClientboundPlayerPositionPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockPacketViolationWarningTranslator : PacketViolationWarningPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockAnimateTranslator : AnimatePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.spawn.JavaAddExperienceOrbTranslator : ClientboundAddExperienceOrbPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockNetworkStackLatencyTranslator : NetworkStackLatencyPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaLevelChunkWithLightTranslator : ClientboundLevelChunkWithLightPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaUpdateAttributesTranslator : ClientboundUpdateAttributesPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.player.JavaSetExperienceTranslator : ClientboundSetExperiencePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaSetDefaultSpawnPositionTranslator : ClientboundSetDefaultSpawnPositionPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaSoundEntityTranslator : ClientboundSoundEntityPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.player.JavaPlayerAbilitiesTranslator : ClientboundPlayerAbilitiesPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaBlockEntityDataTranslator : ClientboundBlockEntityDataPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaFinishConfigurationPacketTranslator : ClientboundFinishConfigurationPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.entity.player.BedrockActionTranslator : PlayerActionPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaClientboundRecipesTranslator : ClientboundRecipePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaMoveEntityPosTranslator : ClientboundMoveEntityPosPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaBlockDestructionTranslator : ClientboundBlockDestructionPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockFilterTextTranslator : FilterTextPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockCommandBlockUpdateTranslator : CommandBlockUpdatePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaOpenSignEditorTranslator : ClientboundOpenSignEditorPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaLevelEventTranslator : ClientboundLevelEventPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaExplodeTranslator : ClientboundExplodePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.player.JavaPlayerLookAtTranslator : ClientboundPlayerLookAtPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockSetLocalPlayerAsInitializedTranslator : SetLocalPlayerAsInitializedPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaGameEventTranslator : ClientboundGameEventPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaClientboundResourcePackPushPacket : ClientboundResourcePackPushPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.player.JavaSetHealthTranslator : ClientboundSetHealthPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaSetEquipmentTranslator : ClientboundSetEquipmentPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaCustomPayloadTranslator : ClientboundCustomPayloadPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaBossEventTranslator : ClientboundBossEventPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.inventory.JavaHorseScreenOpenTranslator : ClientboundHorseScreenOpenPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaStopSoundTranslator : ClientboundStopSoundPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaLoginTranslator : ClientboundLoginPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.title.JavaClearTitlesTranslator : ClientboundClearTitlesPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockMobEquipmentTranslator : MobEquipmentPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockPositionTrackingDBClientRequestTranslator : PositionTrackingDBClientRequestPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaSetTimeTranslator : ClientboundSetTimePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.entity.player.BedrockMovePlayerTranslator : MovePlayerPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaKeepAliveTranslator : ClientboundKeepAlivePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.entity.player.BedrockEmoteTranslator : EmotePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaEntityEventTranslator : ClientboundEntityEventPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.inventory.JavaContainerSetDataTranslator : ClientboundContainerSetDataPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaSetEntityLinkTranslator : ClientboundSetEntityLinkPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.player.JavaTransferPacketTranslator : ClientboundTransferPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.scoreboard.JavaSetScoreTranslator : ClientboundSetScorePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaSelectKnownPacksTranslator : ClientboundSelectKnownPacks
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaLoginDisconnectTranslator : ClientboundLoginDisconnectPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.spawn.JavaAddEntityTranslator : ClientboundAddEntityPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockStructureTemplateDataRequestTranslator : StructureTemplateDataRequestPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaRemoveMobEffectTranslator : ClientboundRemoveMobEffectPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.border.JavaSetBorderSizeTranslator : ClientboundSetBorderSizePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaSetChunkCacheCenterTranslator : ClientboundSetChunkCacheCenterPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.title.JavaSetSubtitleTextTranslator : ClientboundSetSubtitleTextPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.entity.player.BedrockRiderJumpTranslator : RiderJumpPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaDamageEventTranslator : ClientboundDamageEventPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaRespawnTranslator : ClientboundRespawnPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaUpdateAdvancementsTranslator : ClientboundUpdateAdvancementsPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.entity.player.BedrockSetDefaultGameTypeTranslator : SetDefaultGameTypePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.player.JavaPlayerInfoUpdateTranslator : ClientboundPlayerInfoUpdatePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.player.JavaStoreCookieTranslator : ClientboundStoreCookiePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaChunkBatchFinishedTranslator : ClientboundChunkBatchFinishedPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaMoveEntityPosRotTranslator : ClientboundMoveEntityPosRotPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaDisguisedChatTranslator : ClientboundDisguisedChatPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.border.JavaSetBorderLerpSizeTranslator : ClientboundSetBorderLerpSizePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaUpdateMobEffectTranslator : ClientboundUpdateMobEffectPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockCommandRequestTranslator : CommandRequestPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaCommandsTranslator : ClientboundCommandsPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaMoveEntityRotTranslator : ClientboundMoveEntityRotPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockEntityPickRequestTranslator : EntityPickRequestPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.border.JavaInitializeBorderTranslator : ClientboundInitializeBorderPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.scoreboard.JavaSetPlayerTeamTranslator : ClientboundSetPlayerTeamPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaSectionBlocksUpdateTranslator : ClientboundSectionBlocksUpdatePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.world.BedrockLevelSoundEventTranslator : LevelSoundEventPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaAnimateTranslator : ClientboundAnimatePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.inventory.JavaContainerSetSlotTranslator : ClientboundContainerSetSlotPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockServerSettingsRequestTranslator : ServerSettingsRequestPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaChangeDifficultyTranslator : ClientboundChangeDifficultyPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaSetChunkCacheRadiusTranslator : ClientboundSetChunkCacheRadiusPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockBookEditTranslator : BookEditPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockToggleCrafterSlotRequestTranslator : ToggleCrafterSlotRequestPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaBlockUpdateTranslator : ClientboundBlockUpdatePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockContainerCloseTranslator : ContainerClosePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockItemStackRequestTranslator : ItemStackRequestPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaUpdateTagsTranslator : ClientboundUpdateTagsPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockRequestAbilityTranslator : RequestAbilityPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaStartConfigurationTranslator : ClientboundStartConfigurationPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockBlockPickRequestTranslator : BlockPickRequestPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.title.JavaSetTitleTextTranslator : ClientboundSetTitleTextPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaAwardStatsTranslator : ClientboundAwardStatsPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaSetEntityDataTranslator : ClientboundSetEntityDataPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.entity.player.BedrockSetPlayerGameTypeTranslator : SetPlayerGameTypePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaSetPassengersTranslator : ClientboundSetPassengersPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.player.JavaPlayerInfoRemoveTranslator : ClientboundPlayerInfoRemovePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockRequestChunkRadiusTranslator : RequestChunkRadiusPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.player.JavaCookieRequestTranslator : ClientboundCookieRequestPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.scoreboard.JavaSetDisplayObjectiveTranslator : ClientboundSetDisplayObjectivePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaUpdateRecipesTranslator : ClientboundUpdateRecipesPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.level.JavaLevelParticlesTranslator : ClientboundLevelParticlesPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockMoveEntityAbsoluteTranslator : MoveEntityAbsolutePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.title.JavaSetActionBarTextTranslator : ClientboundSetActionBarTextPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.JavaDisconnectTranslator : ClientboundDisconnectPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockEmoteListTranslator : EmoteListPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.player.JavaPlayerCombatKillTranslator : ClientboundPlayerCombatKillPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaSetEntityMotionTranslator : ClientboundSetEntityMotionPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.player.JavaSetCarriedItemTranslator : ClientboundSetCarriedItemPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.BedrockLecternUpdateTranslator : LecternUpdatePacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.bedrock.entity.BedrockEntityEventTranslator : EntityEventPacket
+[03:22:57] [Server thread/INFO]: Found annotated translator: org.geysermc.geyser.translator.protocol.java.entity.JavaRotateHeadTranslator : ClientboundRotateHeadPacket
+[03:22:58] [Server thread/INFO]: Found annotated collision translator: org.geysermc.geyser.translator.collision.DirtPathCollision
+[03:22:58] [Server thread/INFO]: Found annotated collision translator: org.geysermc.geyser.translator.collision.SolidCollision
+[03:22:58] [Server thread/INFO]: Found annotated collision translator: org.geysermc.geyser.translator.collision.DoorCollision
+[03:22:58] [Server thread/INFO]: Found annotated collision translator: org.geysermc.geyser.translator.collision.ScaffoldingCollision
+[03:22:58] [Server thread/INFO]: Found annotated collision translator: org.geysermc.geyser.translator.collision.GlassPaneAndIronBarsCollision
+[03:22:58] [Server thread/INFO]: Found annotated collision translator: org.geysermc.geyser.translator.collision.TrapdoorCollision
+[03:23:00] [Server thread/INFO]: Adding minecraft:heavy_core as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:dragon_egg as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:command_block as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:beacon as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:barrier as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:light as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:repeating_command_block as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:chain_command_block as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:structure_void as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:conduit as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:elytra as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:structure_block as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:jigsaw as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:golden_apple as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:enchanted_golden_apple as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:bundle as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:experience_bottle as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:mace as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:skeleton_skull as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:wither_skeleton_skull as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:player_head as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:zombie_head as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:creeper_head as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:dragon_head as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:piglin_head as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:nether_star as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:enchanted_book as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:command_block_minecart as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:end_crystal as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:dragon_breath as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:spectral_arrow as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:tipped_arrow as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:totem_of_undying as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:knowledge_book as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:debug_stick as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_13 as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_cat as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_blocks as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_chirp as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_creator as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_creator_music_box as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_far as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_mall as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_mellohi as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_stal as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_strad as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_ward as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_11 as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_wait as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_otherside as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_relic as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_5 as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_pigstep as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:music_disc_precipice as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:trident as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:heart_of_the_sea as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:creeper_banner_pattern as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:skull_banner_pattern as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:mojang_banner_pattern as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:piglin_banner_pattern as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:flow_banner_pattern as an item that needs to be translated.
+[03:23:00] [Server thread/INFO]: Adding minecraft:guster_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Skipping vanilla component minecraft:music_disc_creator_music_box for protocol 671
+[03:23:01] [Server thread/INFO]: Skipping vanilla component minecraft:music_disc_precipice for protocol 671
+[03:23:01] [Server thread/INFO]: Skipping vanilla component minecraft:ominous_trial_key for protocol 671
+[03:23:01] [Server thread/INFO]: Skipping vanilla component minecraft:music_disc_creator for protocol 671
+[03:23:01] [Server thread/INFO]: Adding minecraft:heavy_core as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:dragon_egg as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:command_block as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:beacon as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:barrier as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:light as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:repeating_command_block as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:chain_command_block as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:structure_void as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:conduit as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:elytra as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:structure_block as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:jigsaw as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:golden_apple as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:enchanted_golden_apple as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:bundle as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:experience_bottle as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:mace as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:skeleton_skull as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:wither_skeleton_skull as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:player_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:zombie_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:creeper_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:dragon_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:piglin_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:nether_star as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:enchanted_book as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:command_block_minecart as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:end_crystal as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:dragon_breath as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:spectral_arrow as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:tipped_arrow as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:totem_of_undying as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:knowledge_book as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:debug_stick as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_13 as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_cat as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_blocks as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_chirp as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_creator as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_creator_music_box as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_far as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_mall as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_mellohi as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_stal as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_strad as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_ward as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_11 as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_wait as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_otherside as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_relic as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_5 as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_pigstep as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_precipice as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:trident as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:heart_of_the_sea as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:creeper_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:skull_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:mojang_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:piglin_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:flow_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:guster_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:heavy_core as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:dragon_egg as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:command_block as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:beacon as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:barrier as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:light as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:repeating_command_block as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:chain_command_block as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:structure_void as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:conduit as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:elytra as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:structure_block as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:jigsaw as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:golden_apple as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:enchanted_golden_apple as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:bundle as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:experience_bottle as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:mace as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:skeleton_skull as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:wither_skeleton_skull as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:player_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:zombie_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:creeper_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:dragon_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:piglin_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:nether_star as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:enchanted_book as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:command_block_minecart as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:end_crystal as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:dragon_breath as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:spectral_arrow as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:tipped_arrow as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:totem_of_undying as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:knowledge_book as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:debug_stick as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_13 as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_cat as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_blocks as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_chirp as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_creator as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_creator_music_box as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_far as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_mall as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_mellohi as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_stal as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_strad as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_ward as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_11 as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_wait as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_otherside as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_relic as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_5 as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_pigstep as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_precipice as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:trident as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:heart_of_the_sea as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:creeper_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:skull_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:mojang_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:piglin_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:flow_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:guster_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:heavy_core as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:dragon_egg as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:command_block as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:beacon as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:barrier as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:light as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:repeating_command_block as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:chain_command_block as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:structure_void as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:conduit as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:elytra as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:structure_block as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:jigsaw as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:golden_apple as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:enchanted_golden_apple as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:bundle as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:experience_bottle as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:mace as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:skeleton_skull as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:wither_skeleton_skull as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:player_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:zombie_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:creeper_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:dragon_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:piglin_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:nether_star as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:enchanted_book as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:command_block_minecart as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:end_crystal as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:dragon_breath as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:spectral_arrow as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:tipped_arrow as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:totem_of_undying as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:knowledge_book as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:debug_stick as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_13 as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_cat as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_blocks as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_chirp as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_creator as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_creator_music_box as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_far as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_mall as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_mellohi as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_stal as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_strad as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_ward as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_11 as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_wait as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_otherside as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_relic as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_5 as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_pigstep as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_precipice as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:trident as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:heart_of_the_sea as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:creeper_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:skull_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:mojang_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:piglin_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:flow_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:guster_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:heavy_core as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:dragon_egg as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:command_block as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:beacon as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:barrier as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:light as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:repeating_command_block as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:chain_command_block as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:structure_void as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:conduit as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:elytra as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:structure_block as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:jigsaw as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:golden_apple as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:enchanted_golden_apple as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:bundle as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:experience_bottle as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:mace as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:skeleton_skull as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:wither_skeleton_skull as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:player_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:zombie_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:creeper_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:dragon_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:piglin_head as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:nether_star as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:enchanted_book as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:command_block_minecart as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:end_crystal as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:dragon_breath as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:spectral_arrow as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:tipped_arrow as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:totem_of_undying as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:knowledge_book as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:debug_stick as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_13 as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_cat as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_blocks as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_chirp as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_creator as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_creator_music_box as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_far as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_mall as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_mellohi as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_stal as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_strad as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_ward as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_11 as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_wait as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_otherside as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_relic as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_5 as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_pigstep as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:music_disc_precipice as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:trident as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:heart_of_the_sea as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:creeper_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:skull_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:mojang_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:piglin_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:flow_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Adding minecraft:guster_banner_pattern as an item that needs to be translated.
+[03:23:01] [Server thread/INFO]: Floodgate 키를 자동으로 불러왔습니다.
+[03:23:01] [Server thread/INFO]: Auto-setting to Floodgate authentication.
+[03:23:01] [Server thread/INFO]: Kernel version: 6.5.0-1024-oracle
+[03:23:01] [Server thread/INFO]: Listen thread count: 2
+[03:23:01] [Server thread/INFO]: EventLoop type: class io.netty.channel.epoll.EpollDatagramChannel
+[03:23:01] [Server thread/INFO]: Setting MTU to 1400
+[03:23:01] [Server thread/INFO]: Setting RakNet packet limit to 120
+[03:23:01] [Server thread/INFO]: Setting RakNet global packet limit to 100000
+[03:23:01] [Server thread/INFO]: Setting RakNet send cookie to true
+[03:23:01] [epollEventLoopGroup-3-1/INFO]: Geyser를 UDP 포트 19132에서 시작했습니다
+[03:23:01] [Server thread/INFO]: Loaded Floodgate key!
+[03:23:01] [ForkJoinPool.commonPool-worker-3/INFO]: {"client":{"sha1":"0e9a07b9bb3390602f977073aa12884a4ce12431","size":26836080,"url":"https://piston-data.mojang.com/v1/objects/0e9a07b9bb3390602f977073aa12884a4ce12431/client.jar"},"client_mappings":{"sha1":"0530a206839eb1e9b35ec86acbbe394b07a2d9fb","size":9597156,"url":"https://piston-data.mojang.com/v1/objects/0530a206839eb1e9b35ec86acbbe394b07a2d9fb/client.txt"},"server":{"sha1":"450698d1863ab5180c25d7c804ef0fe6369dd1ba","size":51623779,"url":"https://piston-data.mojang.com/v1/objects/450698d1863ab5180c25d7c804ef0fe6369dd1ba/server.jar"},"server_mappings":{"sha1":"31c77994d96f05ba25a870ada70f47f315330437","size":7454609,"url":"https://piston-data.mojang.com/v1/objects/31c77994d96f05ba25a870ada70f47f315330437/server.txt"}}
+[03:23:01] [ForkJoinPool.commonPool-worker-3/INFO]: {"sha1":"0e9a07b9bb3390602f977073aa12884a4ce12431","size":26836080,"url":"https://piston-data.mojang.com/v1/objects/0e9a07b9bb3390602f977073aa12884a4ce12431/client.jar"}
+[03:23:01] [Server thread/INFO]: 완료! (5.412초) /geyser help로 도움말을 참조하세요.
+[03:23:01] [Server thread/INFO]: Spigot ping passthrough type: class org.geysermc.geyser.platform.spigot.GeyserPaperPingPassthrough
+[03:23:01] [Server thread/INFO]: The handler floodgate-init isn't a ChannelInitializer. THIS ERROR IS SAFE TO IGNORE!
+[03:23:01] [Server thread/WARN]: java.lang.NoSuchFieldException: childHandler
+[03:23:01] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Unknown Source)
+[03:23:01] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getDeclaredField(AbstractDefaultRulesReflectionProxy.java:90)
+[03:23:01] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getDeclaredField(Unknown Source)
+[03:23:01] [Server thread/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.platform.spigot.GeyserSpigotInjector.getChildHandler(GeyserSpigotInjector.java:151)
+[03:23:01] [Server thread/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.platform.spigot.GeyserSpigotInjector.initializeLocalChannel0(GeyserSpigotInjector.java:110)
+[03:23:01] [Server thread/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.network.netty.GeyserInjector.initializeLocalChannel(GeyserInjector.java:64)
+[03:23:01] [Server thread/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin.onGeyserEnable(GeyserSpigotPlugin.java:265)
+[03:23:01] [Server thread/WARN]: 	at Geyser-Spigot.jar//org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin$1.onServerLoaded(GeyserSpigotPlugin.java:220)
+[03:23:01] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:44)
+[03:23:01] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[03:23:01] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[03:23:01] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[03:23:01] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131)
+[03:23:01] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:630)
+[03:23:01] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:764)
+[03:23:01] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:519)
+[03:23:01] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:366)
+[03:23:01] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230)
+[03:23:01] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:333)
+[03:23:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[03:23:01] [Server thread/INFO]: Local injection succeeded!
+[03:23:01] [Server thread/INFO]: Unable to find spigot world manager: org.geysermc.geyser.adapters.spigot.craftbukkit.WorldAdapter_craftbukkit
+[03:23:01] [Server thread/INFO]: Using paper world adapter for protocol version: 767
+[03:23:01] [Server thread/INFO]: Using world manager of type: GeyserSpigotNativeWorldManager
+[03:23:02] [Server thread/INFO]: Done preparing level "world" (10.688s)
+[03:23:02] [Server thread/INFO]: Starting remote control listener
+[03:23:02] [ForkJoinPool.commonPool-worker-3/INFO]: Downloading and loading locale: ko_kr
+[03:23:02] [ForkJoinPool.commonPool-worker-3/INFO]: Locale out of date; re-downloading: ko_kr
+[03:23:02] [Server thread/INFO]: Thread RCON Listener started
+[03:23:02] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[03:23:02] [Server thread/INFO]: Running delayed init tasks
+[03:23:02] [Server thread/INFO]: Done (33.258s)! For help, type "help"
+[03:23:02] [Craft Scheduler Thread - 3 - Essentials/INFO]: [33m버전 정보를 가져오는중...[0m
+[03:23:12] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[03:23:12] [Server thread/INFO]: [3m[37m[Rcon: Gamerule keepInventory is now set to: true][0m
+[03:23:12] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[03:23:32] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:23:40] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:23:47] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: java.lang.RuntimeException: Unable to create temporary output file
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.start(AsyncProfilerJob.java:139)
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncSampler.rotateProfilerJob(AsyncSampler.java:134)
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: Caused by: java.nio.file.AccessDeniedException: plugins/spark/tmp-client/spark-13fc188db7ef6b-profile-data.jfr.tmp
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.translateToIOException(Unknown Source)
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(Unknown Source)
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.nio.file.Files.newByteChannel(Unknown Source)
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.nio.file.Files.createFile(Unknown Source)
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.util.TemporaryFiles.create(TemporaryFiles.java:78)
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.start(AsyncProfilerJob.java:137)
+[03:24:56] [spark-async-sampler-worker-thread/WARN]: 	... 7 more
+[03:25:06] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: java.lang.IllegalStateException: Profiler job no longer active!
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.checkActive(AsyncProfilerJob.java:115)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.stop(AsyncProfilerJob.java:186)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncSampler.rotateProfilerJob(AsyncSampler.java:125)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: java.lang.RuntimeException: Unable to create temporary output file
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.start(AsyncProfilerJob.java:139)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncSampler.rotateProfilerJob(AsyncSampler.java:134)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: Caused by: java.nio.file.AccessDeniedException: plugins/spark/tmp-client/spark-13fc2686238d6a-profile-data.jfr.tmp
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.translateToIOException(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.nio.file.Files.newByteChannel(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.nio.file.Files.createFile(Unknown Source)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.util.TemporaryFiles.create(TemporaryFiles.java:78)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.start(AsyncProfilerJob.java:137)
+[03:25:56] [spark-async-sampler-worker-thread/WARN]: 	... 7 more
+[03:26:09] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:26:37] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:26:46] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: java.lang.IllegalStateException: Profiler job no longer active!
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.checkActive(AsyncProfilerJob.java:115)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.stop(AsyncProfilerJob.java:186)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncSampler.rotateProfilerJob(AsyncSampler.java:125)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: java.lang.RuntimeException: Unable to create temporary output file
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.start(AsyncProfilerJob.java:139)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncSampler.rotateProfilerJob(AsyncSampler.java:134)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: Caused by: java.nio.file.AccessDeniedException: plugins/spark/tmp-client/spark-13fc347e40d180-profile-data.jfr.tmp
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.translateToIOException(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.nio.file.Files.newByteChannel(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.nio.file.Files.createFile(Unknown Source)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.util.TemporaryFiles.create(TemporaryFiles.java:78)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.start(AsyncProfilerJob.java:137)
+[03:26:56] [spark-async-sampler-worker-thread/WARN]: 	... 7 more
+[03:27:23] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:27:25] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:27:35] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: java.lang.IllegalStateException: Profiler job no longer active!
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.checkActive(AsyncProfilerJob.java:115)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.stop(AsyncProfilerJob.java:186)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncSampler.rotateProfilerJob(AsyncSampler.java:125)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: java.lang.RuntimeException: Unable to create temporary output file
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.start(AsyncProfilerJob.java:139)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncSampler.rotateProfilerJob(AsyncSampler.java:134)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: Caused by: java.nio.file.AccessDeniedException: plugins/spark/tmp-client/spark-13fc42767fe5a5-profile-data.jfr.tmp
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.translateToIOException(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.nio.file.Files.newByteChannel(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.nio.file.Files.createFile(Unknown Source)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.util.TemporaryFiles.create(TemporaryFiles.java:78)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.start(AsyncProfilerJob.java:137)
+[03:27:56] [spark-async-sampler-worker-thread/WARN]: 	... 7 more
+[03:28:12] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:28:37] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:28:54] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:28:55] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: java.lang.IllegalStateException: Profiler job no longer active!
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.checkActive(AsyncProfilerJob.java:115)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.stop(AsyncProfilerJob.java:186)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncSampler.rotateProfilerJob(AsyncSampler.java:125)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: java.lang.RuntimeException: Unable to create temporary output file
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.start(AsyncProfilerJob.java:139)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncSampler.rotateProfilerJob(AsyncSampler.java:134)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: Caused by: java.nio.file.AccessDeniedException: plugins/spark/tmp-client/spark-13fc506ee278ee-profile-data.jfr.tmp
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.translateToIOException(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.nio.file.Files.newByteChannel(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.nio.file.Files.createFile(Unknown Source)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.util.TemporaryFiles.create(TemporaryFiles.java:78)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.start(AsyncProfilerJob.java:137)
+[03:28:56] [spark-async-sampler-worker-thread/WARN]: 	... 7 more
+[03:29:02] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:29:28] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:29:46] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:29:47] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: java.lang.IllegalStateException: Profiler job no longer active!
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.checkActive(AsyncProfilerJob.java:115)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.stop(AsyncProfilerJob.java:186)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncSampler.rotateProfilerJob(AsyncSampler.java:125)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: java.lang.RuntimeException: Unable to create temporary output file
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.start(AsyncProfilerJob.java:139)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncSampler.rotateProfilerJob(AsyncSampler.java:134)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: Caused by: java.nio.file.AccessDeniedException: plugins/spark/tmp-client/spark-13fc5e6721289d-profile-data.jfr.tmp
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.translateToIOException(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.nio.file.Files.newByteChannel(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at java.base/java.nio.file.Files.createFile(Unknown Source)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.util.TemporaryFiles.create(TemporaryFiles.java:78)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.start(AsyncProfilerJob.java:137)
+[03:29:56] [spark-async-sampler-worker-thread/WARN]: 	... 7 more

@@ -11,12 +11,12 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1729670206722
+  lastteleport: 1729671435043
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729656228474
+  logout: 1729671843074
   login: 1729668987107
 money: '0'
 last-account-name: SeworL
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
   world-name: world
-  x: -1496.133651278494
-  y: 65.9375
-  z: -1023.0219161207278
-  yaw: -0.3052978515625
-  pitch: -6.150012969970703
+  x: -1490.0289398049822
+  y: 66.0
+  z: -1041.5798578024628
+  yaw: 115.34912109375
+  pitch: -0.14987625181674957

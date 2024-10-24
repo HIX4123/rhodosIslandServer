@@ -2629,3 +2629,236 @@
 [05:46:07] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
 [05:48:40] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
 [05:50:50] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:01:50] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:01:51] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:03:16] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:06:49] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:07:12] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:07:36] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:09:13] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:09:50] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:10:24] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:11:17] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:11:47] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:14:35] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:17:32] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:20:45] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:21:14] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:27:36] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:27:41] [epollEventLoopGroup-3-2/INFO]: /58.122.12.101:64730에서 정보를 수신했습니다!
+[06:27:44] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:27:58] [epollEventLoopGroup-3-2/INFO]: /58.122.12.101:64730에서 정보를 수신했습니다!
+[06:28:03] [epollEventLoopGroup-3-2/INFO]: /58.122.12.101:64730에서 정보를 수신했습니다!
+[06:28:05] [epollEventLoopGroup-3-2/INFO]: /58.122.12.101:63599에서 접속을 시도했습니다!
+[06:28:05] [epollEventLoopGroup-4-2/INFO]: Is player data signed? true
+[06:28:05] [epollEventLoopGroup-4-2/INFO]: Could not find packet for ClientToServerHandshakePacket
+[06:28:05] [epollEventLoopGroup-4-2/INFO]: Could not find packet for ClientCacheStatusPacket
+[06:28:05] [epollEventLoopGroup-4-2/INFO]: 플레이어가 사용자명 syhana7338(으)로 연결했습니다.
+[06:28:05] [localSession-7-3/INFO]: syhana7338 (syhana7338로 로그인) (이)가 Java 서버에 접속했습니다
+[06:28:05] [localSession-7-3/INFO]: Locale already loaded: ko_kr
+[06:28:06] [Server thread/INFO]: Floodgate player logged in as .syhana7338 joined (UUID: 00000000-0000-0000-0009-01fcf632faa0)
+[06:28:06] [Geyser player thread-5-2/INFO]: .syhana7338의 Bedrock 스킨을 등록하는중 (00000000-0000-0000-0009-01fcf632faa0)
+[06:28:06] [localSession-7-3/INFO]: Could not find packet for ClientboundUpdateEnabledFeaturesPacket
+[06:28:06] [Geyser player thread-5-2/INFO]: Ignoring registry of type minecraft:damage_type
+[06:28:06] [Geyser player thread-5-2/INFO]: Emulating post 1.18 block predication logic for syhana7338? true
+[06:28:06] [Geyser player thread-5-2/INFO]: Emulating post 1.13 villager logic for syhana7338? true
+[06:28:06] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_special
+[06:28:06] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_common
+[06:28:06] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_common
+[06:28:06] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/snow_common
+[06:28:06] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/snow_special
+[06:28:06] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_special
+[06:28:06] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/desert_common
+[06:28:06] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_common
+[06:28:06] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_special
+[06:28:06] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_common
+[06:28:06] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_special
+[06:28:06] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/plains_common
+[06:28:06] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/plains_special
+[06:28:06] [Geyser player thread-5-2/INFO]: Enchantment tag not found from server: minecraft:trades/desert_special
+[06:28:06] [Geyser player thread-5-2/INFO]: Extending overworld dimension to -64 - 384
+[06:28:06] [Server thread/INFO]: [93m.syhana7338 joined the game[0m
+[06:28:06] [localSession-7-3/INFO]: Could not find packet for ClientboundServerDataPacket
+[06:28:06] [Server thread/INFO]: .syhana7338[/58.122.12.101:0] logged in with entity id 131307 at ([world]-2095.4375, 63.0, 520.8733)
+[06:28:06] [localSession-7-3/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[06:28:06] [localSession-7-3/INFO]: Could not find packet for ClientboundTickingStatePacket
+[06:28:06] [localSession-7-3/INFO]: Could not find packet for ClientboundTickingStepPacket
+[06:28:06] [Geyser player thread-5-2/INFO]: Spawned player at -2095.4375 63.0 520.8733
+[06:28:06] [Geyser player thread-5-2/INFO]: Ignoring player info update for 00000000-0000-0000-0009-01fcf632faa0
+[06:28:06] [ForkJoinPool.commonPool-worker-115/INFO]: Loaded Local Bedrock Java Skin Data for syhana7338
+[06:28:06] [Craft Scheduler Thread - 3060 - Essentials/WARN]: Replaced UUID during cache update for _syhana7338: null -> 00000000-0000-0000-0009-01fcf632faa0
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.afk - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.antioch - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.anvil - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.back - true
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.backup - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.balance - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.balancetop - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.ban - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.banip - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.beezooka - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.book - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.bottom - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.break - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.broadcast - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.broadcastworld - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.bigtree - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.burn - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.cartographytable - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.clearinventory - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.clearinventoryconfirmtoggle - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.condense - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.compass - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.createkit - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.customtext - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.delhome - true
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.deljail - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.delkit - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.delwarp - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.depth - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.disposal - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.eco - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.enchant - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.enderchest - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.essentials - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.exp - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.ext - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.feed - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.fly - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.fireball - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.firework - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.gamemode - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.gc - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.getpos - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.give - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.god - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.grindstone - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.hat - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.heal - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.help - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.helpop - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.home - true
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.ice - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.ignore - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.info - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.invsee - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.item - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.itemdb - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.itemlore - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.itemname - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.jails - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.jump - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.kick - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.kickall - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.kill - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.kit - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.kitreset - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.kittycannon - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.lightning - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.list - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.loom - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.mail - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.me - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.more - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.motd - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.msg - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.msgtoggle - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.mute - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.near - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.nick - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.nuke - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tpoffline - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.pay - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.paytoggle - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.payconfirmtoggle - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.ping - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.playtime - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.potion - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.powertool - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.powertooltoggle - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.ptime - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.pweather - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.msg - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.rtoggle - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.realname - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.recipe - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.remove - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.renamehome - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.repair - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.rest - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.rules - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.seen - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.sell - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.sethome - true
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.setjail - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.settpr - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.setwarp - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.setworth - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.showkit - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.editsign - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.skull - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.smithingtable - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.socialspy - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.spawner - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.spawnmob - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.speed - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.stonecutter - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.sudo - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.suicide - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tempban - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tempbanip - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.thunder - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.time - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.togglejail - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.top - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tp - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tpa - true
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tpaall - true
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tpaccept - true
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tpahere - true
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tpall - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tpauto - true
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tpacancel - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tpdeny - true
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tphere - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tpo - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tpohere - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tppos - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tpr - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tptoggle - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.tree - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.unban - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.unbanip - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.unlimited - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.vanish - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.warp - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.warpinfo - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.weather - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.whois - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.workbench - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.world - false
+[06:28:06] [Paper Async Command Builder Thread Pool - 139/INFO]: checking if .syhana7338 has essentials.worth - false
+[06:28:06] [Server thread/INFO]: checking if .syhana7338 has essentials.sleepingignored - false
+[06:28:06] [Server thread/INFO]: looking up groupname of .syhana7338 - default
+[06:28:06] [Server thread/INFO]: checking if .syhana7338 has essentials.motd - false
+[06:28:06] [Server thread/INFO]: checking if .syhana7338 has essentials.mail - false
+[06:28:06] [Server thread/INFO]: checking if .syhana7338 has essentials.updatecheck - false
+[06:28:06] [Server thread/INFO]: checking if .syhana7338 has essentials.fly.safelogin - false
+[06:28:06] [Server thread/INFO]: checking if .syhana7338 has essentials.speed - false
+[06:28:06] [Geyser player thread-5-2/INFO]: Redirecting command tm to teammsg
+[06:28:06] [Geyser player thread-5-2/INFO]: Redirecting command minecraft:teammsg to teammsg
+[06:28:06] [Geyser player thread-5-2/INFO]: Redirecting command minecraft:tm to teammsg
+[06:28:06] [Geyser player thread-5-2/INFO]: Redirecting command minecraft:trigger to trigger
+[06:28:06] [Geyser player thread-5-2/INFO]: Sending command packet of 26 commands
+[06:28:11] [pool-21-thread-1/INFO]: Saving Name->UUID cache to disk...
+[06:28:11] [pool-21-thread-1/INFO]: Saving UUID cache to disk...
+[06:28:26] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:carrot, runtimeId=301, componentBased=false), damage=0, count=20, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[06:28:28] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:carrot, runtimeId=301, componentBased=false), damage=0, count=19, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[06:28:29] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:carrot, runtimeId=301, componentBased=false), damage=0, count=18, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[06:28:31] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:carrot, runtimeId=301, componentBased=false), damage=0, count=18, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[06:28:31] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:carrot, runtimeId=301, componentBased=false), damage=0, count=17, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[06:28:39] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:carrot, runtimeId=301, componentBased=false), damage=0, count=17, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[06:28:46] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:jungle_boat, runtimeId=403, componentBased=false), damage=0, count=1, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[06:28:49] [Geyser player thread-5-2/INFO]: Teleport (2) from -2142.109 63.104164 509.20563
+[06:28:49] [Geyser player thread-5-2/INFO]: to -2142.932 62.11052 509.79434
+[06:29:49] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players

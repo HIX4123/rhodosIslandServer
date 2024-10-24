@@ -2930,3 +2930,1356 @@
 [07:55:07] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
 [07:55:52] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
 [07:56:09] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[08:00:10] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[08:01:13] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[08:04:05] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[08:04:57] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[08:06:00] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[08:06:17] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[08:06:50] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[08:07:55] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[08:10:20] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[08:10:35] [epollEventLoopGroup-3-1/INFO]: /211.234.200.118:51205에서 정보를 수신했습니다!
+[08:10:45] [epollEventLoopGroup-3-1/INFO]: /211.234.200.118:51205에서 정보를 수신했습니다!
+[08:10:49] [epollEventLoopGroup-3-1/INFO]: /211.234.200.118:51205에서 정보를 수신했습니다!
+[08:10:49] [epollEventLoopGroup-3-1/INFO]: /211.234.200.118:51205에서 정보를 수신했습니다!
+[08:10:56] [epollEventLoopGroup-3-1/INFO]: /211.234.200.118:51205에서 정보를 수신했습니다!
+[08:11:00] [epollEventLoopGroup-3-1/INFO]: /211.234.200.171:53183에서 정보를 수신했습니다!
+[08:11:02] [epollEventLoopGroup-3-2/INFO]: /211.234.200.171:55163에서 접속을 시도했습니다!
+[08:11:02] [epollEventLoopGroup-4-3/INFO]: Is player data signed? true
+[08:11:03] [epollEventLoopGroup-4-3/INFO]: Could not find packet for ClientToServerHandshakePacket
+[08:11:03] [epollEventLoopGroup-4-3/INFO]: Could not find packet for ClientCacheStatusPacket
+[08:11:03] [epollEventLoopGroup-4-3/INFO]: 플레이어가 사용자명 wizness823(으)로 연결했습니다.
+[08:11:03] [localSession-7-4/INFO]: wizness823 (wizness823로 로그인) (이)가 Java 서버에 접속했습니다
+[08:11:03] [localSession-7-4/INFO]: Locale already loaded: ko_kr
+[08:11:04] [Server thread/INFO]: Floodgate player logged in as .wizness823 joined (UUID: 00000000-0000-0000-0009-01f480849d23)
+[08:11:04] [Geyser player thread-5-3/INFO]: .wizness823의 Bedrock 스킨을 등록하는중 (00000000-0000-0000-0009-01f480849d23)
+[08:11:04] [localSession-7-4/INFO]: Could not find packet for ClientboundUpdateEnabledFeaturesPacket
+[08:11:04] [Geyser player thread-5-3/INFO]: Ignoring registry of type minecraft:damage_type
+[08:11:04] [Geyser player thread-5-3/INFO]: Emulating post 1.18 block predication logic for wizness823? true
+[08:11:04] [Geyser player thread-5-3/INFO]: Emulating post 1.13 villager logic for wizness823? true
+[08:11:04] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_special
+[08:11:04] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_common
+[08:11:04] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_common
+[08:11:04] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/snow_common
+[08:11:04] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/snow_special
+[08:11:04] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/jungle_special
+[08:11:04] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/desert_common
+[08:11:04] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_common
+[08:11:04] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/taiga_special
+[08:11:04] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/savanna_common
+[08:11:04] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/swamp_special
+[08:11:04] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/plains_common
+[08:11:04] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/plains_special
+[08:11:04] [Geyser player thread-5-3/INFO]: Enchantment tag not found from server: minecraft:trades/desert_special
+[08:11:04] [Geyser player thread-5-3/INFO]: Extending overworld dimension to -64 - 384
+[08:11:04] [Server thread/INFO]: [93m.wizness823 joined the game[0m
+[08:11:04] [localSession-7-4/INFO]: Could not find packet for ClientboundServerDataPacket
+[08:11:04] [Server thread/INFO]: .wizness823[/211.234.200.171:0] logged in with entity id 133627 at ([world]-1552.3049, 144.0, -1004.4149)
+[08:11:04] [localSession-7-4/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[08:11:04] [Geyser player thread-5-3/INFO]: Spawned player at -1552.3049 144.0 -1004.4149
+[08:11:04] [localSession-7-4/INFO]: Could not find packet for ClientboundTickingStatePacket
+[08:11:04] [localSession-7-4/INFO]: Could not find packet for ClientboundTickingStepPacket
+[08:11:04] [Geyser player thread-5-3/INFO]: Ignoring player info update for 00000000-0000-0000-0009-01f480849d23
+[08:11:04] [ForkJoinPool.commonPool-worker-116/INFO]: Loaded Local Bedrock Java Skin Data for wizness823
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.afk - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.antioch - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.anvil - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.back - true
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.backup - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.balance - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.balancetop - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.ban - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.banip - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.beezooka - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.book - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.bottom - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.break - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.broadcast - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.broadcastworld - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.bigtree - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.burn - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.cartographytable - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.clearinventory - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.clearinventoryconfirmtoggle - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.condense - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.compass - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.createkit - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.customtext - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.delhome - true
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.deljail - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.delkit - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.delwarp - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.depth - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.disposal - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.eco - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.enchant - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.enderchest - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.essentials - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.exp - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.ext - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.feed - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.fly - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.fireball - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.firework - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.gamemode - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.gc - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.getpos - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.give - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.god - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.grindstone - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.hat - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.heal - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.help - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.helpop - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.home - true
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.ice - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.ignore - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.info - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.invsee - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.item - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.itemdb - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.itemlore - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.itemname - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.jails - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.jump - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.kick - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.kickall - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.kill - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.kit - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.kitreset - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.kittycannon - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.lightning - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.list - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.loom - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.mail - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.me - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.more - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.motd - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.msg - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.msgtoggle - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.mute - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.near - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.nick - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.nuke - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tpoffline - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.pay - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.paytoggle - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.payconfirmtoggle - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.ping - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.playtime - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.potion - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.powertool - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.powertooltoggle - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.ptime - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.pweather - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.msg - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.rtoggle - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.realname - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.recipe - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.remove - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.renamehome - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.repair - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.rest - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.rules - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.seen - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.sell - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.sethome - true
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.setjail - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.settpr - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.setwarp - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.setworth - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.showkit - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.editsign - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.skull - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.smithingtable - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.socialspy - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.spawner - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.spawnmob - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.speed - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.stonecutter - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.sudo - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.suicide - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tempban - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tempbanip - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.thunder - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.time - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.togglejail - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.top - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tp - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tpa - true
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tpaall - true
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tpaccept - true
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tpahere - true
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tpall - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tpauto - true
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tpacancel - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tpdeny - true
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tphere - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tpo - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tpohere - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tppos - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tpr - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tptoggle - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.tree - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.unban - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.unbanip - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.unlimited - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.vanish - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.warp - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.warpinfo - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.weather - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.whois - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.workbench - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.world - false
+[08:11:04] [Paper Async Command Builder Thread Pool - 140/INFO]: checking if .wizness823 has essentials.worth - false
+[08:11:04] [Server thread/INFO]: checking if .wizness823 has essentials.sleepingignored - false
+[08:11:04] [Server thread/INFO]: looking up groupname of .wizness823 - default
+[08:11:04] [Server thread/INFO]: checking if .wizness823 has essentials.motd - false
+[08:11:04] [Server thread/INFO]: checking if .wizness823 has essentials.mail - false
+[08:11:04] [Server thread/INFO]: checking if .wizness823 has essentials.updatecheck - false
+[08:11:04] [Server thread/INFO]: checking if .wizness823 has essentials.fly.safelogin - false
+[08:11:04] [Server thread/INFO]: checking if .wizness823 has essentials.speed - false
+[08:11:04] [Geyser player thread-5-3/INFO]: Redirecting command tm to teammsg
+[08:11:04] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:teammsg to teammsg
+[08:11:04] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:tm to teammsg
+[08:11:04] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:trigger to trigger
+[08:11:04] [Geyser player thread-5-3/INFO]: Sending command packet of 26 commands
+[08:11:13] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:11:23] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:11:23] [Server thread/INFO]: checking if .wizness823 has essentials.sethome.bed - true
+[08:11:28] [Geyser player thread-5-3/INFO]: Teleport (2) from -1551.0 144.0 -1005.0
+[08:11:28] [Geyser player thread-5-3/INFO]: to -1550.5 144.0 -1003.5
+[08:11:31] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:11:33] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:11:34] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:11:34] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:11:34] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:11:43] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:11:43] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:11:43] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:11:43] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:11:44] [Geyser player thread-5-3/INFO]: Teleport (3) from -1551.7135 66.5 -1001.7
+[08:11:44] [Geyser player thread-5-3/INFO]: to -1552.1387 66.5 -1001.0934
+[08:11:44] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:11:44] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:11:45] [Geyser player thread-5-3/INFO]: Teleport (4) from -1552.5386 66.5 -1001.7
+[08:11:45] [Geyser player thread-5-3/INFO]: to -1552.2798 66.5 -1001.1295
+[08:11:48] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[08:11:57] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:11:57] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:11:58] [Geyser player thread-5-3/INFO]: Teleport (5) from -1552.1299 66.5 -1001.7
+[08:11:58] [Geyser player thread-5-3/INFO]: to -1550.5559 66.5 -1001.12866
+[08:11:58] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:11:58] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:12:00] [Geyser player thread-5-3/INFO]: Teleport (6) from -1551.1473 66.5 -1001.7
+[08:12:00] [Geyser player thread-5-3/INFO]: to -1550.2793 66.5 -1001.1391
+[08:12:05] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:12:35] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_porkchop, runtimeId=268, componentBased=false), damage=0, count=3, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:12:35] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_porkchop, runtimeId=268, componentBased=false), damage=0, count=3, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:12:37] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_porkchop, runtimeId=268, componentBased=false), damage=0, count=3, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:12:37] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_porkchop, runtimeId=268, componentBased=false), damage=0, count=2, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:13:05] [localSession-7-4/INFO]: Could not find packet for ClientboundPlayerCombatEnterPacket
+[08:13:05] [localSession-7-4/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[08:13:10] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[08:13:17] [localSession-7-4/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[08:13:32] [localSession-7-4/INFO]: Could not find packet for ClientboundPlayerCombatEndPacket
+[08:13:33] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:13:33] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:13:36] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[08:14:58] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:15:06] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:15:08] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:16:19] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[08:16:27] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[08:16:37] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:netherite_sword, runtimeId=623, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 1948926874i,
+  "RepairCost": 7i,
+  "display": {
+    "Name": "생명의 불씨"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 5s
+    },
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 13s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:16:46] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:chorus_fruit, runtimeId=575, componentBased=false), damage=0, count=18, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:16:48] [Geyser player thread-5-3/INFO]: Teleport (7) from -1551.7 144.0 -998.7306
+[08:16:48] [Geyser player thread-5-3/INFO]: to -1545.2709 67.0 -992.6813
+[08:16:48] [Server thread/WARN]: .wizness823 moved too quickly! 6.429056223189036,-77.0,6.049339732997396
+[08:16:48] [Geyser player thread-5-3/INFO]: Teleport (8) from -1545.2709 67.0 -992.6813
+[08:16:48] [Geyser player thread-5-3/INFO]: to -1545.2709 67.0 -992.6813
+[08:16:48] [Server thread/WARN]: .wizness823 moved too quickly! 6.429056223189036,-77.0,6.049339732997396
+[08:16:48] [Geyser player thread-5-3/INFO]: Teleport (9) from -1545.2709 67.0 -992.6813
+[08:16:48] [Geyser player thread-5-3/INFO]: to -1545.2709 67.0 -992.6813
+[08:16:48] [Server thread/WARN]: .wizness823 moved too quickly! 6.429056223189036,-77.0,6.049339732997396
+[08:16:48] [Geyser player thread-5-3/INFO]: Teleport (10) from -1545.2709 67.0 -992.6813
+[08:16:48] [Geyser player thread-5-3/INFO]: to -1545.2709 67.0 -992.6813
+[08:16:48] [Server thread/WARN]: .wizness823 moved too quickly! 6.429056223189036,-77.0,6.049339732997396
+[08:16:48] [Geyser player thread-5-3/INFO]: Teleport (11) from -1545.2709 67.0 -992.6813
+[08:16:48] [Geyser player thread-5-3/INFO]: to -1545.2709 67.0 -992.6813
+[08:16:48] [Server thread/WARN]: .wizness823 moved too quickly! 6.429056223189036,-77.0,6.049339732997396
+[08:16:48] [Geyser player thread-5-3/INFO]: Teleport (12) from -1545.2709 67.0 -992.6813
+[08:16:48] [Geyser player thread-5-3/INFO]: to -1545.2709 67.0 -992.6813
+[08:16:48] [Server thread/WARN]: .wizness823 moved too quickly! 6.429056223189036,-77.0,6.049339732997396
+[08:16:48] [Geyser player thread-5-3/INFO]: Teleport (13) from -1545.2709 67.0 -992.6813
+[08:16:48] [Geyser player thread-5-3/INFO]: to -1545.2709 67.0 -992.6813
+[08:16:48] [Server thread/WARN]: .wizness823 moved too quickly! 6.429056223189036,-77.0,6.049339732997396
+[08:16:48] [Geyser player thread-5-3/INFO]: Teleport (14) from -1545.2709 67.0 -992.6813
+[08:16:48] [Geyser player thread-5-3/INFO]: to -1545.2709 67.0 -992.6813
+[08:16:48] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:chorus_fruit, runtimeId=575, componentBased=false), damage=0, count=18, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:16:48] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:chorus_fruit, runtimeId=575, componentBased=false), damage=0, count=17, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:16:48] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:chorus_fruit, runtimeId=575, componentBased=false), damage=0, count=17, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:16:55] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:16:56] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:16:56] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:16:58] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:17:00] [Geyser player thread-5-3/INFO]: Teleport (15) from -1550.7 66.5 -1002.7173
+[08:17:00] [Geyser player thread-5-3/INFO]: to -1550.071 66.5 -1002.1959
+[08:17:06] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[08:17:15] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[08:17:29] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[08:17:53] [Server thread/WARN]: .wizness823 moved wrongly!, (0.4200000000000017)
+[08:17:53] [Geyser player thread-5-3/INFO]: Teleport (16) from -1570.6237 64.42 -1002.0241
+[08:17:53] [Geyser player thread-5-3/INFO]: to -1570.789 64.0 -1002.50476
+[08:18:27] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[08:18:58] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:19:03] [Geyser player thread-5-3/INFO]: Spawned item frame at location (-1444, 62, -1103) with java id 112879
+[08:19:14] [localSession-7-4/INFO]: Could not find packet for ClientboundPlayerCombatEnterPacket
+[08:19:14] [localSession-7-4/INFO]: Could not find packet for ClientboundHurtAnimationPacket
+[08:19:28] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:19:29] [localSession-7-4/INFO]: Could not find packet for ClientboundPlayerCombatEndPacket
+[08:19:51] [Geyser player thread-5-3/INFO]: Spawned item frame at location (-1444, 62, -1103) with java id 112879
+[08:19:56] [Geyser player thread-5-3/INFO]: Spawned item frame at location (-1444, 62, -1103) with java id 112879
+[08:20:22] [Geyser player thread-5-3/INFO]: Spawned item frame at location (-1444, 62, -1103) with java id 112879
+[08:20:24] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 970312808i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:20:35] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "Damage": 1i,
+  "GeyserHash": -1563916924i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:20:35] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "Damage": 1i,
+  "GeyserHash": -1563916924i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:21:10] [Server thread/INFO]: checking if .wizness823 has essentials.back.ondeath - true
+[08:21:10] [Server thread/INFO]: checking if .wizness823 has essentials.keepinv - false
+[08:21:10] [Server thread/INFO]: checking if .wizness823 has essentials.keepxp - false
+[08:21:10] [Server thread/INFO]: .wizness823 fell from a high place
+[08:21:11] [localSession-7-4/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[08:21:11] [localSession-7-4/INFO]: Could not find packet for ClientboundTickingStatePacket
+[08:21:11] [Geyser player thread-5-3/INFO]: Spawned player at -1550.5 144.0 -1003.5
+[08:21:11] [localSession-7-4/INFO]: Could not find packet for ClientboundTickingStepPacket
+[08:21:11] [localSession-7-4/INFO]: Could not find packet for ClientboundSetSimulationDistancePacket
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.afk - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.antioch - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.anvil - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.back - true
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.backup - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.balance - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.balancetop - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.ban - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.banip - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.beezooka - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.book - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.bottom - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.break - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.broadcast - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.broadcastworld - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.bigtree - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.burn - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.cartographytable - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.clearinventory - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.clearinventoryconfirmtoggle - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.condense - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.compass - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.createkit - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.customtext - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.delhome - true
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.deljail - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.delkit - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.delwarp - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.depth - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.disposal - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.eco - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.enchant - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.enderchest - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.essentials - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.exp - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.ext - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.feed - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.fly - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.fireball - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.firework - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.gamemode - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.gc - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.getpos - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.give - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.god - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.grindstone - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.hat - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.heal - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.help - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.helpop - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.home - true
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.ice - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.ignore - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.info - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.invsee - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.item - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.itemdb - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.itemlore - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.itemname - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.jails - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.jump - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.kick - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.kickall - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.kill - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.kit - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.kitreset - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.kittycannon - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.lightning - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.list - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.loom - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.mail - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.me - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.more - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.motd - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.msg - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.msgtoggle - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.mute - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.near - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.nick - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.nuke - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tpoffline - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.pay - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.paytoggle - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.payconfirmtoggle - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.ping - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.playtime - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.potion - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.powertool - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.powertooltoggle - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.ptime - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.pweather - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.msg - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.rtoggle - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.realname - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.recipe - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.remove - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.renamehome - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.repair - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.rest - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.rules - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.seen - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.sell - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.sethome - true
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.setjail - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.settpr - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.setwarp - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.setworth - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.showkit - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.editsign - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.skull - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.smithingtable - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.socialspy - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.spawner - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.spawnmob - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.speed - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.stonecutter - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.sudo - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.suicide - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tempban - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tempbanip - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.thunder - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.time - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.togglejail - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.top - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tp - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tpa - true
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tpaall - true
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tpaccept - true
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tpahere - true
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tpall - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tpauto - true
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tpacancel - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tpdeny - true
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tphere - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tpo - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tpohere - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tppos - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tpr - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tptoggle - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.tree - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.unban - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.unbanip - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.unlimited - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.vanish - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.warp - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.warpinfo - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.weather - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.whois - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.workbench - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.world - false
+[08:21:11] [Paper Async Command Builder Thread Pool - 141/INFO]: checking if .wizness823 has essentials.worth - false
+[08:21:11] [Geyser player thread-5-3/INFO]: Redirecting command tm to teammsg
+[08:21:11] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:teammsg to teammsg
+[08:21:11] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:tm to teammsg
+[08:21:11] [Geyser player thread-5-3/INFO]: Redirecting command minecraft:trigger to trigger
+[08:21:11] [Geyser player thread-5-3/INFO]: Sending command packet of 26 commands
+[08:21:11] [Geyser player thread-5-3/INFO]: Teleport (18) from -1550.5 143.23152 -1003.5
+[08:21:11] [Geyser player thread-5-3/INFO]: to -1550.5 144.0 -1003.5
+[08:21:13] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[08:21:14] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:trident, runtimeId=563, componentBased=false), damage=0, count=1, tag={
+  "Damage": 1i,
+  "GeyserHash": -1563916924i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "록신니의 아츠스태프"
+  },
+  "ench": [
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 29s,
+      "lvl": 5s
+    },
+    {
+      "id": 30s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:21:23] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:shield, runtimeId=363, componentBased=false), damage=0, count=1, tag={
+  "Damage": 290i,
+  "GeyserHash": 1760732782i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:21:28] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[08:21:35] [Geyser player thread-5-3/INFO]: Teleport (19) from -1551.8208 66.5 -1001.7
+[08:21:35] [Geyser player thread-5-3/INFO]: to -1551.813 66.5 -1001.6933
+[08:21:56] [Geyser player thread-5-3/INFO]: Teleport (20) from -1550.8875 66.5 -1001.7
+[08:21:56] [Geyser player thread-5-3/INFO]: to -1550.8413 66.5 -1001.6705
+[08:22:33] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:netherite_sword, runtimeId=623, componentBased=false), damage=0, count=1, tag={
+  "GeyserHash": 1948926874i,
+  "RepairCost": 7i,
+  "display": {
+    "Name": "생명의 불씨"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 5s
+    },
+    {
+      "id": 26s,
+      "lvl": 1s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    },
+    {
+      "id": 13s,
+      "lvl": 2s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:22:45] [Geyser player thread-5-3/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_pickaxe, runtimeId=304, componentBased=false), damage=0, count=1, tag={
+  "Damage": 249i,
+  "GeyserHash": 1760732735i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[08:22:45] [Server thread/INFO]: checking if .wizness823 has essentials.sethome.bed - true
+[08:22:50] [Geyser player thread-5-3/INFO]: Teleport (21) from -1551.0 144.0 -1005.0
+[08:22:50] [Geyser player thread-5-3/INFO]: to -1550.5 144.0 -1003.5
+[08:22:53] [localSession-7-4/INFO]: wizness823(이)가 Java 서버에서 사유 베드락 클라이언트 연결 끊김로 인하여 접속이 종료되었습니다
+[08:22:53] [Geyser Spigot connection thread-6-1/INFO]: Floodgate player logged in as .wizness823 disconnected
+[08:22:53] [Server thread/INFO]: .wizness823 lost connection: Disconnected
+[08:22:53] [Server thread/INFO]: [93m.wizness823 left the game[0m
+[08:24:13] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[08:26:11] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[08:26:37] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[08:27:33] [Thread-5/INFO]: Scoreboard updater: took 5 ms. Updated 0 players
+[08:28:57] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players

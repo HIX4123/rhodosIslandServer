@@ -2028,3 +2028,30 @@
 }, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
 [02:59:58] [Geyser player thread-5-4/INFO]: Teleport (4) from -1551.7214 66.5 -1001.7
 [02:59:58] [Geyser player thread-5-4/INFO]: to -1552.2356 66.5 -1001.55615
+[03:00:28] [localSession-7-1/INFO]: wizness823(이)가 Java 서버에서 사유 베드락 클라이언트 연결 끊김로 인하여 접속이 종료되었습니다
+[03:00:28] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .wizness823 disconnected
+[03:00:28] [Server thread/INFO]: .wizness823 lost connection: Disconnected
+[03:00:28] [Server thread/INFO]: [93m.wizness823 left the game[0m
+[03:00:28] [epollEventLoopGroup-3-1/INFO]: /211.36.138.173:65198에서 정보를 수신했습니다!
+[03:00:34] [epollEventLoopGroup-3-1/INFO]: /211.36.138.173:65198에서 정보를 수신했습니다!
+[03:00:34] [epollEventLoopGroup-3-1/INFO]: /211.36.138.173:65198에서 정보를 수신했습니다!
+[03:02:05] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:09:46] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:10:53] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:11:53] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:12:54] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:14:25] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:14:25] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:19:22] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:19:54] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:20:25] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:21:09] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:21:33] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:23:34] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:24:08] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:24:39] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:26:01] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:27:04] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:27:45] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:27:52] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[03:28:24] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players

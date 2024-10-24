@@ -2862,3 +2862,34 @@
 [06:28:49] [Geyser player thread-5-2/INFO]: Teleport (2) from -2142.109 63.104164 509.20563
 [06:28:49] [Geyser player thread-5-2/INFO]: to -2142.932 62.11052 509.79434
 [06:29:49] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[06:31:16] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[06:31:35] [Geyser player thread-5-2/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:iron_axe, runtimeId=322, componentBased=false), damage=0, count=1, tag={
+  "Damage": 27i,
+  "GeyserHash": 1760737653i
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[06:31:45] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[06:31:51] [localSession-7-3/INFO]: syhana7338(이)가 Java 서버에서 사유 베드락 클라이언트 연결 끊김로 인하여 접속이 종료되었습니다
+[06:31:51] [Geyser Spigot connection thread-6-4/INFO]: Floodgate player logged in as .syhana7338 disconnected
+[06:31:51] [Server thread/INFO]: .syhana7338 lost connection: Disconnected
+[06:31:51] [Server thread/INFO]: [93m.syhana7338 left the game[0m
+[06:34:10] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:36:52] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:37:42] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:38:02] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:39:13] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:39:36] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:39:54] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:41:42] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:41:56] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:43:07] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:43:53] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:45:09] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:45:33] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:48:24] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:51:05] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:51:46] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:53:56] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:54:06] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:57:56] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:57:59] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[06:58:18] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players

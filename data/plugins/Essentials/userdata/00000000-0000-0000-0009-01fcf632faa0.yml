@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1729751511923
   login: 1729751286832
 money: '0'
 last-account-name: .syhana7338
+logoutlocation:
+  world: 35e51f71-2762-4a97-867c-3dcaf3af7bee
+  world-name: world
+  x: -2295.26220703125
+  y: 62.23747863769531
+  z: 46.39272689819336
+  yaw: 133.5064697265625
+  pitch: 16.233367919921875

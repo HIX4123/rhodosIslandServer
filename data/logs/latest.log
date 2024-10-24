@@ -21479,3 +21479,147 @@ java.lang.Exception: §4다음 텔레포트까지 필요한 시간:§c 4 초§4.
   ]
 }, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
 [15:29:07] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:30:10] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 133i,
+  "GeyserHash": 794160742i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:30:14] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 133i,
+  "GeyserHash": 794160742i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:30:34] [Server thread/WARN]: .Tyrine74 moved wrongly!, (0.4200000000000017)
+[15:30:34] [Geyser player thread-5-1/INFO]: Teleport (21) from -1497.6527 70.42 -1001.0187
+[15:30:34] [Geyser player thread-5-1/INFO]: to -1497.783 70.0 -1000.69995
+[15:30:59] [Geyser player thread-5-1/INFO]: Teleport (22) from -1552.1279 66.5 -1004.3
+[15:30:59] [Geyser player thread-5-1/INFO]: to -1552.0831 66.5 -1004.45154
+[15:31:00] [Geyser player thread-5-1/INFO]: Teleport (23) from -1552.0916 66.5 -1004.3
+[15:31:00] [Geyser player thread-5-1/INFO]: to -1552.0879 66.5 -1004.3242
+[15:31:00] [Geyser player thread-5-1/INFO]: Teleport (24) from -1552.0712 66.5 -1004.3
+[15:31:00] [Geyser player thread-5-1/INFO]: to -1552.0879 66.5 -1004.3242
+[15:31:00] [Geyser player thread-5-1/INFO]: Teleport (25) from -1552.0765 66.5 -1004.3
+[15:31:00] [Geyser player thread-5-1/INFO]: to -1552.0879 66.5 -1004.3242
+[15:31:00] [Geyser player thread-5-1/INFO]: Teleport (26) from -1552.0646 66.5 -1004.3
+[15:31:00] [Geyser player thread-5-1/INFO]: to -1552.0879 66.5 -1004.3242
+[15:31:00] [Geyser player thread-5-1/INFO]: Teleport (27) from -1552.0588 66.5 -1004.3
+[15:31:00] [Geyser player thread-5-1/INFO]: to -1552.0879 66.5 -1004.3242
+[15:31:00] [Geyser player thread-5-1/INFO]: Teleport (28) from -1552.0631 66.5 -1004.3
+[15:31:00] [Geyser player thread-5-1/INFO]: to -1552.0879 66.5 -1004.3242
+[15:31:25] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=64, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:31:27] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=64, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:31:27] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:cooked_beef, runtimeId=279, componentBased=false), damage=0, count=63, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:31:32] [Geyser player thread-5-1/INFO]: Teleport (29) from -1526.1125 65.42 -1024.7002
+[15:31:32] [Geyser player thread-5-1/INFO]: to -1525.9384 65.0 -1024.3066
+[15:31:36] [Geyser player thread-5-1/INFO]: Spawned item frame at location (-1444, 62, -1103) with java id 112879
+[15:31:43] [Geyser player thread-5-1/INFO]: Spawned item frame at location (-1444, 62, -1103) with java id 112879
+[15:31:52] [Geyser player thread-5-1/INFO]: Spawned item frame at location (-1444, 62, -1103) with java id 112879
+[15:32:21] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:wheat_seeds, runtimeId=296, componentBased=false), damage=0, count=64, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:32:43] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:32:53] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:wheat_seeds, runtimeId=296, componentBased=false), damage=0, count=64, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:33:02] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:wheat_seeds, runtimeId=296, componentBased=false), damage=0, count=62, tag=null, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:33:13] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 133i,
+  "GeyserHash": 794160742i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:33:19] [Geyser player thread-5-1/INFO]: Missing mapping for bedrock item BaseItemData(definition=SimpleItemDefinition(identifier=minecraft:diamond_sword, runtimeId=323, componentBased=false), damage=0, count=1, tag={
+  "Damage": 133i,
+  "GeyserHash": 794160742i,
+  "RepairCost": 1i,
+  "display": {
+    "Name": "리네의 검★"
+  },
+  "ench": [
+    {
+      "id": 9s,
+      "lvl": 4s
+    },
+    {
+      "id": 14s,
+      "lvl": 3s
+    },
+    {
+      "id": 17s,
+      "lvl": 3s
+    }
+  ]
+}, canPlace=[], canBreak=[], blockingTicks=0, blockDefinition=GeyserBedrockBlock{minecraft:cyan_terracotta}, usingNetId=false, netId=0)
+[15:33:39] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:33:45] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:36:42] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:37:25] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:37:26] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:38:21] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 1 players
+[15:38:36] [Server thread/INFO]: .Tyrine74 lost connection: You have been idle for too long!
+[15:38:36] [Geyser Spigot connection thread-6-2/INFO]: Floodgate player logged in as .Tyrine74 disconnected
+[15:38:36] [localSession-7-1/INFO]: Tyrine74(이)가 Java 서버에서 사유 너무 오랫동안 가만히 있었습니다!로 인하여 접속이 종료되었습니다
+[15:38:36] [Server thread/INFO]: [93m.Tyrine74 left the game[0m
+[15:40:57] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[15:41:00] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[15:41:24] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[15:41:25] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[15:43:52] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[15:44:44] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[15:45:23] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[15:45:33] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[15:45:37] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[15:49:20] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[15:49:30] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[15:49:34] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[15:51:02] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[15:51:09] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[15:54:28] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[15:55:32] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
+[15:58:12] [Thread-5/INFO]: Scoreboard updater: took 1 ms. Updated 0 players
